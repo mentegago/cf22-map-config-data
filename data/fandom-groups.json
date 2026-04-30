@@ -895,7 +895,8 @@
       "Resident Evil",
       "Resident Evil 9",
       "Re9",
-      "Resident Evil Requiem 9"
+      "Resident Evil Requiem 9",
+      "Resident Evil 9 Requiem"
     ]
   },
   {
@@ -1351,7 +1352,8 @@
       "Roblox (dandy's World, Flamingo)",
       "Roblox Hq",
       "Roblox Myth",
-      "Bee Swarm Simulator"
+      "Bee Swarm Simulator",
+      "Roblox (world Tower Defense, Die Of Death)"
     ]
   },
   {
@@ -1883,7 +1885,8 @@
   {
     "canonical": "Land of the Lustrous",
     "variants": [
-      "Houseki No Kuni"
+      "Houseki No Kuni",
+      "Land Of The Lustrous (houseki No Kuni)"
     ]
   },
   {
@@ -2812,7 +2815,8 @@
       "Dandy's World",
       "Dandy’s World",
       "Roblox (dandy's World, Flamingo)",
-      "Dandysworld"
+      "Dandysworld",
+      "Dandys World"
     ]
   },
   {
@@ -3570,7 +3574,8 @@
       "Bfdi/tpot",
       "Hfjone",
       "Object Show Community",
-      "Osc/bfdi"
+      "Osc/bfdi",
+      "Object Shows (inanimate Insanity, Itft, Bfdi)"
     ]
   },
   {
@@ -3810,7 +3815,8 @@
     "variants": [
       "Automotive",
       "Mobil",
-      "Mobil2"
+      "Mobil2",
+      "Mobil/ Otomotif"
     ]
   },
   {
@@ -7723,6 +7729,18 @@
     "canonical": "Rotmb",
     "variants": [
       "Rotmb"
+    ]
+  },
+  {
+    "canonical": "9-nine-",
+    "variants": [
+      "9-nine-"
+    ]
+  },
+  {
+    "canonical": "Band",
+    "variants": [
+      "Band"
     ]
   }
 ]

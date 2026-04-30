@@ -1,19 +1,19 @@
 [
   {
     "fandom": "Original",
-    "count": 488
+    "count": 490
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 349
+    "count": 351
   },
   {
     "fandom": "Genshin Impact",
-    "count": 336
+    "count": 337
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 189
+    "count": 190
   },
   {
     "fandom": "Uma Musume",
@@ -21,7 +21,7 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 154
+    "count": 155
   },
   {
     "fandom": "Alien Stage",
@@ -29,11 +29,11 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 131
+    "count": 130
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 127
+    "count": 128
   },
   {
     "fandom": "HoYoverse",
@@ -77,7 +77,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 80
+    "count": 79
   },
   {
     "fandom": "One Piece",
@@ -101,11 +101,11 @@
   },
   {
     "fandom": "Arknights: Endfield",
-    "count": 60
+    "count": 61
   },
   {
     "fandom": "Delicious in Dungeon",
-    "count": 60
+    "count": 61
   },
   {
     "fandom": "NIJISANJI",
@@ -113,7 +113,7 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 52
+    "count": 51
   },
   {
     "fandom": "Persona",
@@ -132,16 +132,16 @@
     "count": 44
   },
   {
-    "fandom": "Anime",
-    "count": 42
-  },
-  {
     "fandom": "Deltarune",
     "count": 42
   },
   {
     "fandom": "The Summer Hikaru Died",
     "count": 42
+  },
+  {
+    "fandom": "Anime",
+    "count": 41
   },
   {
     "fandom": "Blue Lock",
@@ -152,11 +152,11 @@
     "count": 41
   },
   {
-    "fandom": "Twisted Wonderland",
-    "count": 41
+    "fandom": "Identity V",
+    "count": 40
   },
   {
-    "fandom": "Identity V",
+    "fandom": "Twisted Wonderland",
     "count": 40
   },
   {
@@ -180,16 +180,12 @@
     "count": 33
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Sonic the Hedgehog",
     "count": 33
   },
   {
-    "fandom": "Sonic the Hedgehog",
-    "count": 32
-  },
-  {
-    "fandom": "Limbus Company",
-    "count": 31
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 33
   },
   {
     "fandom": "Marvel",
@@ -208,20 +204,20 @@
     "count": 30
   },
   {
-    "fandom": "The Amazing Digital Circus",
-    "count": 28
-  },
-  {
-    "fandom": "BanG Dream!",
-    "count": 27
+    "fandom": "Limbus Company",
+    "count": 30
   },
   {
     "fandom": "Resident Evil",
-    "count": 27
+    "count": 29
   },
   {
-    "fandom": "Puella Magi Madoka Magica",
-    "count": 27
+    "fandom": "BanG Dream!",
+    "count": 28
+  },
+  {
+    "fandom": "The Amazing Digital Circus",
+    "count": 28
   },
   {
     "fandom": "Valorant",
@@ -232,11 +228,15 @@
     "count": 26
   },
   {
-    "fandom": "Sakamoto Days",
-    "count": 25
+    "fandom": "Hazbin Hotel",
+    "count": 26
   },
   {
-    "fandom": "Hazbin Hotel",
+    "fandom": "Puella Magi Madoka Magica",
+    "count": 26
+  },
+  {
+    "fandom": "Sakamoto Days",
     "count": 25
   },
   {
@@ -328,6 +328,10 @@
     "count": 20
   },
   {
+    "fandom": "Arcane",
+    "count": 20
+  },
+  {
     "fandom": "Bocchi the Rock!",
     "count": 19
   },
@@ -340,11 +344,11 @@
     "count": 19
   },
   {
-    "fandom": "Arcane",
+    "fandom": "Fate/Grand Order",
     "count": 19
   },
   {
-    "fandom": "Fate/Grand Order",
+    "fandom": "Needy Streamer Overload",
     "count": 19
   },
   {
@@ -356,19 +360,15 @@
     "count": 19
   },
   {
+    "fandom": "Trigun",
+    "count": 19
+  },
+  {
     "fandom": "Devil May Cry",
     "count": 18
   },
   {
-    "fandom": "Needy Streamer Overload",
-    "count": 18
-  },
-  {
     "fandom": "Mob Psycho 100",
-    "count": 18
-  },
-  {
-    "fandom": "Trigun",
     "count": 18
   },
   {
@@ -396,11 +396,19 @@
     "count": 16
   },
   {
+    "fandom": "Touhou",
+    "count": 16
+  },
+  {
     "fandom": "Final Fantasy XIV",
     "count": 16
   },
   {
     "fandom": "Digimon",
+    "count": 16
+  },
+  {
+    "fandom": "Dr. STONE",
     "count": 16
   },
   {
@@ -413,14 +421,6 @@
   },
   {
     "fandom": "Final Fantasy",
-    "count": 15
-  },
-  {
-    "fandom": "Touhou",
-    "count": 15
-  },
-  {
-    "fandom": "Dr. STONE",
     "count": 15
   },
   {
@@ -465,10 +465,6 @@
   },
   {
     "fandom": "18trip",
-    "count": 14
-  },
-  {
-    "fandom": "Gintama",
     "count": 14
   },
   {
@@ -517,6 +513,10 @@
   },
   {
     "fandom": "Where Winds Meet",
+    "count": 13
+  },
+  {
+    "fandom": "Gintama",
     "count": 13
   },
   {
@@ -596,6 +596,10 @@
     "count": 11
   },
   {
+    "fandom": "Dandy's World",
+    "count": 11
+  },
+  {
     "fandom": "Death Note",
     "count": 10
   },
@@ -645,10 +649,6 @@
   },
   {
     "fandom": "Degrees of Lewdity",
-    "count": 10
-  },
-  {
-    "fandom": "Dandy's World",
     "count": 10
   },
   {
@@ -808,10 +808,6 @@
     "count": 7
   },
   {
-    "fandom": "NieR: Automata",
-    "count": 7
-  },
-  {
     "fandom": "Yakuza",
     "count": 7
   },
@@ -833,6 +829,10 @@
   },
   {
     "fandom": "Indie VTuber",
+    "count": 7
+  },
+  {
+    "fandom": "Pikmin",
     "count": 7
   },
   {
@@ -880,7 +880,7 @@
     "count": 6
   },
   {
-    "fandom": "Final Fantasy VII",
+    "fandom": "NieR: Automata",
     "count": 6
   },
   {
@@ -912,15 +912,15 @@
     "count": 6
   },
   {
+    "fandom": "Helluva Boss",
+    "count": 6
+  },
+  {
     "fandom": "Kagerou Project",
     "count": 6
   },
   {
     "fandom": "Furry",
-    "count": 6
-  },
-  {
-    "fandom": "Pikmin",
     "count": 6
   },
   {
@@ -972,7 +972,7 @@
     "count": 6
   },
   {
-    "fandom": "Golden Kamuy",
+    "fandom": "Kuroko's Basketball",
     "count": 6
   },
   {
@@ -1008,6 +1008,10 @@
     "count": 5
   },
   {
+    "fandom": "Final Fantasy VII",
+    "count": 5
+  },
+  {
     "fandom": "Cosmic Princess Kaguya",
     "count": 5
   },
@@ -1029,10 +1033,6 @@
   },
   {
     "fandom": "Mecha",
-    "count": 5
-  },
-  {
-    "fandom": "Helluva Boss",
     "count": 5
   },
   {
@@ -1108,7 +1108,7 @@
     "count": 5
   },
   {
-    "fandom": "Kuroko's Basketball",
+    "fandom": "Golden Kamuy",
     "count": 5
   },
   {
@@ -1120,7 +1120,11 @@
     "count": 5
   },
   {
-    "fandom": "Stella Sora",
+    "fandom": "Medalist",
+    "count": 5
+  },
+  {
+    "fandom": "Land of the Lustrous",
     "count": 5
   },
   {
@@ -1232,6 +1236,10 @@
     "count": 4
   },
   {
+    "fandom": "Overwatch",
+    "count": 4
+  },
+  {
     "fandom": "Disco Elysium",
     "count": 4
   },
@@ -1244,15 +1252,7 @@
     "count": 4
   },
   {
-    "fandom": "Medalist",
-    "count": 4
-  },
-  {
     "fandom": "SIGNALIS",
-    "count": 4
-  },
-  {
-    "fandom": "Land of the Lustrous",
     "count": 4
   },
   {
@@ -1265,6 +1265,10 @@
   },
   {
     "fandom": "Gorillaz",
+    "count": 4
+  },
+  {
+    "fandom": "Stella Sora",
     "count": 4
   },
   {
@@ -1441,10 +1445,6 @@
   },
   {
     "fandom": "K-On!",
-    "count": 3
-  },
-  {
-    "fandom": "Overwatch",
     "count": 3
   },
   {
@@ -2085,6 +2085,10 @@
   },
   {
     "fandom": "Paradise Kiss",
+    "count": 2
+  },
+  {
+    "fandom": "Bandom",
     "count": 2
   },
   {
@@ -3084,6 +3088,10 @@
     "count": 1
   },
   {
+    "fandom": "9-nine-",
+    "count": 1
+  },
+  {
     "fandom": "Aokana: Four Rhythm Across the Blue",
     "count": 1
   },
@@ -3173,10 +3181,6 @@
   },
   {
     "fandom": "Czn",
-    "count": 1
-  },
-  {
-    "fandom": "Lupin the Third",
     "count": 1
   },
   {
@@ -3512,6 +3516,10 @@
     "count": 1
   },
   {
+    "fandom": "Band",
+    "count": 1
+  },
+  {
     "fandom": "Lovebruh Chronicles",
     "count": 1
   },
@@ -3553,10 +3561,6 @@
   },
   {
     "fandom": "Paul Dano",
-    "count": 1
-  },
-  {
-    "fandom": "Bandom",
     "count": 1
   },
   {
