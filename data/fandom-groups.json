@@ -2229,6 +2229,26 @@
       "Idolmaster",
       "Project Im@s",
       "Idolm@ster Shinycolors",
+      "Shiny Colors",
+      "Gakuen Idolmaster",
+      "Gakumas",
+      "Hatsuboshi Gakuen",
+      "Idolmaster Cinderella Girls",
+      "The Idolm@ster Cinderella Girls",
+      "The Idolmaster Million Live!",
+      "The Idolm@ster Million Live!",
+      "Million Live",
+      "Mirishita",
+      "The Idolmaster SideM",
+      "The Idolm@ster SideM",
+      "Side-m",
+      "SideM"
+    ]
+  },
+  {
+    "canonical": "Idolmaster: Shiny Colors",
+    "variants": [
+      "Idolm@ster Shinycolors",
       "Shiny Colors"
     ]
   },
@@ -2961,6 +2981,13 @@
       "Love Live Hasunosora",
       "Lovelive",
       "Love Live! School Idol Project"
+    ]
+  },
+  {
+    "canonical": "Love Live! Hasunosora (Link! Like! Love Live!)",
+    "variants": [
+      "Love Live! Hasunosora",
+      "Love Live Hasunosora"
     ]
   },
   {
@@ -5407,7 +5434,7 @@
     ]
   },
   {
-    "canonical": "Tamon B Side",
+    "canonical": "Tamon's B Side",
     "variants": [
       "Tamon B Side",
       "Tamon's B-side",
@@ -7656,16 +7683,18 @@
     ]
   },
   {
-    "canonical": "The Idolm@ster Million Live!",
+    "canonical": "The Idolmaster Million Live!",
     "variants": [
+      "The Idolmaster Million Live!",
       "The Idolm@ster Million Live!",
       "Million Live",
       "Mirishita"
     ]
   },
   {
-    "canonical": "The Idolm@ster SideM",
+    "canonical": "The Idolmaster SideM",
     "variants": [
+      "The Idolmaster SideM",
       "The Idolm@ster SideM",
       "Side-m",
       "SideM"
