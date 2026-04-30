@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 486
+    "count": 487
   },
   {
     "fandom": "Honkai Star Rail",
@@ -133,18 +133,22 @@
   },
   {
     "fandom": "Anime",
-    "count": 43
-  },
-  {
-    "fandom": "The Summer Hikaru Died",
-    "count": 43
+    "count": 42
   },
   {
     "fandom": "Deltarune",
     "count": 42
   },
   {
+    "fandom": "The Summer Hikaru Died",
+    "count": 42
+  },
+  {
     "fandom": "Blue Lock",
+    "count": 41
+  },
+  {
+    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
     "count": 41
   },
   {
@@ -153,10 +157,6 @@
   },
   {
     "fandom": "Identity V",
-    "count": 40
-  },
-  {
-    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
     "count": 40
   },
   {
@@ -208,19 +208,23 @@
     "count": 30
   },
   {
-    "fandom": "BanG Dream!",
+    "fandom": "The Amazing Digital Circus",
     "count": 28
   },
   {
-    "fandom": "The Amazing Digital Circus",
-    "count": 28
+    "fandom": "BanG Dream!",
+    "count": 27
+  },
+  {
+    "fandom": "Resident Evil",
+    "count": 27
   },
   {
     "fandom": "Puella Magi Madoka Magica",
     "count": 27
   },
   {
-    "fandom": "Resident Evil",
+    "fandom": "Valorant",
     "count": 26
   },
   {
@@ -229,10 +233,6 @@
   },
   {
     "fandom": "Sakamoto Days",
-    "count": 25
-  },
-  {
-    "fandom": "Valorant",
     "count": 25
   },
   {
@@ -292,10 +292,6 @@
     "count": 21
   },
   {
-    "fandom": "Hollow Knight",
-    "count": 21
-  },
-  {
     "fandom": "Bungo Stray Dogs",
     "count": 21
   },
@@ -313,6 +309,10 @@
   },
   {
     "fandom": "Cat",
+    "count": 20
+  },
+  {
+    "fandom": "Hollow Knight",
     "count": 20
   },
   {
@@ -404,10 +404,6 @@
     "count": 16
   },
   {
-    "fandom": "Tamon B Side",
-    "count": 16
-  },
-  {
     "fandom": "Path to Nowhere",
     "count": 16
   },
@@ -429,6 +425,10 @@
   },
   {
     "fandom": "Honkai Impact 3rd",
+    "count": 15
+  },
+  {
+    "fandom": "Tamon B Side",
     "count": 15
   },
   {
@@ -532,10 +532,6 @@
     "count": 13
   },
   {
-    "fandom": "Cardcaptor Sakura",
-    "count": 12
-  },
-  {
     "fandom": "Transformers",
     "count": 12
   },
@@ -574,6 +570,10 @@
   {
     "fandom": "Black Butler",
     "count": 12
+  },
+  {
+    "fandom": "Cardcaptor Sakura",
+    "count": 11
   },
   {
     "fandom": "Kamen Rider",
@@ -708,6 +708,10 @@
     "count": 9
   },
   {
+    "fandom": "Ave Mujica",
+    "count": 9
+  },
+  {
     "fandom": "Heaven Official's Blessing",
     "count": 9
   },
@@ -776,10 +780,6 @@
     "count": 8
   },
   {
-    "fandom": "Ave Mujica",
-    "count": 8
-  },
-  {
     "fandom": "Soul Eater",
     "count": 8
   },
@@ -809,6 +809,10 @@
   },
   {
     "fandom": "Yakuza",
+    "count": 7
+  },
+  {
+    "fandom": "Katekyo Hitman Reborn!",
     "count": 7
   },
   {
@@ -889,10 +893,6 @@
   },
   {
     "fandom": "Fantasy",
-    "count": 6
-  },
-  {
-    "fandom": "Katekyo Hitman Reborn!",
     "count": 6
   },
   {
@@ -1144,6 +1144,10 @@
     "count": 5
   },
   {
+    "fandom": "MyGO!!!!!",
+    "count": 4
+  },
+  {
     "fandom": "Tamagotchi",
     "count": 4
   },
@@ -1294,10 +1298,6 @@
   {
     "fandom": "GDCG",
     "count": 4
-  },
-  {
-    "fandom": "MyGO!!!!!",
-    "count": 3
   },
   {
     "fandom": "Berserk",
@@ -2229,10 +2229,6 @@
   },
   {
     "fandom": ".flow",
-    "count": 1
-  },
-  {
-    "fandom": "Wizardry",
     "count": 1
   },
   {
