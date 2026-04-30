@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 487
+    "count": 488
   },
   {
     "fandom": "Honkai Star Rail",
@@ -9,7 +9,7 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 334
+    "count": 336
   },
   {
     "fandom": "Love and Deepspace",
@@ -45,7 +45,7 @@
   },
   {
     "fandom": "Arknights",
-    "count": 108
+    "count": 109
   },
   {
     "fandom": "VTuber",
@@ -85,15 +85,15 @@
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
-    "count": 74
+    "count": 75
+  },
+  {
+    "fandom": "Chainsaw Man",
+    "count": 71
   },
   {
     "fandom": "DC Comics",
     "count": 71
-  },
-  {
-    "fandom": "Chainsaw Man",
-    "count": 70
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
@@ -161,11 +161,11 @@
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
-    "count": 39
+    "count": 40
   },
   {
     "fandom": "Gachiakuta",
-    "count": 38
+    "count": 39
   },
   {
     "fandom": "Wind Breaker",
@@ -296,11 +296,19 @@
     "count": 21
   },
   {
+    "fandom": "Idolmaster",
+    "count": 21
+  },
+  {
     "fandom": "Minecraft",
     "count": 21
   },
   {
     "fandom": "ALNST",
+    "count": 21
+  },
+  {
+    "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
   },
   {
@@ -317,10 +325,6 @@
   },
   {
     "fandom": "Undertale",
-    "count": 20
-  },
-  {
-    "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 20
   },
   {
@@ -428,7 +432,7 @@
     "count": 15
   },
   {
-    "fandom": "Tamon B Side",
+    "fandom": "Tamon's B Side",
     "count": 15
   },
   {
@@ -485,10 +489,6 @@
   },
   {
     "fandom": "SEVENTEEN",
-    "count": 14
-  },
-  {
-    "fandom": "Idolmaster",
     "count": 14
   },
   {
@@ -784,6 +784,10 @@
     "count": 8
   },
   {
+    "fandom": "Karaoke Iko!",
+    "count": 8
+  },
+  {
     "fandom": "Debut or Die",
     "count": 8
   },
@@ -860,10 +864,6 @@
     "count": 7
   },
   {
-    "fandom": "Karaoke Iko!",
-    "count": 7
-  },
-  {
     "fandom": "Yohaji",
     "count": 7
   },
@@ -892,6 +892,10 @@
     "count": 6
   },
   {
+    "fandom": "Stray Kids",
+    "count": 6
+  },
+  {
     "fandom": "Fantasy",
     "count": 6
   },
@@ -901,6 +905,10 @@
   },
   {
     "fandom": "Heartopia",
+    "count": 6
+  },
+  {
+    "fandom": "BY THE BEAT",
     "count": 6
   },
   {
@@ -1024,10 +1032,6 @@
     "count": 5
   },
   {
-    "fandom": "BY THE BEAT",
-    "count": 5
-  },
-  {
     "fandom": "Helluva Boss",
     "count": 5
   },
@@ -1045,10 +1049,6 @@
   },
   {
     "fandom": "Conclave",
-    "count": 5
-  },
-  {
-    "fandom": "Stray Kids",
     "count": 5
   },
   {
@@ -1968,6 +1968,10 @@
     "count": 2
   },
   {
+    "fandom": "Idolmaster: Shiny Colors",
+    "count": 2
+  },
+  {
     "fandom": "Higurashi: When They Cry",
     "count": 2
   },
@@ -2145,6 +2149,10 @@
   },
   {
     "fandom": "S-Classes That I Raised",
+    "count": 2
+  },
+  {
+    "fandom": "Villains Are Destined to Die",
     "count": 2
   },
   {
@@ -2596,6 +2604,10 @@
     "count": 1
   },
   {
+    "fandom": "Love Live! Hasunosora (Link! Like! Love Live!)",
+    "count": 1
+  },
+  {
     "fandom": "Dead by Daylight",
     "count": 1
   },
@@ -2972,6 +2984,10 @@
     "count": 1
   },
   {
+    "fandom": "Indie Komik",
+    "count": 1
+  },
+  {
     "fandom": "Ikemen Revolution",
     "count": 1
   },
@@ -3100,11 +3116,11 @@
     "count": 1
   },
   {
-    "fandom": "The Idolm@ster Million Live!",
+    "fandom": "The Idolmaster Million Live!",
     "count": 1
   },
   {
-    "fandom": "The Idolm@ster SideM",
+    "fandom": "The Idolmaster SideM",
     "count": 1
   },
   {
@@ -3920,6 +3936,14 @@
     "count": 1
   },
   {
+    "fandom": "Rotmb",
+    "count": 1
+  },
+  {
+    "fandom": "The Hunter Who Is Being Misunderstood",
+    "count": 1
+  },
+  {
     "fandom": "Western Game",
     "count": 1
   },
@@ -4265,10 +4289,6 @@
   },
   {
     "fandom": "That Time I Got Reincarnated as a Slime",
-    "count": 1
-  },
-  {
-    "fandom": "Villains Are Destined to Die",
     "count": 1
   }
 ]

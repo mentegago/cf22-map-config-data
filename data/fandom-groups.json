@@ -612,7 +612,8 @@
     "variants": [
       "Chainsaw Man",
       "Chainsawman",
-      "Csm"
+      "Csm",
+      "Chainsawman (csm)"
     ]
   },
   {
@@ -7704,6 +7705,24 @@
     "canonical": "Shigure Ui",
     "variants": [
       "Shigure Ui"
+    ]
+  },
+  {
+    "canonical": "Indie Komik",
+    "variants": [
+      "Indie Komik"
+    ]
+  },
+  {
+    "canonical": "The Hunter Who Is Being Misunderstood",
+    "variants": [
+      "The Hunter Who Is Being Misunderstood"
+    ]
+  },
+  {
+    "canonical": "Rotmb",
+    "variants": [
+      "Rotmb"
     ]
   }
 ]
