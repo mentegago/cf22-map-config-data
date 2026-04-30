@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "creators": [
     {
       "id": 7851,
@@ -3918,7 +3918,9 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3682671a-f797-427d-9a66-7c1c0c134708/ab47cd62-7cf5-41b1-98fd-02868d7f7f95/AD-27.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NONIKARTS.jpg",
       "circle_code": "AD-27"
     },
