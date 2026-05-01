@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 492
+    "count": 493
   },
   {
     "fandom": "Honkai Star Rail",
@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 131
+    "count": 132
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -68,12 +68,12 @@
     "count": 87
   },
   {
-    "fandom": "PLAVE",
+    "fandom": "Project SEKAI",
     "count": 87
   },
   {
-    "fandom": "Project SEKAI",
-    "count": 86
+    "fandom": "PLAVE",
+    "count": 87
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
@@ -85,15 +85,15 @@
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
-    "count": 75
+    "count": 74
   },
   {
     "fandom": "Chainsaw Man",
-    "count": 71
+    "count": 72
   },
   {
     "fandom": "DC Comics",
-    "count": 71
+    "count": 72
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
@@ -196,6 +196,10 @@
     "count": 30
   },
   {
+    "fandom": "Resident Evil",
+    "count": 30
+  },
+  {
     "fandom": "Animal",
     "count": 30
   },
@@ -206,10 +210,6 @@
   {
     "fandom": "Limbus Company",
     "count": 30
-  },
-  {
-    "fandom": "Resident Evil",
-    "count": 29
   },
   {
     "fandom": "The Amazing Digital Circus",
@@ -272,6 +272,10 @@
     "count": 22
   },
   {
+    "fandom": "Undertale",
+    "count": 22
+  },
+  {
     "fandom": "Shoujo",
     "count": 22
   },
@@ -304,11 +308,11 @@
     "count": 21
   },
   {
-    "fandom": "Undertale",
+    "fandom": "Bungo Stray Dogs",
     "count": 21
   },
   {
-    "fandom": "Bungo Stray Dogs",
+    "fandom": "Arcane",
     "count": 21
   },
   {
@@ -328,8 +332,8 @@
     "count": 20
   },
   {
-    "fandom": "Arcane",
-    "count": 20
+    "fandom": "Devil May Cry",
+    "count": 19
   },
   {
     "fandom": "Monster Hunter",
@@ -360,10 +364,6 @@
     "count": 19
   },
   {
-    "fandom": "Devil May Cry",
-    "count": 18
-  },
-  {
     "fandom": "Mob Psycho 100",
     "count": 18
   },
@@ -388,7 +388,7 @@
     "count": 17
   },
   {
-    "fandom": "Hatsune Miku",
+    "fandom": "Final Fantasy",
     "count": 16
   },
   {
@@ -416,7 +416,7 @@
     "count": 16
   },
   {
-    "fandom": "Final Fantasy",
+    "fandom": "Hatsune Miku",
     "count": 15
   },
   {
@@ -656,6 +656,10 @@
     "count": 10
   },
   {
+    "fandom": "Dungeons & Dragons",
+    "count": 9
+  },
+  {
     "fandom": "IDOLiSH7",
     "count": 9
   },
@@ -713,10 +717,6 @@
   },
   {
     "fandom": "Kingdom Hearts",
-    "count": 8
-  },
-  {
-    "fandom": "Dungeons & Dragons",
     "count": 8
   },
   {
@@ -1276,6 +1276,10 @@
     "count": 4
   },
   {
+    "fandom": "Kingdom Come: Deliverance",
+    "count": 4
+  },
+  {
     "fandom": "DEADLOCK",
     "count": 4
   },
@@ -1297,10 +1301,6 @@
   },
   {
     "fandom": "Charisma",
-    "count": 4
-  },
-  {
-    "fandom": "Manhwa",
     "count": 4
   },
   {
@@ -1337,6 +1337,10 @@
   },
   {
     "fandom": "Got Dropped In A Ghost Story",
+    "count": 3
+  },
+  {
+    "fandom": "Frankenstein",
     "count": 3
   },
   {
@@ -1405,6 +1409,10 @@
   },
   {
     "fandom": "LGBTQ",
+    "count": 3
+  },
+  {
+    "fandom": "Project Hail Mary",
     "count": 3
   },
   {
@@ -1516,10 +1524,6 @@
     "count": 3
   },
   {
-    "fandom": "Kingdom Come: Deliverance",
-    "count": 3
-  },
-  {
     "fandom": "Trickcal",
     "count": 3
   },
@@ -1588,6 +1592,10 @@
     "count": 3
   },
   {
+    "fandom": "Manhwa",
+    "count": 3
+  },
+  {
     "fandom": "Hypnosis Mic: Division Rap Battle",
     "count": 3
   },
@@ -1645,6 +1653,10 @@
   },
   {
     "fandom": "Street Fighter",
+    "count": 2
+  },
+  {
+    "fandom": "Junji Ito",
     "count": 2
   },
   {
@@ -1765,10 +1777,6 @@
   },
   {
     "fandom": "Journaling",
-    "count": 2
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 2
   },
   {
@@ -2064,10 +2072,6 @@
     "count": 2
   },
   {
-    "fandom": "Frankenstein",
-    "count": 2
-  },
-  {
     "fandom": "The Case Study of Vanitas",
     "count": 2
   },
@@ -2121,6 +2125,10 @@
   },
   {
     "fandom": "Visual kei",
+    "count": 2
+  },
+  {
+    "fandom": "Grace",
     "count": 2
   },
   {
@@ -2316,6 +2324,10 @@
     "count": 1
   },
   {
+    "fandom": "CLAMP",
+    "count": 1
+  },
+  {
     "fandom": "Gamers And Anime Fans",
     "count": 1
   },
@@ -2365,10 +2377,6 @@
   },
   {
     "fandom": "Yuri!!! On Ice",
-    "count": 1
-  },
-  {
-    "fandom": "And Many More",
     "count": 1
   },
   {
@@ -2773,6 +2781,10 @@
   },
   {
     "fandom": "Magic",
+    "count": 1
+  },
+  {
+    "fandom": "Mystical",
     "count": 1
   },
   {
@@ -3256,11 +3268,11 @@
     "count": 1
   },
   {
-    "fandom": "Hibike",
+    "fandom": "Rascal Does Not Dream",
     "count": 1
   },
   {
-    "fandom": "Rascal Does Not Dream",
+    "fandom": "Sound! Euphonium",
     "count": 1
   },
   {
@@ -3284,15 +3296,7 @@
     "count": 1
   },
   {
-    "fandom": "Kingdom Come: Deliverence Ii",
-    "count": 1
-  },
-  {
     "fandom": "Pentiment",
-    "count": 1
-  },
-  {
-    "fandom": "Project: Hail Mary",
     "count": 1
   },
   {
@@ -3644,10 +3648,6 @@
     "count": 1
   },
   {
-    "fandom": "Dungeon & Dragon",
-    "count": 1
-  },
-  {
     "fandom": "A Space for the Unbound",
     "count": 1
   },
@@ -3681,10 +3681,6 @@
   },
   {
     "fandom": "Get A Snack At 4 AM",
-    "count": 1
-  },
-  {
-    "fandom": "Grace",
     "count": 1
   },
   {
@@ -3801,10 +3797,6 @@
   },
   {
     "fandom": "Voltron",
-    "count": 1
-  },
-  {
-    "fandom": "Junji Ito",
     "count": 1
   },
   {
@@ -4225,14 +4217,6 @@
   },
   {
     "fandom": "Better Call Saul",
-    "count": 1
-  },
-  {
-    "fandom": "R! Grace",
-    "count": 1
-  },
-  {
-    "fandom": "Utmv",
     "count": 1
   },
   {

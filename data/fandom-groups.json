@@ -780,7 +780,8 @@
     "canonical": "Devil May Cry",
     "variants": [
       "Devil May Cry",
-      "Dmc"
+      "Dmc",
+      "Devil May Cry V"
     ]
   },
   {
@@ -813,7 +814,8 @@
       "Dc Comics (batman)",
       "Dc.",
       "Batfamily",
-      "Dc Batfam"
+      "Dc Batfam",
+      "Absolute Batman"
     ]
   },
   {
@@ -997,7 +999,8 @@
     "canonical": "Final Fantasy",
     "variants": [
       "Final Fantasy",
-      "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave"
+      "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave",
+      "Final Fantasy Vi"
     ]
   },
   {
@@ -1039,7 +1042,8 @@
       "Undertale",
       "Undertale/deltarune",
       "Undertale Au",
-      "Utdr"
+      "Utdr",
+      "Utmv"
     ]
   },
   {
@@ -1492,7 +1496,8 @@
       "Fire Emblem",
       "Fire Emblem (dimitri)",
       "Fire Emblem: Three Houses",
-      "Fe3h"
+      "Fe3h",
+      "Fire Emblem 3 Houses"
     ]
   },
   {
@@ -2347,7 +2352,8 @@
       "DnD",
       "Dnd/ttrpg",
       "Dungeon N Dragon",
-      "Dungeon And Dragons"
+      "Dungeon And Dragons",
+      "Dungeon & Dragon"
     ]
   },
   {
@@ -3849,7 +3855,8 @@
   {
     "canonical": "Sound! Euphonium",
     "variants": [
-      "Hibike Euphonium"
+      "Hibike Euphonium",
+      "Hibike"
     ]
   },
   {
@@ -4708,7 +4715,9 @@
   {
     "canonical": "Kingdom Come: Deliverance",
     "variants": [
-      "Kingdom Come Deliverance"
+      "Kingdom Come Deliverance",
+      "Kingdom Come: Deliverance",
+      "Kingdom Come: Deliverence Ii"
     ]
   },
   {
@@ -6806,7 +6815,8 @@
   {
     "canonical": "Grace",
     "variants": [
-      "Grace"
+      "Grace",
+      "R! Grace"
     ]
   },
   {
@@ -7437,7 +7447,8 @@
   {
     "canonical": "Project Hail Mary",
     "variants": [
-      "Project Hail Mary"
+      "Project Hail Mary",
+      "Project: Hail Mary"
     ]
   },
   {
@@ -7778,6 +7789,30 @@
     "variants": [
       "D.Gray-man",
       "Dgrayman"
+    ]
+  },
+  {
+    "canonical": "CLAMP",
+    "variants": [
+      "CLAMP"
+    ]
+  },
+  {
+    "canonical": "Princess Tutu",
+    "variants": [
+      "Princess Tutu"
+    ]
+  },
+  {
+    "canonical": "Mystical",
+    "variants": [
+      "Mystical"
+    ]
+  },
+  {
+    "canonical": "Wearable",
+    "variants": [
+      "Wearable"
     ]
   }
 ]
