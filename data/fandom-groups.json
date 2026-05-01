@@ -914,7 +914,13 @@
       "ALNST",
       "Alien Stage (alnst)",
       "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave",
-      "Alst"
+      "Alst",
+      "Alnst / Alst",
+      "Alstg",
+      "Allien Stage",
+      "Alient Stage",
+      "Alienstage",
+      "Alien Star"
     ]
   },
   {
@@ -6514,7 +6520,8 @@
     "canonical": "Cosmic Princess Kaguya",
     "variants": [
       "Cosmic Princess Kaguya",
-      "Cosmic Princess Kaguya. Frieren"
+      "Cosmic Princess Kaguya. Frieren",
+      "And Cosmic Princess Kaguya"
     ]
   },
   {
@@ -7380,7 +7387,8 @@
   {
     "canonical": "Disney",
     "variants": [
-      "Disney"
+      "Disney",
+      "Disney / Square Enix"
     ]
   },
   {
@@ -7736,6 +7744,32 @@
     "canonical": "Band",
     "variants": [
       "Band"
+    ]
+  },
+  {
+    "canonical": "Square Enix",
+    "variants": [
+      "Square Enix",
+      "Disney / Square Enix"
+    ]
+  },
+  {
+    "canonical": "Special Vtuber Collaboration With Arvaduh",
+    "variants": [
+      "Special Vtuber Collaboration With Arvaduh"
+    ]
+  },
+  {
+    "canonical": "Misc",
+    "variants": [
+      "Misc"
+    ]
+  },
+  {
+    "canonical": "D.Gray-man",
+    "variants": [
+      "D.Gray-man",
+      "Dgrayman"
     ]
   }
 ]

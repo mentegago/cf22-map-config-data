@@ -5,19 +5,19 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 352
+    "count": 353
   },
   {
     "fandom": "Genshin Impact",
-    "count": 338
+    "count": 339
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 190
+    "count": 191
   },
   {
     "fandom": "Uma Musume",
-    "count": 186
+    "count": 187
   },
   {
     "fandom": "Zenless Zone Zero",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 128
+    "count": 129
   },
   {
     "fandom": "HoYoverse",
@@ -52,11 +52,11 @@
     "count": 106
   },
   {
-    "fandom": "Haikyu!!",
+    "fandom": "Pokemon",
     "count": 98
   },
   {
-    "fandom": "Pokemon",
+    "fandom": "Haikyu!!",
     "count": 97
   },
   {
@@ -65,19 +65,19 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 88
-  },
-  {
-    "fandom": "PLAVE",
-    "count": 88
-  },
-  {
-    "fandom": "Project SEKAI",
     "count": 87
   },
   {
+    "fandom": "PLAVE",
+    "count": 87
+  },
+  {
+    "fandom": "Project SEKAI",
+    "count": 86
+  },
+  {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 79
+    "count": 80
   },
   {
     "fandom": "One Piece",
@@ -97,7 +97,7 @@
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
-    "count": 66
+    "count": 65
   },
   {
     "fandom": "Arknights: Endfield",
@@ -105,7 +105,7 @@
   },
   {
     "fandom": "Delicious in Dungeon",
-    "count": 61
+    "count": 60
   },
   {
     "fandom": "NIJISANJI",
@@ -124,15 +124,15 @@
     "count": 45
   },
   {
-    "fandom": "Link Click",
-    "count": 44
-  },
-  {
     "fandom": "K-pop",
     "count": 44
   },
   {
     "fandom": "Deltarune",
+    "count": 43
+  },
+  {
+    "fandom": "Link Click",
     "count": 43
   },
   {
@@ -148,15 +148,11 @@
     "count": 41
   },
   {
-    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 41
-  },
-  {
     "fandom": "Identity V",
     "count": 40
   },
   {
-    "fandom": "Twisted Wonderland",
+    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
     "count": 40
   },
   {
@@ -164,12 +160,16 @@
     "count": 40
   },
   {
+    "fandom": "Twisted Wonderland",
+    "count": 39
+  },
+  {
     "fandom": "Gachiakuta",
     "count": 39
   },
   {
     "fandom": "Wind Breaker",
-    "count": 36
+    "count": 35
   },
   {
     "fandom": "Dispatch",
@@ -180,12 +180,16 @@
     "count": 34
   },
   {
+    "fandom": "ALNST",
+    "count": 34
+  },
+  {
     "fandom": "Ensemble Stars!",
-    "count": 33
+    "count": 32
   },
   {
     "fandom": "K-Pop: Demon Hunters",
-    "count": 33
+    "count": 32
   },
   {
     "fandom": "Marvel",
@@ -212,12 +216,12 @@
     "count": 29
   },
   {
-    "fandom": "BanG Dream!",
+    "fandom": "The Amazing Digital Circus",
     "count": 28
   },
   {
-    "fandom": "The Amazing Digital Circus",
-    "count": 28
+    "fandom": "BanG Dream!",
+    "count": 27
   },
   {
     "fandom": "Valorant",
@@ -264,10 +268,6 @@
     "count": 23
   },
   {
-    "fandom": "Cookie Run: Kingdom",
-    "count": 23
-  },
-  {
     "fandom": "Formula 1",
     "count": 23
   },
@@ -281,6 +281,10 @@
   },
   {
     "fandom": "Stardew Valley",
+    "count": 22
+  },
+  {
+    "fandom": "Cookie Run: Kingdom",
     "count": 22
   },
   {
@@ -304,11 +308,11 @@
     "count": 21
   },
   {
-    "fandom": "Minecraft",
+    "fandom": "Fate/Grand Order",
     "count": 21
   },
   {
-    "fandom": "ALNST",
+    "fandom": "Minecraft",
     "count": 21
   },
   {
@@ -333,10 +337,6 @@
   },
   {
     "fandom": "Arcane",
-    "count": 20
-  },
-  {
-    "fandom": "Fate/Grand Order",
     "count": 20
   },
   {
@@ -396,10 +396,6 @@
     "count": 16
   },
   {
-    "fandom": "Touhou",
-    "count": 16
-  },
-  {
     "fandom": "Final Fantasy XIV",
     "count": 16
   },
@@ -416,6 +412,10 @@
     "count": 16
   },
   {
+    "fandom": "Tamon's B Side",
+    "count": 16
+  },
+  {
     "fandom": "Path to Nowhere",
     "count": 16
   },
@@ -424,15 +424,15 @@
     "count": 15
   },
   {
+    "fandom": "Touhou",
+    "count": 15
+  },
+  {
     "fandom": "Persona 5",
     "count": 15
   },
   {
     "fandom": "Honkai Impact 3rd",
-    "count": 15
-  },
-  {
-    "fandom": "Tamon's B Side",
     "count": 15
   },
   {
@@ -452,6 +452,10 @@
     "count": 14
   },
   {
+    "fandom": "Ace Attorney",
+    "count": 14
+  },
+  {
     "fandom": "Video Games",
     "count": 14
   },
@@ -465,10 +469,6 @@
   },
   {
     "fandom": "18trip",
-    "count": 14
-  },
-  {
-    "fandom": "Epic: The Musical",
     "count": 14
   },
   {
@@ -496,14 +496,6 @@
     "count": 13
   },
   {
-    "fandom": "NU: Carnival",
-    "count": 13
-  },
-  {
-    "fandom": "Ace Attorney",
-    "count": 13
-  },
-  {
     "fandom": "Mouthwashing",
     "count": 13
   },
@@ -520,6 +512,10 @@
     "count": 13
   },
   {
+    "fandom": "Epic: The Musical",
+    "count": 13
+  },
+  {
     "fandom": "Crafts",
     "count": 13
   },
@@ -530,6 +526,10 @@
   {
     "fandom": "Hundred Line: The Last Defense Academy",
     "count": 13
+  },
+  {
+    "fandom": "NU: Carnival",
+    "count": 12
   },
   {
     "fandom": "Transformers",
@@ -708,10 +708,6 @@
     "count": 9
   },
   {
-    "fandom": "Ave Mujica",
-    "count": 9
-  },
-  {
     "fandom": "Heaven Official's Blessing",
     "count": 9
   },
@@ -792,12 +788,12 @@
     "count": 8
   },
   {
-    "fandom": "Mo Xiang Tong Xiu",
+    "fandom": "Ave Mujica",
     "count": 8
   },
   {
-    "fandom": "Chiikawa",
-    "count": 7
+    "fandom": "Mo Xiang Tong Xiu",
+    "count": 8
   },
   {
     "fandom": "Avatar: The Last Airbender",
@@ -813,6 +809,10 @@
   },
   {
     "fandom": "Katekyo Hitman Reborn!",
+    "count": 7
+  },
+  {
+    "fandom": "Elden Ring",
     "count": 7
   },
   {
@@ -833,6 +833,10 @@
   },
   {
     "fandom": "Indie VTuber",
+    "count": 7
+  },
+  {
+    "fandom": "Heartopia",
     "count": 7
   },
   {
@@ -880,6 +884,10 @@
     "count": 7
   },
   {
+    "fandom": "Chiikawa",
+    "count": 6
+  },
+  {
     "fandom": "Banana Fish",
     "count": 6
   },
@@ -892,6 +900,10 @@
     "count": 6
   },
   {
+    "fandom": "Cosmic Princess Kaguya",
+    "count": 6
+  },
+  {
     "fandom": "Girls' Frontline",
     "count": 6
   },
@@ -901,14 +913,6 @@
   },
   {
     "fandom": "Fantasy",
-    "count": 6
-  },
-  {
-    "fandom": "Elden Ring",
-    "count": 6
-  },
-  {
-    "fandom": "Heartopia",
     "count": 6
   },
   {
@@ -929,10 +933,6 @@
   },
   {
     "fandom": "Monster High",
-    "count": 6
-  },
-  {
-    "fandom": "Toilet-Bound Hanako-kun",
     "count": 6
   },
   {
@@ -1016,10 +1016,6 @@
     "count": 5
   },
   {
-    "fandom": "Cosmic Princess Kaguya",
-    "count": 5
-  },
-  {
     "fandom": "Comic Strips",
     "count": 5
   },
@@ -1037,6 +1033,10 @@
   },
   {
     "fandom": "Mecha",
+    "count": 5
+  },
+  {
+    "fandom": "Toilet-Bound Hanako-kun",
     "count": 5
   },
   {
@@ -1149,6 +1149,10 @@
   },
   {
     "fandom": "Breaking Bad",
+    "count": 5
+  },
+  {
+    "fandom": "MBTI",
     "count": 5
   },
   {
@@ -1289,10 +1293,6 @@
   },
   {
     "fandom": "Charisma",
-    "count": 4
-  },
-  {
-    "fandom": "MBTI",
     "count": 4
   },
   {
@@ -1721,6 +1721,10 @@
   },
   {
     "fandom": "Friday Night Funkin'",
+    "count": 2
+  },
+  {
+    "fandom": "The Kid at the Back",
     "count": 2
   },
   {
@@ -2480,10 +2484,6 @@
     "count": 1
   },
   {
-    "fandom": "TKATB",
-    "count": 1
-  },
-  {
     "fandom": "Gakuen Alice",
     "count": 1
   },
@@ -2544,6 +2544,10 @@
     "count": 1
   },
   {
+    "fandom": "Square Enix",
+    "count": 1
+  },
+  {
     "fandom": "Alpha Drive One",
     "count": 1
   },
@@ -2568,10 +2572,6 @@
     "count": 1
   },
   {
-    "fandom": "The Kid at the Back",
-    "count": 1
-  },
-  {
     "fandom": "Bluey",
     "count": 1
   },
@@ -2585,6 +2585,10 @@
   },
   {
     "fandom": "Light Novel Fantasy",
+    "count": 1
+  },
+  {
+    "fandom": "Special Vtuber Collaboration With Arvaduh",
     "count": 1
   },
   {
@@ -2721,6 +2725,10 @@
   },
   {
     "fandom": "Ilna the Cat",
+    "count": 1
+  },
+  {
+    "fandom": "Misc",
     "count": 1
   },
   {
@@ -3301,6 +3309,10 @@
   },
   {
     "fandom": "The House In Fata Morgana",
+    "count": 1
+  },
+  {
+    "fandom": "D.Gray-man",
     "count": 1
   },
   {

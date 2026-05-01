@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 34,
   "creators": [
     {
       "id": 7851,
@@ -5832,7 +5832,9 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/5e53cfe0-9cd3-452b-8e14-880f70963a2a/AE-37/AE-38.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/7fefd969-2152-4a8f-b95e-2c230bdd685f/AE-37/AE-38.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/5161750e-d051-4804-990a-3c2395e443ec/AE-37/AE-38.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/8018a600-86c4-4e59-bbc7-d18e8595f7ce/AE-37/AE-38.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/8018a600-86c4-4e59-bbc7-d18e8595f7ce/AE-37/AE-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/0bfea7e3-fb04-49fa-8b64-d8ed571aa642/AE-37/AE-38.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/17c9fa74-408d-4d5d-9ec5-209294a4215a/AE-37/AE-38.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HaiDongLao.jpg",
       "circle_code": "AE-37/AE-38"
@@ -12022,7 +12024,7 @@
         "Original",
         "Oshi no Ko",
         "Panty & Stocking with Garterbelt",
-        "TKATB",
+        "The Kid at the Back",
         "Welcome to Demon School! Iruma-kun",
         "Zenless Zone Zero"
       ],
@@ -13302,10 +13304,12 @@
       "raw_fandoms": [
         "Original",
         "Dungeon Meshi",
+        "Ace Attorney",
         "Saiki",
         "Straykids (kpop)"
       ],
       "fandoms": [
+        "Ace Attorney",
         "Delicious in Dungeon",
         "Original",
         "Stray Kids",
@@ -13314,7 +13318,12 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/a8c228f2-78d9-42dd-b547-28967cb90338/B-38b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/bd76b34e-bd84-40fa-9243-8319f8837ee6/B-38b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/4b01897a-19e3-42aa-b237-98ff76514c93/B-38b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/f5bddad8-c05d-44b8-b26e-a58f4d602391/B-38b.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/xuemart.jpg",
       "circle_code": "B-38b"
     },
@@ -14315,15 +14324,15 @@
         "Furry",
         "Csm",
         "Cardcaptor Sakura",
+        "Disney / Square Enix",
         "Kingdom Hearts",
         "Journaling",
         "Daily Life",
         "Lucky Emma",
         "Project Hail Mary",
-        "Chiikawa",
         "Disney",
         "Alien Stage",
-        "Alst",
+        "Alnst / Alst",
         "Coquette",
         "Cute Stuff",
         "Meme",
@@ -14344,7 +14353,6 @@
         "Cardcaptor Sakura",
         "Cat",
         "Chainsaw Man",
-        "Chiikawa",
         "Coquette",
         "Cute Art",
         "Disney",
@@ -14359,6 +14367,7 @@
         "Project Hail Mary",
         "Relatable",
         "Slice of Life",
+        "Square Enix",
         "Studio Ghibli"
       ],
       "works_type": [
@@ -14565,11 +14574,15 @@
         "Slam Dunk",
         "Resident Evil",
         "Arcane",
-        "Dc"
+        "Dc",
+        "Hsr",
+        "Genshin Impact"
       ],
       "fandoms": [
         "Arcane",
         "DC Comics",
+        "Genshin Impact",
+        "Honkai Star Rail",
         "Resident Evil",
         "Slam Dunk",
         "Stray Gods"
@@ -15352,17 +15365,21 @@
       ],
       "raw_fandoms": [
         "Light Novel Fantasy",
-        "Anime"
+        "Anime",
+        "Special Vtuber Collaboration With Arvaduh"
       ],
       "fandoms": [
         "Anime",
-        "Light Novel Fantasy"
+        "Light Novel Fantasy",
+        "Special Vtuber Collaboration With Arvaduh"
       ],
       "works_type": [
         "Novel",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/38690139-7dad-4403-a81d-3555cfeaef18/401342a1-3dd3-4f2f-a44c-41e88c31dadf/C-24a.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wairovers.jpg",
       "circle_code": "C-24a"
     },
@@ -17907,67 +17924,46 @@
         "Apel Kun",
         "Animal X Japanese Food.",
         "Jujutsu Kaisen",
-        "Plave",
         "Hoyoverse",
         "Arknight",
         "Hazbin Hotel",
         "Identity V",
         "Bungou Stray Dogs",
         "Alien Stage",
-        "Lads",
-        "Wuwa",
-        "Enstar",
-        "Twisted Wonderland",
-        "Hanako",
-        "Nucani",
-        "Hq",
-        "Proseka",
-        "Kimetsu No Yaiba",
-        "Crk",
-        "Apothecary Diaries",
-        "Dungeon Meshi",
-        "Kpop Demon Hunter",
-        "Ave Mujica",
-        "Epic",
-        "Wind Breaker."
+        "Misc",
+        "Fgo",
+        "Heartopia"
       ],
       "fandoms": [
         "Alien Stage",
         "Animal",
         "Apel Kun",
         "Arknights",
-        "Ave Mujica",
-        "BanG Dream!",
         "Bungo Stray Dogs",
-        "Cookie Run: Kingdom",
-        "Delicious in Dungeon",
-        "Demon Slayer: Kimetsu no Yaiba",
-        "Ensemble Stars!",
-        "Epic: The Musical",
-        "Haikyu!!",
+        "Fate/Grand Order",
         "Hazbin Hotel",
+        "Heartopia",
         "HoYoverse",
         "Identity V",
         "Ilna the Cat",
         "Jujutsu Kaisen",
-        "K-Pop: Demon Hunters",
-        "Love and Deepspace",
-        "NU: Carnival",
+        "Misc",
         "Original",
-        "PLAVE",
-        "Project SEKAI",
-        "The Apothecary Diaries (Kusuriya no Hitorigoto)",
         "Titus Family",
-        "Toilet-Bound Hanako-kun",
-        "Trixx",
-        "Twisted Wonderland",
-        "Wind Breaker",
-        "Wuthering Waves"
+        "Trixx"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/b10bd717-a4c2-4b2d-9069-9ac1d8e7f2d4/D-22ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/b1cb9ded-2e51-45db-8348-fb5d3df9ca1e/D-22ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/fc8969e4-59ca-4f0f-995e-c78b95e9b2ec/D-22ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/73d4dc31-546c-43af-b4c9-605660356b88/D-22ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/cff0737b-be8f-43c5-af60-d3887ebf73ef/D-22ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/3699104f-2327-433b-88bb-7733701d5001/D-22ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/3be80386-1520-48a7-a6a9-d692bc67438e/D-22ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NYENYENYE.jpg",
       "circle_code": "D-22ab"
     },
@@ -18966,6 +18962,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Chobits",
         "Hazbin Hotel",
         "Original",
@@ -23133,6 +23130,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Anime",
         "Blue Lock",
         "Cats",
@@ -24882,6 +24880,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Blue Lock",
         "Genshin Impact",
         "Haikyu!!",
@@ -25726,7 +25725,6 @@
       ],
       "raw_fandoms": [
         "Haikyuu",
-        "Haikyuu!",
         "Love And Deepspace",
         "Onepiece"
       ],
@@ -25740,7 +25738,16 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/479db131-5d2a-41f2-9424-256933903fcc/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/8a254335-25f7-4522-9f78-89904271dc7c/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/89857b13-ec17-497f-8439-c5ca84316d75/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/ee3af660-1f7a-4b59-b964-6a0aacac872e/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/0d98cfe7-b05b-4f9c-9645-cf7bae6ba7ba/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/add8c8cf-f29d-4e04-bbb2-657e5bc5de11/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/5a575482-388e-45ea-9a34-2fa45b751bf2/G-24a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/06f70b0d-f79f-4ddd-a401-cf20d70211e8/G-24a (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Takasihmurah.jpg",
       "circle_code": "G-24a (SUN)"
     },
@@ -27312,6 +27319,10 @@
       "day": "SAT",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://web.facebook.com/caberavvit/"
+        },
+        {
           "title": "Instagram",
           "url": "https://instagram.com/kkuroari"
         },
@@ -27322,20 +27333,24 @@
       ],
       "raw_fandoms": [
         "Blue Lock",
+        "Pokemon",
         "Twisted Wonderland",
-        "Naruto",
-        "Originals"
+        "Naruto"
       ],
       "fandoms": [
         "Blue Lock",
         "Naruto",
-        "Original",
+        "Pokemon",
         "Twisted Wonderland"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/1374509d-29ec-46e4-9620-6a0b832db84a/G-54ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/2b937680-b2f4-47ff-a030-ceabd817f84c/G-54ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/c07ce335-102d-48fc-a135-19be6d70888a/G-54ab (SAT).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Anggrek Mekar Kasablanka.jpg",
       "circle_code": "G-54ab (SAT)"
     },
@@ -36547,10 +36562,14 @@
         "Persona 5",
         "Kuroko No Basket",
         "Mob Psycho 100",
+        "Frieren",
+        "Dgrayman",
         "Original Works"
       ],
       "fandoms": [
+        "D.Gray-man",
         "Death Note",
+        "Frieren: Beyond Journey's End",
         "Kuroko's Basketball",
         "Mob Psycho 100",
         "Original",
@@ -36562,7 +36581,18 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/5abceab7-9021-4569-a900-114bb60aea57/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/c5e48c7c-e41b-4193-93ab-2a592447753b/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/a7e4ebad-160b-451d-9c18-797e53e0da0f/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/93b4e29a-89a9-4551-9477-402b0743288e/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/3cbc4fec-e7b7-48e6-9c45-18032cbc51a2/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/391dcc1d-6e6f-40eb-a4b5-42f24ccaca5d/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/f4d60ea1-3a6f-4156-a631-0db281808ec2/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/4f9228fe-4629-47f4-b432-25339ac90456/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/a9dac6e7-363d-4050-a325-3260f086a033/J-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/9c9241e3-30e4-4b78-bebe-91894edd1a0d/J-45ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ametrine Neko.jpg",
       "circle_code": "J-45ab"
     },
@@ -45857,6 +45887,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Honkai Star Rail",
         "Idolmaster",
         "Limbus Company",
@@ -50533,6 +50564,7 @@
       "fandoms": [
         "Ace Combat",
         "Alien Stage",
+        "ALNST",
         "Bungo Stray Dogs",
         "DC Comics",
         "Formula 1",
@@ -51640,6 +51672,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Genshin Impact",
         "Honkai Star Rail",
         "Love and Deepspace",
@@ -53797,6 +53830,7 @@
       "fandoms": [
         "Aikatsu!",
         "Alien Stage",
+        "ALNST",
         "Chainsaw Man",
         "DC Comics",
         "Ensemble Stars!",
@@ -54149,6 +54183,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Frieren: Beyond Journey's End",
         "Genshin Impact",
         "Honkai Star Rail",
@@ -54795,6 +54830,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Genshin Impact",
         "Hololive",
         "Holostars",
@@ -55084,6 +55120,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Honkai Star Rail",
         "Link Click",
         "Lord of the Mysteries",
@@ -55770,27 +55807,43 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/reimu03?igsh=ZWRlZHBhbWthbnY3"
+          "url": "https://www.instagram.com/reimu03/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/reimuu03"
+        },
+        {
+          "title": "TikTok",
+          "url": "https://www.tiktok.com/@reimu033"
         }
       ],
       "raw_fandoms": [
         "Alien Stage",
-        "Genshin Impact",
-        "Hsr",
+        "Lads",
+        "Jjk",
         "Frieren",
         "Haikyuu",
         "One Piece",
-        "Hunter X Hunter",
+        "Hxh",
+        "Genshin",
+        "Hsr",
+        "Elden Ring",
+        "Mbti",
         "Kucing"
       ],
       "fandoms": [
         "Alien Stage",
         "Cat",
+        "Elden Ring",
         "Frieren: Beyond Journey's End",
         "Genshin Impact",
         "Haikyu!!",
         "Honkai Star Rail",
         "Hunter x Hunter",
+        "Jujutsu Kaisen",
+        "Love and Deepspace",
+        "MBTI",
         "One Piece"
       ],
       "works_type": [
@@ -55798,7 +55851,18 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/b164e4ec-86be-4f75-a6a3-47d7f99ff933/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/62eca66d-5e4a-44f4-96d2-52d47a421c0c/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/1a2e1493-c20e-4063-be9c-0c038a227286/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/4fc14bbe-5423-475f-bf39-ec07ac9f0574/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/2d614f45-0137-40fb-8775-f18cbde565ab/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/b1c82d9c-8d20-4b9e-b93c-37045ddb7738/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/0e7e4735-dea4-4e9b-9d82-11f2b90ad908/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/1b2ab6d3-fe11-489b-b427-01cff94b6d99/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/02fef496-5cf4-4b8e-b81d-355fc1490160/O-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/87e1c275-8d22-4d98-afc7-2c7818a95967/O-54ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/remington.jpg",
       "circle_code": "O-54ab"
     },
@@ -61519,6 +61583,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "HoYoverse",
         "Omniscient Reader's Viewpoint",
         "Wuthering Waves"
@@ -61761,28 +61826,40 @@
       "raw_fandoms": [
         "Hoyoverse (hsr, Genshin)",
         "Jujutsu Kaisen",
-        "Touhou",
-        "Link-click",
+        "Tamon B Side",
         "Idolish7",
         "Original Animals",
-        "Plave"
+        "Plave",
+        "Hoyoverse",
+        "Love And Deepspace",
+        "Original Work",
+        "Umamusume",
+        "And Cosmic Princess Kaguya"
       ],
       "fandoms": [
         "Animal",
+        "Cosmic Princess Kaguya",
         "Genshin Impact",
         "Honkai Star Rail",
         "HoYoverse",
         "IDOLiSH7",
         "Jujutsu Kaisen",
-        "Link Click",
+        "Love and Deepspace",
+        "Original",
         "PLAVE",
-        "Touhou"
+        "Tamon's B Side",
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/d21bf298-4a6b-4cf2-8939-bc0de216fd02/Q-45b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/d46a2e14-39db-407f-96cd-6772f5c9ef33/Q-45b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/6e61dd89-02d1-47cb-bb92-ffc3821bb453/Q-45b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/cca3b5f4-d670-4461-8f9b-5b236e0d0291/Q-45b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyandere.jpg",
       "circle_code": "Q-45b (SUN)"
     },
@@ -63154,6 +63231,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "Genshin Impact",
         "Honkai Star Rail",
         "Love and Deepspace",
@@ -64813,6 +64891,7 @@
       ],
       "fandoms": [
         "Alien Stage",
+        "ALNST",
         "HoYoverse",
         "Identity V",
         "Mystic Messenger",
