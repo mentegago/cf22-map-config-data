@@ -5574,12 +5574,6 @@
     ]
   },
   {
-    "canonical": "TKATB",
-    "variants": [
-      "TKATB"
-    ]
-  },
-  {
     "canonical": "French Revolution",
     "variants": [
       "French Revolution"
@@ -5658,7 +5652,8 @@
     "canonical": "The Kid at the Back",
     "variants": [
       "The Kid At The Back",
-      "Visual Novel (14 Days With You, The Kid At The Back, A Date With Death, Our Life Beginning And Always, The Freak Circus)"
+      "Visual Novel (14 Days With You, The Kid At The Back, A Date With Death, Our Life Beginning And Always, The Freak Circus)",
+      "TKATB"
     ]
   },
   {
