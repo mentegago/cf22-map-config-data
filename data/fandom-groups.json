@@ -1589,7 +1589,8 @@
     "canonical": "Guilty Gear",
     "variants": [
       "Guilty Gear",
-      "Ggst"
+      "Ggst",
+      "Guilty Gear Strive"
     ]
   },
   {
@@ -7813,6 +7814,21 @@
     "canonical": "Wearable",
     "variants": [
       "Wearable"
+    ]
+  },
+  {
+    "canonical": "A Song of Ice and Fire",
+    "variants": [
+      "A Song of Ice and Fire",
+      "ASOIAF",
+      "Game of Thrones"
+    ]
+  },
+  {
+    "canonical": "A Knight of the Seven Kingdoms",
+    "variants": [
+      "A Knight of the Seven Kingdoms",
+      "Tales of Dunk and Egg"
     ]
   }
 ]

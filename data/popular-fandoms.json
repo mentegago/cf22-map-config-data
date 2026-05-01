@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 132
+    "count": 133
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -49,11 +49,11 @@
   },
   {
     "fandom": "VTuber",
-    "count": 107
+    "count": 108
   },
   {
     "fandom": "Pokemon",
-    "count": 100
+    "count": 101
   },
   {
     "fandom": "Haikyu!!",
@@ -88,12 +88,12 @@
     "count": 74
   },
   {
-    "fandom": "Chainsaw Man",
+    "fandom": "DC Comics",
     "count": 72
   },
   {
-    "fandom": "DC Comics",
-    "count": 72
+    "fandom": "Chainsaw Man",
+    "count": 71
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
@@ -104,11 +104,11 @@
     "count": 61
   },
   {
-    "fandom": "Delicious in Dungeon",
-    "count": 60
+    "fandom": "NIJISANJI",
+    "count": 61
   },
   {
-    "fandom": "NIJISANJI",
+    "fandom": "Delicious in Dungeon",
     "count": 60
   },
   {
@@ -136,12 +136,12 @@
     "count": 44
   },
   {
-    "fandom": "The Summer Hikaru Died",
+    "fandom": "Anime",
     "count": 42
   },
   {
-    "fandom": "Anime",
-    "count": 41
+    "fandom": "The Summer Hikaru Died",
+    "count": 42
   },
   {
     "fandom": "Identity V",
@@ -424,6 +424,10 @@
     "count": 15
   },
   {
+    "fandom": "Video Games",
+    "count": 15
+  },
+  {
     "fandom": "Persona 5",
     "count": 15
   },
@@ -449,10 +453,6 @@
   },
   {
     "fandom": "Ace Attorney",
-    "count": 14
-  },
-  {
-    "fandom": "Video Games",
     "count": 14
   },
   {
@@ -600,10 +600,6 @@
     "count": 10
   },
   {
-    "fandom": "Clair Obscur: Expedition 33",
-    "count": 10
-  },
-  {
     "fandom": "League of Legends",
     "count": 10
   },
@@ -660,7 +656,15 @@
     "count": 9
   },
   {
+    "fandom": "Clair Obscur: Expedition 33",
+    "count": 9
+  },
+  {
     "fandom": "IDOLiSH7",
+    "count": 9
+  },
+  {
+    "fandom": "Lord of the Mysteries",
     "count": 9
   },
   {
@@ -708,6 +712,10 @@
     "count": 9
   },
   {
+    "fandom": "Debut or Die",
+    "count": 9
+  },
+  {
     "fandom": "Paradox Live",
     "count": 9
   },
@@ -733,10 +741,6 @@
   },
   {
     "fandom": "Gakuen Idolmaster (Hatsuboshi Gakuen)",
-    "count": 8
-  },
-  {
-    "fandom": "Lord of the Mysteries",
     "count": 8
   },
   {
@@ -781,10 +785,6 @@
   },
   {
     "fandom": "Karaoke Iko!",
-    "count": 8
-  },
-  {
-    "fandom": "Debut or Die",
     "count": 8
   },
   {
@@ -908,6 +908,10 @@
     "count": 6
   },
   {
+    "fandom": "Guilty Gear",
+    "count": 6
+  },
+  {
     "fandom": "BY THE BEAT",
     "count": 6
   },
@@ -1017,10 +1021,6 @@
   },
   {
     "fandom": "Movies",
-    "count": 5
-  },
-  {
-    "fandom": "Guilty Gear",
     "count": 5
   },
   {
@@ -1152,6 +1152,10 @@
     "count": 5
   },
   {
+    "fandom": "GDCG",
+    "count": 5
+  },
+  {
     "fandom": "MyGO!!!!!",
     "count": 4
   },
@@ -1217,6 +1221,10 @@
   },
   {
     "fandom": "Meme",
+    "count": 4
+  },
+  {
+    "fandom": "Project Hail Mary",
     "count": 4
   },
   {
@@ -1301,10 +1309,6 @@
   },
   {
     "fandom": "Charisma",
-    "count": 4
-  },
-  {
-    "fandom": "GDCG",
     "count": 4
   },
   {
@@ -1409,10 +1413,6 @@
   },
   {
     "fandom": "LGBTQ",
-    "count": 3
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 3
   },
   {
@@ -1633,6 +1633,10 @@
   },
   {
     "fandom": "Helldivers 2",
+    "count": 2
+  },
+  {
+    "fandom": "Kasane Teto",
     "count": 2
   },
   {
@@ -2252,10 +2256,6 @@
     "count": 1
   },
   {
-    "fandom": "Kasane Teto",
-    "count": 1
-  },
-  {
     "fandom": "Ajin",
     "count": 1
   },
@@ -2865,6 +2865,14 @@
   },
   {
     "fandom": "Moomin",
+    "count": 1
+  },
+  {
+    "fandom": "A Knight of the Seven Kingdoms",
+    "count": 1
+  },
+  {
+    "fandom": "A Song of Ice and Fire",
     "count": 1
   },
   {
