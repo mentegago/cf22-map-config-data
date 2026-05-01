@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "creators": [
     {
       "id": 7851,
@@ -21890,11 +21890,11 @@
         "Project Hail Mary"
       ],
       "fandoms": [
-        "A Knight of the Seven Kingdoms",
-        "A Song of Ice and Fire",
+        "A Knight of the Seven Kingdoms (Tales of Dunk and Egg)",
         "Alien Stage",
         "Arcane",
         "DC Comics",
+        "Game of Thrones (A Song of Ice and Fire)",
         "Gintama",
         "K-Pop: Demon Hunters",
         "Link Click",
@@ -48373,7 +48373,13 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/28f08e79-295f-4612-8486-1bd05e267fc4/M-54b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/c33eeb88-5779-46cf-96b8-dbdbbb3837a7/M-54b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/e91bba0b-5651-4901-baed-feb401e92c6b/M-54b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/de30b11b-4a82-473b-b309-6fe33d4271a5/M-54b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/d2bb5df3-1147-4edc-93b9-f5f79c73f337/M-54b.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/zankuoart.jpg",
       "circle_code": "M-54b"
     },
