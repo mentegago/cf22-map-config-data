@@ -330,7 +330,9 @@
       "Vtuber Eon Of Stars",
       "Vtubers (nijisanji)",
       "V Tubers",
-      "Eon Of Stars"
+      "Eon Of Stars",
+      "Arv Aduh",
+      "Special Vtuber Collaboration With Arvaduh"
     ]
   },
   {
@@ -909,7 +911,13 @@
     ]
   },
   {
-    "canonical": "ALNST",
+    "canonical": "Alien Star",
+    "variants": [
+      "Alien Star"
+    ]
+  },
+  {
+    "canonical": "Alien Stage",
     "variants": [
       "ALNST",
       "Alien Stage (alnst)",
@@ -919,8 +927,7 @@
       "Alstg",
       "Allien Stage",
       "Alient Stage",
-      "Alienstage",
-      "Alien Star"
+      "Alienstage"
     ]
   },
   {
@@ -7754,8 +7761,9 @@
     ]
   },
   {
-    "canonical": "Special Vtuber Collaboration With Arvaduh",
+    "canonical": "Arv Aduh",
     "variants": [
+      "Arv Aduh",
       "Special Vtuber Collaboration With Arvaduh"
     ]
   },
