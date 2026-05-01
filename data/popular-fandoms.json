@@ -1,11 +1,11 @@
 [
   {
     "fandom": "Original",
-    "count": 490
+    "count": 492
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 353
+    "count": 354
   },
   {
     "fandom": "Genshin Impact",
@@ -17,7 +17,7 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 187
+    "count": 186
   },
   {
     "fandom": "Alien Stage",
@@ -45,7 +45,7 @@
   },
   {
     "fandom": "Arknights",
-    "count": 109
+    "count": 110
   },
   {
     "fandom": "VTuber",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 98
+    "count": 100
   },
   {
     "fandom": "Haikyu!!",
@@ -61,7 +61,7 @@
   },
   {
     "fandom": "Studio Ghibli",
-    "count": 90
+    "count": 91
   },
   {
     "fandom": "Wuthering Waves",
@@ -124,16 +124,16 @@
     "count": 45
   },
   {
-    "fandom": "K-pop",
+    "fandom": "Deltarune",
     "count": 44
   },
   {
-    "fandom": "Deltarune",
-    "count": 43
+    "fandom": "Link Click",
+    "count": 44
   },
   {
-    "fandom": "Link Click",
-    "count": 43
+    "fandom": "K-pop",
+    "count": 44
   },
   {
     "fandom": "The Summer Hikaru Died",
@@ -144,12 +144,12 @@
     "count": 41
   },
   {
-    "fandom": "Blue Lock",
+    "fandom": "Identity V",
     "count": 41
   },
   {
-    "fandom": "Identity V",
-    "count": 40
+    "fandom": "Blue Lock",
+    "count": 41
   },
   {
     "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
@@ -213,7 +213,7 @@
   },
   {
     "fandom": "The Amazing Digital Circus",
-    "count": 28
+    "count": 29
   },
   {
     "fandom": "BanG Dream!",
@@ -276,6 +276,14 @@
     "count": 22
   },
   {
+    "fandom": "Fate/Grand Order",
+    "count": 22
+  },
+  {
+    "fandom": "Minecraft",
+    "count": 22
+  },
+  {
     "fandom": "Stardew Valley",
     "count": 22
   },
@@ -292,6 +300,10 @@
     "count": 21
   },
   {
+    "fandom": "Hollow Knight",
+    "count": 21
+  },
+  {
     "fandom": "Undertale",
     "count": 21
   },
@@ -304,20 +316,8 @@
     "count": 21
   },
   {
-    "fandom": "Fate/Grand Order",
-    "count": 21
-  },
-  {
-    "fandom": "Minecraft",
-    "count": 21
-  },
-  {
     "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
-  },
-  {
-    "fandom": "Monster Hunter",
-    "count": 20
   },
   {
     "fandom": "Bocchi the Rock!",
@@ -328,12 +328,12 @@
     "count": 20
   },
   {
-    "fandom": "Hollow Knight",
+    "fandom": "Arcane",
     "count": 20
   },
   {
-    "fandom": "Arcane",
-    "count": 20
+    "fandom": "Monster Hunter",
+    "count": 19
   },
   {
     "fandom": "Cosplay",
@@ -464,6 +464,10 @@
     "count": 14
   },
   {
+    "fandom": "Sailor Moon",
+    "count": 14
+  },
+  {
     "fandom": "18trip",
     "count": 14
   },
@@ -493,10 +497,6 @@
   },
   {
     "fandom": "Mouthwashing",
-    "count": 13
-  },
-  {
-    "fandom": "Sailor Moon",
     "count": 13
   },
   {
@@ -560,6 +560,10 @@
     "count": 12
   },
   {
+    "fandom": "Dandy's World",
+    "count": 12
+  },
+  {
     "fandom": "Tokyo Debunker",
     "count": 12
   },
@@ -589,10 +593,6 @@
   },
   {
     "fandom": "Utaite",
-    "count": 11
-  },
-  {
-    "fandom": "Dandy's World",
     "count": 11
   },
   {
@@ -656,10 +656,6 @@
     "count": 10
   },
   {
-    "fandom": "Dungeons & Dragons",
-    "count": 9
-  },
-  {
     "fandom": "IDOLiSH7",
     "count": 9
   },
@@ -720,6 +716,10 @@
     "count": 8
   },
   {
+    "fandom": "Dungeons & Dragons",
+    "count": 8
+  },
+  {
     "fandom": "Music",
     "count": 8
   },
@@ -773,6 +773,10 @@
   },
   {
     "fandom": "Soul Eater",
+    "count": 8
+  },
+  {
+    "fandom": "Object Show",
     "count": 8
   },
   {
@@ -857,10 +861,6 @@
   },
   {
     "fandom": "Ultraman",
-    "count": 7
-  },
-  {
-    "fandom": "Object Show",
     "count": 7
   },
   {
@@ -1272,6 +1272,14 @@
     "count": 4
   },
   {
+    "fandom": "MILGRAM",
+    "count": 4
+  },
+  {
+    "fandom": "DEADLOCK",
+    "count": 4
+  },
+  {
     "fandom": "Metal Gear Solid",
     "count": 4
   },
@@ -1305,10 +1313,6 @@
   },
   {
     "fandom": "Streamer",
-    "count": 3
-  },
-  {
-    "fandom": "Helldivers 2",
     "count": 3
   },
   {
@@ -1512,10 +1516,6 @@
     "count": 3
   },
   {
-    "fandom": "MILGRAM",
-    "count": 3
-  },
-  {
     "fandom": "Kingdom Come: Deliverance",
     "count": 3
   },
@@ -1561,10 +1561,6 @@
   },
   {
     "fandom": "Squid Game",
-    "count": 3
-  },
-  {
-    "fandom": "DEADLOCK",
     "count": 3
   },
   {
@@ -1625,6 +1621,10 @@
   },
   {
     "fandom": "Dorohedoro",
+    "count": 2
+  },
+  {
+    "fandom": "Helldivers 2",
     "count": 2
   },
   {
@@ -2004,6 +2004,10 @@
     "count": 2
   },
   {
+    "fandom": "Pandavva",
+    "count": 2
+  },
+  {
     "fandom": "Saya no Uta",
     "count": 2
   },
@@ -2068,7 +2072,15 @@
     "count": 2
   },
   {
+    "fandom": "Library of Ruina",
+    "count": 2
+  },
+  {
     "fandom": "Hylics",
+    "count": 2
+  },
+  {
+    "fandom": "Lobotomy Corporation",
     "count": 2
   },
   {
@@ -2932,6 +2944,10 @@
     "count": 1
   },
   {
+    "fandom": "Wearable",
+    "count": 1
+  },
+  {
     "fandom": "Ace of Diamond",
     "count": 1
   },
@@ -2961,6 +2977,10 @@
   },
   {
     "fandom": "Sasaki and Miyano",
+    "count": 1
+  },
+  {
+    "fandom": "Princess Tutu",
     "count": 1
   },
   {
@@ -3264,11 +3284,15 @@
     "count": 1
   },
   {
+    "fandom": "Kingdom Come: Deliverence Ii",
+    "count": 1
+  },
+  {
     "fandom": "Pentiment",
     "count": 1
   },
   {
-    "fandom": "Setan Indo",
+    "fandom": "Project: Hail Mary",
     "count": 1
   },
   {
@@ -3416,10 +3440,6 @@
     "count": 1
   },
   {
-    "fandom": "Library of Ruina",
-    "count": 1
-  },
-  {
     "fandom": "Bendy and the Ink Machine",
     "count": 1
   },
@@ -3477,10 +3497,6 @@
   },
   {
     "fandom": "Lethal Company",
-    "count": 1
-  },
-  {
-    "fandom": "Lobotomy Corporation",
     "count": 1
   },
   {
@@ -3625,6 +3641,10 @@
   },
   {
     "fandom": "Hwagwi",
+    "count": 1
+  },
+  {
+    "fandom": "Dungeon & Dragon",
     "count": 1
   },
   {
@@ -4004,10 +4024,6 @@
     "count": 1
   },
   {
-    "fandom": "Pandavva",
-    "count": 1
-  },
-  {
     "fandom": "Versa",
     "count": 1
   },
@@ -4209,6 +4225,14 @@
   },
   {
     "fandom": "Better Call Saul",
+    "count": 1
+  },
+  {
+    "fandom": "R! Grace",
+    "count": 1
+  },
+  {
+    "fandom": "Utmv",
     "count": 1
   },
   {
