@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "creators": [
     {
       "id": 7851,
@@ -2187,7 +2187,12 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/7c193056-032c-4bca-a908-dabb4c62ad45/AC-10/AC-11.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/991f9a0d-540e-45aa-97c6-0d04e521a94f/AC-10/AC-11.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/18201675-b936-435b-afe1-75bc5f2931ba/AC-10/AC-11.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/d36b502c-0de0-4867-8014-9bbd21133b97/AC-10/AC-11.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Caroline Phoenixa.jpg",
       "circle_code": "AC-10/AC-11"
     },
@@ -2779,7 +2784,14 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/48270951-0098-4af6-9444-61b92f854545/AC-34.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/3b92fad1-e5ed-47b7-b9e9-5784969aee36/AC-34.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/fd396c6d-e67f-42aa-ba0d-20b282722938/AC-34.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/34c0f3ca-214a-47ba-8b1b-efb51f3e8b7a/AC-34.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/ef3f4286-b955-4752-8022-e58beb32396c/AC-34.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/7fa6bdf6-a29f-4c63-8076-71c23c5db224/AC-34.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LIAR.jpg",
       "circle_code": "AC-34"
     },
@@ -3018,8 +3030,11 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/8f682e11-f1c8-46d5-98b6-2ff6245eb146/AC-41.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/6d419c31-4957-4991-ab6f-bfc5b21847f8/AC-41.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/776b9f59-d8cc-4d05-8aa5-f6218cdc12f7/AC-41.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/8dcecb2d-cf07-46c6-a641-5267528ba564/AC-41.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/8fc63591-dcc0-4c66-8352-afb4001f850f/AC-41.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/a8338e52-bd5b-44bf-bf21-78955a3787b2/AC-41.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/c8b230b8-fe07-438c-ab04-bd8dc5dda429/AC-41.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rabbit Hole Requiem.jpg",
       "circle_code": "AC-41"
@@ -11960,6 +11975,18 @@
       "day": "SAT",
       "urls": [
         {
+          "title": "Instagram 1",
+          "url": "https://www.instagram.com/hunnyjell_?igsh=MWo2NjVmcGttcmVmbg=="
+        },
+        {
+          "title": "Instagram 2",
+          "url": "https://www.instagram.com/kazaaaaxzys?igsh=Zm9ldGJmbXM4cTNt"
+        },
+        {
+          "title": "Instagram 3",
+          "url": "https://www.instagram.com/mirukuroo?igsh=MXNrMW1rcDV0dDFkeg=="
+        },
+        {
           "title": "Twitter 1",
           "url": "https://x.com/catstra_"
         },
@@ -11992,7 +12019,6 @@
         "Original Character",
         "Epic The Musical",
         "Mairimashita Iruma Kun",
-        "Kimetsu No Yaiba",
         "Genshin Impact",
         "Hsr",
         "Zzz",
@@ -12012,7 +12038,6 @@
         "Alien Stage",
         "Blue Lock",
         "DC Comics",
-        "Demon Slayer: Kimetsu no Yaiba",
         "Epic: The Musical",
         "Five Nights at Freddy's",
         "Genshin Impact",
@@ -30469,6 +30494,7 @@
       "raw_fandoms": [
         "Blue Archive",
         "Kancolle",
+        "Kantai Collection",
         "Gundam",
         "Hololive",
         "Vspo"
@@ -32581,8 +32607,8 @@
       "day": "BOTH",
       "urls": [
         {
-          "title": "Twitter",
-          "url": "https://x.com/Keycccat"
+          "title": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=61555463154442"
         }
       ],
       "raw_fandoms": [
@@ -32595,7 +32621,18 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/cdfd3c15-838d-489a-8b9b-d49c4eac3afc/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/2f7ea7c8-2a08-4b75-99d0-f0fde413ee7d/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/2f3bec9a-a3fc-4ada-ad87-f95b9701e6f0/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/decb8f0c-3bb4-4048-9b7c-a4f038cef4d2/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/625aecf5-57f6-4471-a921-3e4dba854b5a/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/1cd7a071-c4b2-4120-ad52-850c72cd55f6/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/ab76e1d8-1125-4fe9-8cfd-d2a7e453944a/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/a3fb3087-ab5b-4bdb-9c6a-a5a5cb95472b/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/db928579-01ff-4492-87ae-42f0282e0bd0/I-25ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/cde4d8f4-db74-4c25-9591-8cc8925c4085/I-25ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/UMA LUMPING.jpg",
       "circle_code": "I-25ab"
     },
@@ -35046,21 +35083,28 @@
         "Majo No Tabitabi",
         "Aobuta",
         "Violet Evergarden",
-        "Hibike Euphonium",
-        "Shiroi Suna No Aquatope"
+        "Hibike",
+        "Shiroi Suna No Aquatope",
+        "Gl"
       ],
       "fandoms": [
+        "Hibike",
         "Rascal Does Not Dream",
-        "Sound! Euphonium",
         "The Aquatope on White Sand",
         "Violet Evergarden",
-        "Wandering Witch: The Journey of Elaina"
+        "Wandering Witch: The Journey of Elaina",
+        "Yuri"
       ],
       "works_type": [
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/27d02d27-5e63-46d6-b30e-ee28026efb49/J-17a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/e6f6c7a2-2a40-41c0-a5ea-5a488a83f992/J-17a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/b9474afe-9b2a-45f5-b7a0-29f37d640d5e/J-17a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/c7fb720e-ce44-4fd1-9ebf-c1d989538280/J-17a.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Possessivenight.jpg",
       "circle_code": "J-17a"
     },
@@ -43077,17 +43121,18 @@
       ],
       "raw_fandoms": [
         "Ado",
-        "Utaite",
+        "Zutomayo",
         "Vocaloid",
-        "J-pop"
+        "Zzz"
       ],
       "fandoms": [
         "Ado",
-        "J-pop",
-        "Utaite",
-        "Vocaloid"
+        "Vocaloid",
+        "Zenless Zone Zero",
+        "Zutto Mayonaka de Iinoni."
       ],
       "works_type": [
+        "Comic",
         "Goods",
         "Handmade Crafts"
       ],
