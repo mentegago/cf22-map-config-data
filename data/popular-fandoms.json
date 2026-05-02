@@ -5,15 +5,15 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 355
+    "count": 356
   },
   {
     "fandom": "Genshin Impact",
-    "count": 340
+    "count": 341
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 192
+    "count": 194
   },
   {
     "fandom": "Uma Musume",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 130
+    "count": 129
   },
   {
     "fandom": "HoYoverse",
@@ -49,11 +49,11 @@
   },
   {
     "fandom": "VTuber",
-    "count": 109
+    "count": 108
   },
   {
     "fandom": "Pokemon",
-    "count": 102
+    "count": 103
   },
   {
     "fandom": "Haikyu!!",
@@ -77,7 +77,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 80
+    "count": 79
   },
   {
     "fandom": "One Piece",
@@ -220,15 +220,15 @@
     "count": 28
   },
   {
-    "fandom": "Hazbin Hotel",
-    "count": 27
-  },
-  {
     "fandom": "Valorant",
     "count": 26
   },
   {
     "fandom": "My Little Pony",
+    "count": 26
+  },
+  {
+    "fandom": "Hazbin Hotel",
     "count": 26
   },
   {
@@ -380,16 +380,8 @@
     "count": 17
   },
   {
-    "fandom": "Holostars",
-    "count": 17
-  },
-  {
     "fandom": "Aikatsu!",
     "count": 17
-  },
-  {
-    "fandom": "Final Fantasy",
-    "count": 16
   },
   {
     "fandom": "Touhou",
@@ -420,11 +412,19 @@
     "count": 16
   },
   {
+    "fandom": "Holostars",
+    "count": 16
+  },
+  {
     "fandom": "Hatsune Miku",
     "count": 15
   },
   {
     "fandom": "Silent Hill",
+    "count": 15
+  },
+  {
+    "fandom": "Final Fantasy",
     "count": 15
   },
   {
@@ -444,6 +444,10 @@
     "count": 15
   },
   {
+    "fandom": "The Disastrous Life of Saiki K.",
+    "count": 15
+  },
+  {
     "fandom": "Call of Duty",
     "count": 15
   },
@@ -453,6 +457,10 @@
   },
   {
     "fandom": "Ace Attorney",
+    "count": 14
+  },
+  {
+    "fandom": "Crafts",
     "count": 14
   },
   {
@@ -469,10 +477,6 @@
   },
   {
     "fandom": "Harry Potter",
-    "count": 14
-  },
-  {
-    "fandom": "The Disastrous Life of Saiki K.",
     "count": 14
   },
   {
@@ -512,11 +516,11 @@
     "count": 13
   },
   {
-    "fandom": "Crafts",
+    "fandom": "Tomorrow X Together",
     "count": 13
   },
   {
-    "fandom": "Tomorrow X Together",
+    "fandom": "Tokyo Debunker",
     "count": 13
   },
   {
@@ -561,10 +565,6 @@
   },
   {
     "fandom": "Dandy's World",
-    "count": 12
-  },
-  {
-    "fandom": "Tokyo Debunker",
     "count": 12
   },
   {
@@ -1273,6 +1273,10 @@
   },
   {
     "fandom": "Gorillaz",
+    "count": 4
+  },
+  {
+    "fandom": "Pandavva",
     "count": 4
   },
   {
@@ -2029,10 +2033,6 @@
   },
   {
     "fandom": "Monogatari Series",
-    "count": 2
-  },
-  {
-    "fandom": "Pandavva",
     "count": 2
   },
   {
@@ -3140,6 +3140,10 @@
     "count": 1
   },
   {
+    "fandom": "Amine",
+    "count": 1
+  },
+  {
     "fandom": "9-nine-",
     "count": 1
   },
@@ -3289,6 +3293,10 @@
   },
   {
     "fandom": "Sound! Euphonium",
+    "count": 1
+  },
+  {
+    "fandom": "Tentenkakumei",
     "count": 1
   },
   {
