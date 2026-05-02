@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "creators": [
     {
       "id": 7851,
@@ -5279,18 +5279,40 @@
         "Cygames",
         "Street Fighter",
         "Vtuber",
-        "Cgdct"
+        "Cgdct",
+        "Nikke",
+        "Kancolle",
+        "Idolmaster",
+        "Blue Archive",
+        "Uma Musume",
+        "Gbf",
+        "Shadowverse"
       ],
       "fandoms": [
+        "Blue Archive",
         "CGDCT",
         "Cygames",
+        "Goddess of Victory: NIKKE",
+        "Granblue Fantasy",
+        "Idolmaster",
+        "Kantai Collection",
+        "Shadowverse",
         "Street Fighter",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/3ce31267-44df-4d03-8a09-9d8a592505ec/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/7d4e460d-a1e2-41d3-8d09-d940ae1470f6/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/bd35373e-6edc-4292-b3d0-867017d16df2/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/a2dcc64c-da54-4e04-ac9b-8cbc6a2ee0ac/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/1fca7d96-c888-45ef-9f34-30bde134c6aa/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/1b6b21f8-89b4-44de-b39a-0f10cfec998a/AE-21/AE-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/3d393a51-6060-467c-89c1-ad454e5b3c10/AE-21/AE-22.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bulu Biru x KANAU Virtual x SVID.jpg",
       "circle_code": "AE-21/AE-22"
     },
@@ -7673,11 +7695,19 @@
       "urls": [
         {
           "title": "Facebook",
-          "url": "https://www.facebook.com/YukitorakeijiOfficial/"
+          "url": "https://www.facebook.com/Chanelyuii"
         },
         {
           "title": "Instagram",
           "url": "https://www.instagram.com/yukitora_keiji"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/Yukitorakeiji"
+        },
+        {
+          "title": "Other",
+          "url": "https://www.instagram.com/kristy.yue_"
         }
       ],
       "raw_fandoms": [
@@ -7694,10 +7724,18 @@
         "Wuthering Waves"
       ],
       "works_type": [
+        "Commission",
         "Photobook Cosplay",
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/f2a4fc7d-4a65-4028-b4d3-7c3c05e021ff/AF-45/AF-46.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/9887041c-6b1e-4e70-aade-7193fea15034/AF-45/AF-46.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/76759d68-498f-4858-be5d-47d5ab4f23ee/AF-45/AF-46.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/7594447d-3d25-4256-a18f-092c8a960471/AF-45/AF-46.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/d28a16ed-37d7-48b8-941b-034972e4e858/AF-45/AF-46.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/YukirexFam.jpg",
       "circle_code": "AF-45/AF-46"
     },
@@ -18536,7 +18574,6 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/2fccf62a-f859-4aea-8bfb-0e1058384cdf/D-27ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/f2fc7b84-3e92-4f47-8e7c-ccc569ac454a/D-27ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/7c3b46c1-6e24-41e2-b5ae-59ae672b7a2f/D-27ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/ea517bac-9f66-4909-95b1-a83ee7718300/D-27ab.jpg",
@@ -31521,8 +31558,7 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/c584990e-228e-42d6-bb07-ecbecee7282f/I-05ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/d5e46e7c-0a00-4dae-b020-7b472f7ecda6/I-05ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/3a0ede13-bade-47ab-9376-90c4f15a56ef/I-05ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/d5e46e7c-0a00-4dae-b020-7b472f7ecda6/I-05ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Belka.jpg",
       "circle_code": "I-05ab"
@@ -48495,7 +48531,11 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/45b898b4-4d6c-4f77-bcee-1d805c34a7a6/M-54a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/db592066-a7f7-4594-89f7-b7d347c9dc7e/M-54a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/ec84cdec-eb14-4c0b-848b-32d6545be926/M-54a.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Reinoirr and Sherriefoal's stable.jpg",
       "circle_code": "M-54a"
     },
