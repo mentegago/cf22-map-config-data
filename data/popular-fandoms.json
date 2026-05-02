@@ -17,7 +17,7 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 185
+    "count": 186
   },
   {
     "fandom": "Alien Stage",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 157
+    "count": 158
   },
   {
     "fandom": "Vocaloid",
@@ -45,11 +45,11 @@
   },
   {
     "fandom": "Arknights",
-    "count": 110
+    "count": 111
   },
   {
     "fandom": "VTuber",
-    "count": 108
+    "count": 109
   },
   {
     "fandom": "Pokemon",
@@ -77,7 +77,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 79
+    "count": 80
   },
   {
     "fandom": "One Piece",
@@ -100,12 +100,12 @@
     "count": 65
   },
   {
-    "fandom": "NIJISANJI",
+    "fandom": "Arknights: Endfield",
     "count": 61
   },
   {
-    "fandom": "Arknights: Endfield",
-    "count": 60
+    "fandom": "NIJISANJI",
+    "count": 61
   },
   {
     "fandom": "Delicious in Dungeon",
@@ -153,7 +153,7 @@
   },
   {
     "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 40
+    "count": 41
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
@@ -180,11 +180,11 @@
     "count": 34
   },
   {
-    "fandom": "Ensemble Stars!",
-    "count": 32
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 33
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Ensemble Stars!",
     "count": 32
   },
   {
@@ -213,11 +213,15 @@
   },
   {
     "fandom": "The Amazing Digital Circus",
-    "count": 29
+    "count": 30
   },
   {
     "fandom": "BanG Dream!",
     "count": 28
+  },
+  {
+    "fandom": "Hazbin Hotel",
+    "count": 27
   },
   {
     "fandom": "Valorant",
@@ -225,10 +229,6 @@
   },
   {
     "fandom": "My Little Pony",
-    "count": 26
-  },
-  {
-    "fandom": "Hazbin Hotel",
     "count": 26
   },
   {
@@ -304,6 +304,10 @@
     "count": 21
   },
   {
+    "fandom": "Hollow Knight",
+    "count": 21
+  },
+  {
     "fandom": "Bungo Stray Dogs",
     "count": 21
   },
@@ -328,7 +332,11 @@
     "count": 20
   },
   {
-    "fandom": "Hollow Knight",
+    "fandom": "Needy Streamer Overload",
+    "count": 20
+  },
+  {
+    "fandom": "Witch Hat Atelier",
     "count": 20
   },
   {
@@ -345,14 +353,6 @@
   },
   {
     "fandom": "Kaiju No. 8",
-    "count": 19
-  },
-  {
-    "fandom": "Needy Streamer Overload",
-    "count": 19
-  },
-  {
-    "fandom": "Witch Hat Atelier",
     "count": 19
   },
   {
@@ -492,6 +492,10 @@
     "count": 13
   },
   {
+    "fandom": "Panty & Stocking with Garterbelt",
+    "count": 13
+  },
+  {
     "fandom": "18trip",
     "count": 13
   },
@@ -529,10 +533,6 @@
   },
   {
     "fandom": "Forsaken",
-    "count": 12
-  },
-  {
-    "fandom": "Panty & Stocking with Garterbelt",
     "count": 12
   },
   {
@@ -612,10 +612,6 @@
     "count": 10
   },
   {
-    "fandom": "Slam Dunk",
-    "count": 10
-  },
-  {
     "fandom": "ATEEZ",
     "count": 10
   },
@@ -660,6 +656,10 @@
     "count": 9
   },
   {
+    "fandom": "Fate Series",
+    "count": 9
+  },
+  {
     "fandom": "IDOLiSH7",
     "count": 9
   },
@@ -669,6 +669,10 @@
   },
   {
     "fandom": "Orb",
+    "count": 9
+  },
+  {
+    "fandom": "Slam Dunk",
     "count": 9
   },
   {
@@ -740,10 +744,6 @@
     "count": 8
   },
   {
-    "fandom": "Fate Series",
-    "count": 8
-  },
-  {
     "fandom": "Gakuen Idolmaster (Hatsuboshi Gakuen)",
     "count": 8
   },
@@ -798,6 +798,10 @@
   {
     "fandom": "Mo Xiang Tong Xiu",
     "count": 8
+  },
+  {
+    "fandom": "Chiikawa",
+    "count": 7
   },
   {
     "fandom": "Avatar: The Last Airbender",
@@ -876,10 +880,6 @@
     "count": 7
   },
   {
-    "fandom": "Chiikawa",
-    "count": 6
-  },
-  {
     "fandom": "Banana Fish",
     "count": 6
   },
@@ -888,11 +888,11 @@
     "count": 6
   },
   {
-    "fandom": "Azur Lane",
+    "fandom": "Final Fantasy VII",
     "count": 6
   },
   {
-    "fandom": "Cosmic Princess Kaguya",
+    "fandom": "Azur Lane",
     "count": 6
   },
   {
@@ -1012,7 +1012,7 @@
     "count": 5
   },
   {
-    "fandom": "Final Fantasy VII",
+    "fandom": "Cosmic Princess Kaguya",
     "count": 5
   },
   {
@@ -1029,6 +1029,10 @@
   },
   {
     "fandom": "Mecha",
+    "count": 5
+  },
+  {
+    "fandom": "Sky: Children of the Light",
     "count": 5
   },
   {
@@ -1197,10 +1201,6 @@
   },
   {
     "fandom": "DLL",
-    "count": 4
-  },
-  {
-    "fandom": "Sky: Children of the Light",
     "count": 4
   },
   {
@@ -1380,6 +1380,10 @@
     "count": 3
   },
   {
+    "fandom": "Okami",
+    "count": 3
+  },
+  {
     "fandom": "Red Dead Redemption 2",
     "count": 3
   },
@@ -1421,6 +1425,10 @@
   },
   {
     "fandom": "Shugo Chara",
+    "count": 3
+  },
+  {
+    "fandom": "Fabulous Beast",
     "count": 3
   },
   {
@@ -1473,6 +1481,10 @@
   },
   {
     "fandom": "Unstable Universe",
+    "count": 3
+  },
+  {
+    "fandom": "ENA",
     "count": 3
   },
   {
@@ -1728,10 +1740,6 @@
     "count": 2
   },
   {
-    "fandom": "Okami",
-    "count": 2
-  },
-  {
     "fandom": "SpongeBob SquarePants",
     "count": 2
   },
@@ -1808,7 +1816,7 @@
     "count": 2
   },
   {
-    "fandom": "Fabulous Beast",
+    "fandom": "Bluey",
     "count": 2
   },
   {
@@ -1925,6 +1933,10 @@
   },
   {
     "fandom": "Crayon Shin-chan",
+    "count": 2
+  },
+  {
+    "fandom": "Doraemon",
     "count": 2
   },
   {
@@ -2096,10 +2108,6 @@
     "count": 2
   },
   {
-    "fandom": "ENA",
-    "count": 2
-  },
-  {
     "fandom": "Detroit: Become Human",
     "count": 2
   },
@@ -2261,10 +2269,6 @@
   },
   {
     "fandom": "Mahjong",
-    "count": 1
-  },
-  {
-    "fandom": "Eos",
     "count": 1
   },
   {
@@ -2593,10 +2597,6 @@
   },
   {
     "fandom": "Our Life: Beginning and Always",
-    "count": 1
-  },
-  {
-    "fandom": "Bluey",
     "count": 1
   },
   {
@@ -2972,10 +2972,6 @@
     "count": 1
   },
   {
-    "fandom": "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
-    "count": 1
-  },
-  {
     "fandom": "Ace of Diamond",
     "count": 1
   },
@@ -3284,6 +3280,10 @@
     "count": 1
   },
   {
+    "fandom": "Bloom Into You",
+    "count": 1
+  },
+  {
     "fandom": "Rascal Does Not Dream",
     "count": 1
   },
@@ -3301,10 +3301,6 @@
   },
   {
     "fandom": "Wandering Witch: The Journey of Elaina",
-    "count": 1
-  },
-  {
-    "fandom": "Yagakimi",
     "count": 1
   },
   {
@@ -3609,10 +3605,6 @@
   },
   {
     "fandom": "Paul Dano",
-    "count": 1
-  },
-  {
-    "fandom": "Fate/strange Fake",
     "count": 1
   },
   {
@@ -4177,10 +4169,6 @@
   },
   {
     "fandom": "Hellsing",
-    "count": 1
-  },
-  {
-    "fandom": "Doraemon",
     "count": 1
   },
   {

@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 46,
   "creators": [
     {
       "id": 7851,
@@ -2617,7 +2617,6 @@
         "Pragmata"
       ],
       "fandoms": [
-        "Eos",
         "Heartopia",
         "Pragmata",
         "VTuber"
@@ -22917,20 +22916,26 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/tajiryu_kata?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+          "url": "https://www.instagram.com/tajiryu_kata/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/tajiryu_kata"
         }
       ],
       "raw_fandoms": [
-        "Chaptor Sakura",
-        "Death Note",
-        "Gachiakuta",
-        "Original Art"
-      ],
-      "fandoms": [
+        "Arknights",
+        "Arknights: Endfield",
         "Cardcaptor Sakura",
         "Death Note",
-        "Gachiakuta",
-        "Original"
+        "Gachiakuta"
+      ],
+      "fandoms": [
+        "Arknights",
+        "Arknights: Endfield",
+        "Cardcaptor Sakura",
+        "Death Note",
+        "Gachiakuta"
       ],
       "works_type": [
         "Goods",
@@ -24597,8 +24602,25 @@
         "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa"
       ],
       "fandoms": [
-        "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
-        "Studio Ghibli"
+        "Bluey",
+        "Chiikawa",
+        "Doraemon",
+        "ENA",
+        "Fabulous Beast",
+        "Frieren: Beyond Journey's End",
+        "Hazbin Hotel",
+        "Hollow Knight",
+        "K-Pop: Demon Hunters",
+        "Needy Streamer Overload",
+        "Okami",
+        "Original",
+        "Panty & Stocking with Garterbelt",
+        "Sky: Children of the Light",
+        "Studio Ghibli",
+        "The Amazing Digital Circus",
+        "Uma Musume",
+        "VTuber",
+        "Zenless Zone Zero"
       ],
       "works_type": [
         "Commission",
@@ -35237,12 +35259,12 @@
         "Yagakimi"
       ],
       "fandoms": [
+        "Bloom Into You",
         "Rascal Does Not Dream",
         "Sound! Euphonium",
         "The Aquatope on White Sand",
         "Violet Evergarden",
         "Wandering Witch: The Journey of Elaina",
-        "Yagakimi",
         "Yuri"
       ],
       "works_type": [
@@ -39123,16 +39145,8 @@
       "day": "BOTH",
       "urls": [
         {
-          "title": "Instagram 1",
-          "url": "https://www.instagram.com/rosera13_/"
-        },
-        {
-          "title": "Instagram 2",
-          "url": "https://www.instagram.com/xierryne1312/"
-        },
-        {
-          "title": "Instagram 3",
-          "url": "https://www.instagram.com/kayfeii/"
+          "title": "Instagram",
+          "url": "https://www.instagram.com/saveass.png"
         }
       ],
       "raw_fandoms": [
@@ -39141,18 +39155,21 @@
         "Fate",
         "Project Sekai",
         "Vocaloid",
-        "Cosmic Princess Kaguya. Frieren",
-        "Slam Dunk"
+        "Frieren",
+        "Apothecary Diaries",
+        "Witch Hat Atelier",
+        "Final Fantasy Vii"
       ],
       "fandoms": [
-        "Cosmic Princess Kaguya",
         "Fate Series",
+        "Final Fantasy VII",
         "Frieren: Beyond Journey's End",
         "Pokemon",
         "Project SEKAI",
-        "Slam Dunk",
+        "The Apothecary Diaries (Kusuriya no Hitorigoto)",
         "Twisted Wonderland",
-        "Vocaloid"
+        "Vocaloid",
+        "Witch Hat Atelier"
       ],
       "works_type": [
         "Goods"
@@ -42723,7 +42740,7 @@
         "Fate/strange Fake"
       ],
       "fandoms": [
-        "Fate/strange Fake",
+        "Fate Series",
         "Genshin Impact",
         "Honkai Star Rail",
         "Original",
@@ -49678,7 +49695,8 @@
         "Zenless Zone Zero"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Terserah.jpg",
