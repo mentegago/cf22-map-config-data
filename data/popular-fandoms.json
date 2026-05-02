@@ -5,7 +5,7 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 354
+    "count": 355
   },
   {
     "fandom": "Genshin Impact",
@@ -13,11 +13,11 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 191
+    "count": 192
   },
   {
     "fandom": "Uma Musume",
-    "count": 186
+    "count": 185
   },
   {
     "fandom": "Alien Stage",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 156
+    "count": 157
   },
   {
     "fandom": "Vocaloid",
@@ -37,11 +37,11 @@
   },
   {
     "fandom": "HoYoverse",
-    "count": 124
+    "count": 123
   },
   {
     "fandom": "Hololive",
-    "count": 123
+    "count": 122
   },
   {
     "fandom": "Arknights",
@@ -65,7 +65,7 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 88
+    "count": 87
   },
   {
     "fandom": "Project SEKAI",
@@ -77,7 +77,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 80
+    "count": 79
   },
   {
     "fandom": "One Piece",
@@ -93,7 +93,7 @@
   },
   {
     "fandom": "DC Comics",
-    "count": 72
+    "count": 71
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
@@ -173,7 +173,7 @@
   },
   {
     "fandom": "Dispatch",
-    "count": 34
+    "count": 35
   },
   {
     "fandom": "Sonic the Hedgehog",
@@ -186,10 +186,6 @@
   {
     "fandom": "K-Pop: Demon Hunters",
     "count": 32
-  },
-  {
-    "fandom": "Marvel",
-    "count": 31
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
@@ -212,12 +208,16 @@
     "count": 30
   },
   {
+    "fandom": "Marvel",
+    "count": 30
+  },
+  {
     "fandom": "The Amazing Digital Circus",
     "count": 29
   },
   {
     "fandom": "BanG Dream!",
-    "count": 27
+    "count": 28
   },
   {
     "fandom": "Valorant",
@@ -304,10 +304,6 @@
     "count": 21
   },
   {
-    "fandom": "Hollow Knight",
-    "count": 21
-  },
-  {
     "fandom": "Bungo Stray Dogs",
     "count": 21
   },
@@ -329,6 +325,10 @@
   },
   {
     "fandom": "Cat",
+    "count": 20
+  },
+  {
+    "fandom": "Hollow Knight",
     "count": 20
   },
   {
@@ -392,6 +392,10 @@
     "count": 16
   },
   {
+    "fandom": "Touhou",
+    "count": 16
+  },
+  {
     "fandom": "Final Fantasy XIV",
     "count": 16
   },
@@ -420,7 +424,7 @@
     "count": 15
   },
   {
-    "fandom": "Touhou",
+    "fandom": "Silent Hill",
     "count": 15
   },
   {
@@ -444,10 +448,6 @@
     "count": 15
   },
   {
-    "fandom": "Silent Hill",
-    "count": 14
-  },
-  {
     "fandom": "Attack on Titan",
     "count": 14
   },
@@ -460,15 +460,7 @@
     "count": 14
   },
   {
-    "fandom": "Panty & Stocking with Garterbelt",
-    "count": 14
-  },
-  {
     "fandom": "Sailor Moon",
-    "count": 14
-  },
-  {
-    "fandom": "18trip",
     "count": 14
   },
   {
@@ -497,6 +489,10 @@
   },
   {
     "fandom": "Mouthwashing",
+    "count": 13
+  },
+  {
+    "fandom": "18trip",
     "count": 13
   },
   {
@@ -533,6 +529,10 @@
   },
   {
     "fandom": "Forsaken",
+    "count": 12
+  },
+  {
+    "fandom": "Panty & Stocking with Garterbelt",
     "count": 12
   },
   {
@@ -728,6 +728,10 @@
     "count": 8
   },
   {
+    "fandom": "Heartopia",
+    "count": 8
+  },
+  {
     "fandom": "Music",
     "count": 8
   },
@@ -833,10 +837,6 @@
   },
   {
     "fandom": "Indie VTuber",
-    "count": 7
-  },
-  {
-    "fandom": "Heartopia",
     "count": 7
   },
   {
@@ -2264,6 +2264,14 @@
     "count": 1
   },
   {
+    "fandom": "Eos",
+    "count": 1
+  },
+  {
+    "fandom": "Pragmata",
+    "count": 1
+  },
+  {
     "fandom": ".flow",
     "count": 1
   },
@@ -2744,10 +2752,6 @@
     "count": 1
   },
   {
-    "fandom": "Misc",
-    "count": 1
-  },
-  {
     "fandom": "Titus Family",
     "count": 1
   },
@@ -2965,6 +2969,10 @@
   },
   {
     "fandom": "Wearable",
+    "count": 1
+  },
+  {
+    "fandom": "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
     "count": 1
   },
   {
@@ -3293,6 +3301,10 @@
   },
   {
     "fandom": "Wandering Witch: The Journey of Elaina",
+    "count": 1
+  },
+  {
+    "fandom": "Yagakimi",
     "count": 1
   },
   {
