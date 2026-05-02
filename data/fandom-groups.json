@@ -683,7 +683,8 @@
       "Anime Lawas Th 90an",
       "Anime/manga",
       "Old Anime",
-      "Retro Anime"
+      "Retro Anime",
+      "Amine"
     ]
   },
   {
@@ -1933,7 +1934,8 @@
       "Digital Circus",
       "Tadc",
       "The Amazing Digital Circus (tadc)",
-      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa"
+      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
+      "Tadc (digital Circus)"
     ]
   },
   {
@@ -7190,7 +7192,8 @@
       "The Powerpuff Girls",
       "Ppg / Rrb",
       "Powerpuff Girls",
-      "PPG"
+      "PPG",
+      "Power Puff Girls"
     ]
   },
   {
@@ -7864,6 +7867,34 @@
       "Bloom Into You",
       "Yagakimi",
       "Yagate Kimi ni Naru"
+    ]
+  },
+  {
+    "canonical": "The Fairly OddParents",
+    "variants": [
+      "The Fairly OddParents",
+      "Fairly Odd Parents",
+      "Fairly OddParents"
+    ]
+  },
+  {
+    "canonical": "Regular Show",
+    "variants": [
+      "Regular Show"
+    ]
+  },
+  {
+    "canonical": "Teen Titans Go!",
+    "variants": [
+      "Teen Titans Go!",
+      "Teen Titans Go"
+    ]
+  },
+  {
+    "canonical": "Tenten Kakumei",
+    "variants": [
+      "Tenten Kakumei",
+      "Tentenkakumei"
     ]
   }
 ]
