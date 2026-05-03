@@ -1,19 +1,19 @@
 [
   {
     "fandom": "Original",
-    "count": 496
+    "count": 498
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 356
+    "count": 357
   },
   {
     "fandom": "Genshin Impact",
-    "count": 339
+    "count": 338
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 193
+    "count": 194
   },
   {
     "fandom": "Uma Musume",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Alien Stage",
-    "count": 156
+    "count": 155
   },
   {
     "fandom": "Vocaloid",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 130
+    "count": 129
   },
   {
     "fandom": "HoYoverse",
@@ -77,11 +77,11 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 78
+    "count": 79
   },
   {
     "fandom": "One Piece",
-    "count": 76
+    "count": 75
   },
   {
     "fandom": "Chainsaw Man",
@@ -97,15 +97,15 @@
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
-    "count": 65
-  },
-  {
-    "fandom": "Arknights: Endfield",
-    "count": 61
+    "count": 64
   },
   {
     "fandom": "NIJISANJI",
     "count": 61
+  },
+  {
+    "fandom": "Arknights: Endfield",
+    "count": 60
   },
   {
     "fandom": "Delicious in Dungeon",
@@ -156,11 +156,11 @@
     "count": 40
   },
   {
-    "fandom": "My Hero Academia (Boku No Hero Academia)",
-    "count": 40
+    "fandom": "Gachiakuta",
+    "count": 39
   },
   {
-    "fandom": "Gachiakuta",
+    "fandom": "My Hero Academia (Boku No Hero Academia)",
     "count": 39
   },
   {
@@ -180,12 +180,16 @@
     "count": 34
   },
   {
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 34
+  },
+  {
     "fandom": "Ensemble Stars!",
     "count": 32
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
-    "count": 32
+    "fandom": "Animal",
+    "count": 31
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
@@ -193,10 +197,6 @@
   },
   {
     "fandom": "Resident Evil",
-    "count": 30
-  },
-  {
-    "fandom": "Animal",
     "count": 30
   },
   {
@@ -208,10 +208,6 @@
     "count": 30
   },
   {
-    "fandom": "Marvel",
-    "count": 30
-  },
-  {
     "fandom": "The Amazing Digital Circus",
     "count": 30
   },
@@ -220,8 +216,12 @@
     "count": 29
   },
   {
-    "fandom": "Valorant",
-    "count": 26
+    "fandom": "Marvel",
+    "count": 29
+  },
+  {
+    "fandom": "Puella Magi Madoka Magica",
+    "count": 27
   },
   {
     "fandom": "My Little Pony",
@@ -232,7 +232,7 @@
     "count": 26
   },
   {
-    "fandom": "Puella Magi Madoka Magica",
+    "fandom": "Roblox",
     "count": 26
   },
   {
@@ -244,19 +244,23 @@
     "count": 25
   },
   {
-    "fandom": "Roblox",
+    "fandom": "Valorant",
     "count": 25
-  },
-  {
-    "fandom": "Neon Genesis Evangelion",
-    "count": 24
   },
   {
     "fandom": "Detective Conan",
     "count": 24
   },
   {
+    "fandom": "Shoujo",
+    "count": 24
+  },
+  {
     "fandom": "Adventure Time",
+    "count": 23
+  },
+  {
+    "fandom": "Neon Genesis Evangelion",
     "count": 23
   },
   {
@@ -276,11 +280,11 @@
     "count": 22
   },
   {
-    "fandom": "Hollow Knight",
+    "fandom": "Nana",
     "count": 22
   },
   {
-    "fandom": "Shoujo",
+    "fandom": "Hollow Knight",
     "count": 22
   },
   {
@@ -290,10 +294,6 @@
   {
     "fandom": "Stardew Valley",
     "count": 22
-  },
-  {
-    "fandom": "Nana",
-    "count": 21
   },
   {
     "fandom": "Hunter x Hunter",
@@ -328,16 +328,16 @@
     "count": 21
   },
   {
+    "fandom": "Devil May Cry",
+    "count": 20
+  },
+  {
     "fandom": "Cat",
     "count": 20
   },
   {
     "fandom": "Needy Streamer Overload",
     "count": 20
-  },
-  {
-    "fandom": "Devil May Cry",
-    "count": 19
   },
   {
     "fandom": "Bocchi the Rock!",
@@ -580,7 +580,15 @@
     "count": 12
   },
   {
+    "fandom": "Death Note",
+    "count": 11
+  },
+  {
     "fandom": "Cardcaptor Sakura",
+    "count": 11
+  },
+  {
+    "fandom": "Hetalia",
     "count": 11
   },
   {
@@ -596,19 +604,11 @@
     "count": 11
   },
   {
-    "fandom": "Death Note",
-    "count": 10
-  },
-  {
     "fandom": "BoBoiBoy",
     "count": 10
   },
   {
     "fandom": "Kamen Rider",
-    "count": 10
-  },
-  {
-    "fandom": "Hetalia",
     "count": 10
   },
   {
@@ -768,6 +768,10 @@
     "count": 8
   },
   {
+    "fandom": "Kimi ni Todoke",
+    "count": 8
+  },
+  {
     "fandom": "ZEROBASEONE",
     "count": 8
   },
@@ -860,10 +864,6 @@
     "count": 7
   },
   {
-    "fandom": "Kimi ni Todoke",
-    "count": 7
-  },
-  {
     "fandom": "Ultraman",
     "count": 7
   },
@@ -917,6 +917,10 @@
   },
   {
     "fandom": "Furry",
+    "count": 6
+  },
+  {
+    "fandom": "Kirby",
     "count": 6
   },
   {
@@ -1028,10 +1032,6 @@
     "count": 5
   },
   {
-    "fandom": "Kirby",
-    "count": 5
-  },
-  {
     "fandom": "Toilet-Bound Hanako-kun",
     "count": 5
   },
@@ -1132,6 +1132,10 @@
     "count": 5
   },
   {
+    "fandom": "Charisma",
+    "count": 5
+  },
+  {
     "fandom": "Pandavva",
     "count": 5
   },
@@ -1204,6 +1208,10 @@
     "count": 4
   },
   {
+    "fandom": "Nichijou",
+    "count": 4
+  },
+  {
     "fandom": "Plur1bus",
     "count": 4
   },
@@ -1229,6 +1237,10 @@
   },
   {
     "fandom": "Ninjago",
+    "count": 4
+  },
+  {
+    "fandom": "Fruits Basket",
     "count": 4
   },
   {
@@ -1276,10 +1288,6 @@
     "count": 4
   },
   {
-    "fandom": "Team Fortress 2",
-    "count": 4
-  },
-  {
     "fandom": "Gorillaz",
     "count": 4
   },
@@ -1305,10 +1313,6 @@
   },
   {
     "fandom": "Smiling Friends",
-    "count": 4
-  },
-  {
-    "fandom": "Charisma",
     "count": 4
   },
   {
@@ -1373,10 +1377,6 @@
   },
   {
     "fandom": "Touken Ranbu",
-    "count": 3
-  },
-  {
-    "fandom": "Nichijou",
     "count": 3
   },
   {
@@ -1460,10 +1460,6 @@
     "count": 3
   },
   {
-    "fandom": "PHIGHTING!",
-    "count": 3
-  },
-  {
     "fandom": "Regretevator",
     "count": 3
   },
@@ -1497,10 +1493,6 @@
   },
   {
     "fandom": "Monthly Girls' Nozaki-kun",
-    "count": 3
-  },
-  {
-    "fandom": "Fruits Basket",
     "count": 3
   },
   {
@@ -1561,6 +1553,10 @@
   },
   {
     "fandom": "Zutto Mayonaka de Iinoni.",
+    "count": 3
+  },
+  {
+    "fandom": "Team Fortress 2",
     "count": 3
   },
   {
@@ -1908,6 +1904,10 @@
     "count": 2
   },
   {
+    "fandom": "Witch's Heart",
+    "count": 2
+  },
+  {
     "fandom": "Free!",
     "count": 2
   },
@@ -2060,6 +2060,10 @@
     "count": 2
   },
   {
+    "fandom": "PHIGHTING!",
+    "count": 2
+  },
+  {
     "fandom": "The Beatles",
     "count": 2
   },
@@ -2073,6 +2077,10 @@
   },
   {
     "fandom": "Made in Abyss",
+    "count": 2
+  },
+  {
+    "fandom": "Saihate Eki",
     "count": 2
   },
   {
@@ -2584,6 +2592,10 @@
     "count": 1
   },
   {
+    "fandom": "Your Lie in April",
+    "count": 1
+  },
+  {
     "fandom": "Alpha Drive One",
     "count": 1
   },
@@ -2752,10 +2764,6 @@
     "count": 1
   },
   {
-    "fandom": "General & Pokemon",
-    "count": 1
-  },
-  {
     "fandom": "Apel Kun",
     "count": 1
   },
@@ -2900,6 +2908,10 @@
     "count": 1
   },
   {
+    "fandom": "Wonder Egg Priority",
+    "count": 1
+  },
+  {
     "fandom": "Jumpcut",
     "count": 1
   },
@@ -2912,15 +2924,7 @@
     "count": 1
   },
   {
-    "fandom": "DPR",
-    "count": 1
-  },
-  {
-    "fandom": "Jims Computer",
-    "count": 1
-  },
-  {
-    "fandom": "Witch’s Heart",
+    "fandom": "Dps",
     "count": 1
   },
   {
@@ -3137,10 +3141,6 @@
   },
   {
     "fandom": "Suikoden",
-    "count": 1
-  },
-  {
-    "fandom": "Happy Tree Friends",
     "count": 1
   },
   {
@@ -3420,15 +3420,7 @@
     "count": 1
   },
   {
-    "fandom": "Saihate Station",
-    "count": 1
-  },
-  {
     "fandom": "Shtdn",
-    "count": 1
-  },
-  {
-    "fandom": "Witch's Heart",
     "count": 1
   },
   {
@@ -3812,10 +3804,6 @@
     "count": 1
   },
   {
-    "fandom": "Saihate Eki",
-    "count": 1
-  },
-  {
     "fandom": "V.W.P",
     "count": 1
   },
@@ -4033,6 +4021,10 @@
   },
   {
     "fandom": "With U And The Rain",
+    "count": 1
+  },
+  {
+    "fandom": "Chappell Roan",
     "count": 1
   },
   {

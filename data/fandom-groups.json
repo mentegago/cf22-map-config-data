@@ -380,7 +380,8 @@
       "Pokémon",
       "Pokemon Sticker Sheet",
       "Pokemon Genshin Impact",
-      "Game (love And Deepspace, Pokemon, Where Winds Meet, Umamusume)"
+      "Game (love And Deepspace, Pokemon, Where Winds Meet, Umamusume)",
+      "General & Pokemon"
     ]
   },
   {
@@ -1243,7 +1244,8 @@
       "Bungou Stray Dogs",
       "Bungo Stray Dog",
       "Bsd",
-      "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave"
+      "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave",
+      "Bungo Stray Dogs (bsd)"
     ]
   },
   {
@@ -2072,7 +2074,8 @@
       "Original And Animals",
       "Bugs Themed",
       "Sea Creatures",
-      "Tikus"
+      "Tikus",
+      "Bunny"
     ]
   },
   {
@@ -2369,7 +2372,8 @@
       "Dnd/ttrpg",
       "Dungeon N Dragon",
       "Dungeon And Dragons",
-      "Dungeon & Dragon"
+      "Dungeon & Dragon",
+      "Dungeons And Dragons/dnd"
     ]
   },
   {
@@ -2433,7 +2437,10 @@
     "canonical": "Kimi ni Todoke",
     "variants": [
       "Kimi ni Todoke",
-      "Sawako"
+      "Sawako",
+      "Kimi No Todoke",
+      "From Me To You",
+      "Kimi No Todoke / From Me To You"
     ]
   },
   {
@@ -3616,7 +3623,8 @@
       "Hfjone",
       "Object Show Community",
       "Osc/bfdi",
-      "Object Shows (inanimate Insanity, Itft, Bfdi)"
+      "Object Shows (inanimate Insanity, Itft, Bfdi)",
+      "Object Shows (bfdi, Ii, Tnm, Hfjone, Etc)"
     ]
   },
   {
@@ -6974,7 +6982,8 @@
   {
     "canonical": "Saihate Eki",
     "variants": [
-      "Saihate Eki"
+      "Saihate Eki",
+      "Saihate Station"
     ]
   },
   {
@@ -7895,6 +7904,62 @@
     "variants": [
       "Tenten Kakumei",
       "Tentenkakumei"
+    ]
+  },
+  {
+    "canonical": "Witch's Heart",
+    "variants": [
+      "Witch's Heart"
+    ]
+  },
+  {
+    "canonical": "Shadowverse",
+    "variants": [
+      "Shadowverse"
+    ]
+  },
+  {
+    "canonical": "Your Lie in April",
+    "variants": [
+      "Your Lie in April",
+      "Shigatsu Wa Kimi No Uso",
+      "Shigatsu Wa Kimi No Uso / Your Lie In April"
+    ]
+  },
+  {
+    "canonical": "Wonder Egg Priority",
+    "variants": [
+      "Wonder Egg Priority"
+    ]
+  },
+  {
+    "canonical": "Ganbare Nakamura",
+    "variants": [
+      "Ganbare Nakamura"
+    ]
+  },
+  {
+    "canonical": "Dps",
+    "variants": [
+      "Dps"
+    ]
+  },
+  {
+    "canonical": "Shtdn",
+    "variants": [
+      "Shtdn"
+    ]
+  },
+  {
+    "canonical": "Chappell Roan",
+    "variants": [
+      "Chappell Roan"
+    ]
+  },
+  {
+    "canonical": "Muse Dash",
+    "variants": [
+      "Muse Dash"
     ]
   }
 ]
