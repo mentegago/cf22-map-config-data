@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 495
+    "count": 496
   },
   {
     "fandom": "Honkai Star Rail",
@@ -65,15 +65,15 @@
   },
   {
     "fandom": "Project SEKAI",
-    "count": 87
-  },
-  {
-    "fandom": "Wuthering Waves",
-    "count": 86
+    "count": 88
   },
   {
     "fandom": "PLAVE",
     "count": 86
+  },
+  {
+    "fandom": "Wuthering Waves",
+    "count": 85
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
@@ -169,7 +169,7 @@
   },
   {
     "fandom": "Wind Breaker",
-    "count": 35
+    "count": 36
   },
   {
     "fandom": "Dispatch",
@@ -292,10 +292,6 @@
     "count": 22
   },
   {
-    "fandom": "Cookie Run: Kingdom",
-    "count": 22
-  },
-  {
     "fandom": "Nana",
     "count": 21
   },
@@ -321,6 +317,10 @@
   },
   {
     "fandom": "Minecraft",
+    "count": 21
+  },
+  {
+    "fandom": "Cookie Run: Kingdom",
     "count": 21
   },
   {
@@ -368,6 +368,10 @@
     "count": 18
   },
   {
+    "fandom": "Dr. STONE",
+    "count": 17
+  },
+  {
     "fandom": "Cookie Run",
     "count": 17
   },
@@ -397,10 +401,6 @@
   },
   {
     "fandom": "Digimon",
-    "count": 16
-  },
-  {
-    "fandom": "Dr. STONE",
     "count": 16
   },
   {
@@ -592,6 +592,10 @@
     "count": 11
   },
   {
+    "fandom": "South Park",
+    "count": 11
+  },
+  {
     "fandom": "Death Note",
     "count": 10
   },
@@ -637,10 +641,6 @@
   },
   {
     "fandom": "Cortis",
-    "count": 10
-  },
-  {
-    "fandom": "South Park",
     "count": 10
   },
   {
@@ -1060,10 +1060,6 @@
     "count": 5
   },
   {
-    "fandom": "The Freak Circus",
-    "count": 5
-  },
-  {
     "fandom": "Magical Girl",
     "count": 5
   },
@@ -1133,6 +1129,10 @@
   },
   {
     "fandom": "Land of the Lustrous",
+    "count": 5
+  },
+  {
+    "fandom": "Pandavva",
     "count": 5
   },
   {
@@ -1248,6 +1248,10 @@
     "count": 4
   },
   {
+    "fandom": "The Freak Circus",
+    "count": 4
+  },
+  {
     "fandom": "Boy's Love",
     "count": 4
   },
@@ -1277,10 +1281,6 @@
   },
   {
     "fandom": "Gorillaz",
-    "count": 4
-  },
-  {
-    "fandom": "Pandavva",
     "count": 4
   },
   {
@@ -1901,6 +1901,10 @@
   },
   {
     "fandom": "LEGO Monkie Kid",
+    "count": 2
+  },
+  {
+    "fandom": "Poppy Playtime",
     "count": 2
   },
   {
@@ -2912,11 +2916,11 @@
     "count": 1
   },
   {
-    "fandom": "Electric Dreams",
+    "fandom": "Jims Computer",
     "count": 1
   },
   {
-    "fandom": "Jims Computer",
+    "fandom": "Witch’s Heart",
     "count": 1
   },
   {
@@ -4016,10 +4020,6 @@
     "count": 1
   },
   {
-    "fandom": "Poppy Playtime",
-    "count": 1
-  },
-  {
     "fandom": "Seraph of the End",
     "count": 1
   },
@@ -4245,6 +4245,10 @@
   },
   {
     "fandom": "Arcaea",
+    "count": 1
+  },
+  {
+    "fandom": "Muse Dash",
     "count": 1
   },
   {
