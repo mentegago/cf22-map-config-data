@@ -192,6 +192,10 @@
     "count": 31
   },
   {
+    "fandom": "BanG Dream!",
+    "count": 30
+  },
+  {
     "fandom": "JoJo's Bizarre Adventure",
     "count": 30
   },
@@ -210,10 +214,6 @@
   {
     "fandom": "The Amazing Digital Circus",
     "count": 30
-  },
-  {
-    "fandom": "BanG Dream!",
-    "count": 29
   },
   {
     "fandom": "Marvel",
@@ -552,10 +552,6 @@
     "count": 12
   },
   {
-    "fandom": "Five Nights at Freddy's",
-    "count": 12
-  },
-  {
     "fandom": "Yuri",
     "count": 12
   },
@@ -597,6 +593,10 @@
   },
   {
     "fandom": "Utaite",
+    "count": 11
+  },
+  {
+    "fandom": "Five Nights at Freddy's",
     "count": 11
   },
   {
@@ -1300,6 +1300,10 @@
     "count": 4
   },
   {
+    "fandom": "Trickcal",
+    "count": 4
+  },
+  {
     "fandom": "DEADLOCK",
     "count": 4
   },
@@ -1392,10 +1396,6 @@
     "count": 3
   },
   {
-    "fandom": "Trains",
-    "count": 3
-  },
-  {
     "fandom": "The Pitt",
     "count": 3
   },
@@ -1441,6 +1441,10 @@
   },
   {
     "fandom": "Death Stranding",
+    "count": 3
+  },
+  {
+    "fandom": "Military",
     "count": 3
   },
   {
@@ -1521,10 +1525,6 @@
   },
   {
     "fandom": "Sfawtde",
-    "count": 3
-  },
-  {
-    "fandom": "Trickcal",
     "count": 3
   },
   {
@@ -1732,6 +1732,10 @@
     "count": 2
   },
   {
+    "fandom": "Trains",
+    "count": 2
+  },
+  {
     "fandom": "The Kid at the Back",
     "count": 2
   },
@@ -1828,10 +1832,6 @@
     "count": 2
   },
   {
-    "fandom": "Military",
-    "count": 2
-  },
-  {
     "fandom": "Suzume",
     "count": 2
   },
@@ -1889,10 +1889,6 @@
   },
   {
     "fandom": "Eddsworld",
-    "count": 2
-  },
-  {
-    "fandom": "Kereta Api Indonesia",
     "count": 2
   },
   {
@@ -2913,6 +2909,10 @@
   },
   {
     "fandom": "Jumpcut",
+    "count": 1
+  },
+  {
+    "fandom": "Kereta Api Indonesia",
     "count": 1
   },
   {
@@ -4221,6 +4221,14 @@
   },
   {
     "fandom": "Pearl",
+    "count": 1
+  },
+  {
+    "fandom": "Gta",
+    "count": 1
+  },
+  {
+    "fandom": "Railways",
     "count": 1
   },
   {
