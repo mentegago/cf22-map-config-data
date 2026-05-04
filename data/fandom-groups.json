@@ -285,7 +285,8 @@
       "Mihoyo Games (genshin , Hsr , Zzz)",
       "Hoyoverse (hsr, Gi, Zzz)",
       "Dan Zzz.",
-      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa"
+      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
+      "Angel Of Delusion"
     ]
   },
   {
@@ -3422,7 +3423,8 @@
       "Kaoru Hana Wa Rin To Saku",
       "Kaoru Hana",
       "Fragrant Flower",
-      "Kaoru-hana"
+      "Kaoru-hana",
+      "Kaoruko"
     ]
   },
   {
@@ -6584,7 +6586,8 @@
     "variants": [
       "Cosmic Princess Kaguya",
       "Cosmic Princess Kaguya. Frieren",
-      "And Cosmic Princess Kaguya"
+      "And Cosmic Princess Kaguya",
+      "Cpk"
     ]
   },
   {
@@ -7998,18 +8001,6 @@
     ]
   },
   {
-    "canonical": "Kaoruko",
-    "variants": [
-      "Kaoruko"
-    ]
-  },
-  {
-    "canonical": "Cpk",
-    "variants": [
-      "Cpk"
-    ]
-  },
-  {
     "canonical": "Ongeki",
     "variants": [
       "Ongeki"
@@ -8028,15 +8019,9 @@
     ]
   },
   {
-    "canonical": "Frozen Soul",
+    "canonical": "Frozen Soul (Dream Game)",
     "variants": [
       "Frozen Soul",
-      "Frozen Soul/dream Game"
-    ]
-  },
-  {
-    "canonical": "Dream Game",
-    "variants": [
       "Dream Game",
       "Frozen Soul/dream Game"
     ]
@@ -8048,13 +8033,13 @@
     ]
   },
   {
-    "canonical": "17776",
+    "canonical": "17776 (What Football Will Look Like in the Future)",
     "variants": [
       "17776"
     ]
   },
   {
-    "canonical": "A Regect",
+    "canonical": "A ReGect",
     "variants": [
       "A Regect"
     ]
@@ -8072,15 +8057,9 @@
     ]
   },
   {
-    "canonical": "2kawaii4comfort",
+    "canonical": "2Kawaii4Comfort",
     "variants": [
       "2kawaii4comfort"
-    ]
-  },
-  {
-    "canonical": "Angel Of Delusion",
-    "variants": [
-      "Angel Of Delusion"
     ]
   },
   {
