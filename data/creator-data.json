@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "creators": [
     {
       "id": 7851,
@@ -4390,11 +4390,9 @@
         }
       ],
       "raw_fandoms": [
-        "Oc Charater",
-        "Frieren"
+        "Oc Charater"
       ],
       "fandoms": [
-        "Frieren: Beyond Journey's End",
         "Original"
       ],
       "works_type": [
@@ -4402,7 +4400,15 @@
         "Music",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/d4ae34a1-a892-4ba9-9d55-6f00702bc578/AD-44.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/5b462ac2-0a20-47f6-8655-6e702a0c232b/AD-44.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/b2932fa4-14a7-47c6-aed4-57b06d92a622/AD-44.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/dfbe9ce2-a1c2-43e6-8583-15e5bdb1f502/AD-44.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/64726789-71a2-427c-9f90-22847b98457c/AD-44.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/0339a9e0-6150-4497-a11d-e73d79551c3e/AD-44.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/1ebb5a11-068b-4b39-80a8-d488f42b03b0/AD-44.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Cure to Male Loneliness.jpg",
       "circle_code": "AD-44"
     },
@@ -17497,7 +17503,6 @@
         "Initial D",
         "Kaichou wa Maid-sama!",
         "Kamisama Kiss",
-        "Kaoruko",
         "Lookism",
         "My Little Monster",
         "Nana",
@@ -17508,6 +17513,7 @@
         "Sekai-ichi Hatsukoi",
         "Silent Hill",
         "Strangers from Hell",
+        "The Fragrant Flower Blooms With Dignity",
         "Tokyo Mew Mew"
       ],
       "works_type": [
@@ -33685,7 +33691,7 @@
       ],
       "fandoms": [
         "Arcaea",
-        "Cpk",
+        "Cosmic Princess Kaguya",
         "Doki Doki Literature Club!",
         "Girls Band Cry",
         "maimai",
@@ -35255,11 +35261,10 @@
         "A Regect"
       ],
       "fandoms": [
-        "17776",
-        "A Regect",
-        "Dream Game",
+        "17776 (What Football Will Look Like in the Future)",
+        "A ReGect",
         "Ensemble Stars!",
-        "Frozen Soul",
+        "Frozen Soul (Dream Game)",
         "Homestuck",
         "HoneyWorks",
         "Love Of The S*n",
@@ -43303,7 +43308,7 @@
         "Original"
       ],
       "fandoms": [
-        "2kawaii4comfort",
+        "2Kawaii4Comfort",
         "Aikatsu!",
         "Hetalia",
         "Minecraft",
@@ -53130,7 +53135,6 @@
         "Tadc"
       ],
       "fandoms": [
-        "Angel Of Delusion",
         "Angels of Death",
         "Hololive",
         "Love and Deepspace",
@@ -60572,10 +60576,15 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/e4d8d6ed-0081-497b-b590-2327d07eb63d/Q-02ab/Q-03ab.jpeg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/90db8765-5c0b-4f1d-8c4e-85adbc0655f8/Q-02ab/Q-03ab.jpeg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/ab72e683-8ed3-4ba1-8a70-c04d4f0b81fa/Q-02ab/Q-03ab.jpeg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/c32924b0-0411-47bf-aae1-6e744af15b9d/Q-02ab/Q-03ab.jpeg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/6557b452-9796-4d20-904f-e28b9daf3de4/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/077c8be0-5363-4055-a5fc-72439ce70640/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/edd27e27-aa00-4cc8-8a5d-c3827b92f1bf/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/015e6aac-31d4-4538-abb4-228e4aa6594f/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/f0b6e5b5-2b8f-4ee9-bd79-96a37916bbf6/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/12082655-69f3-4e70-8758-83f276d5c9aa/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/dece4048-2d10-4774-bb58-a0d3b7b3f247/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/a1b2ab7c-287c-41da-acf7-8e04eb38290e/Q-02ab/Q-03ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/64dcb92e-3d1a-4182-be88-4ca4da59a8d6/Q-02ab/Q-03ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Doggy style.jpg",
       "circle_code": "Q-02ab/Q-03ab"
