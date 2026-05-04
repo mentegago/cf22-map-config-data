@@ -1,11 +1,11 @@
 [
   {
     "fandom": "Original",
-    "count": 499
+    "count": 500
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 358
+    "count": 360
   },
   {
     "fandom": "Genshin Impact",
@@ -13,19 +13,19 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 194
+    "count": 195
   },
   {
     "fandom": "Uma Musume",
-    "count": 187
+    "count": 189
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 158
+    "count": 160
   },
   {
     "fandom": "Alien Stage",
-    "count": 155
+    "count": 154
   },
   {
     "fandom": "Vocaloid",
@@ -41,7 +41,7 @@
   },
   {
     "fandom": "Hololive",
-    "count": 122
+    "count": 121
   },
   {
     "fandom": "Arknights",
@@ -49,11 +49,11 @@
   },
   {
     "fandom": "VTuber",
-    "count": 108
+    "count": 109
   },
   {
     "fandom": "Pokemon",
-    "count": 103
+    "count": 102
   },
   {
     "fandom": "Haikyu!!",
@@ -65,19 +65,19 @@
   },
   {
     "fandom": "Project SEKAI",
-    "count": 88
+    "count": 89
   },
   {
     "fandom": "PLAVE",
-    "count": 86
+    "count": 87
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 84
+    "count": 85
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 78
+    "count": 77
   },
   {
     "fandom": "One Piece",
@@ -89,7 +89,7 @@
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
-    "count": 72
+    "count": 73
   },
   {
     "fandom": "DC Comics",
@@ -101,6 +101,10 @@
   },
   {
     "fandom": "Arknights: Endfield",
+    "count": 63
+  },
+  {
+    "fandom": "Delicious in Dungeon",
     "count": 61
   },
   {
@@ -108,27 +112,19 @@
     "count": 61
   },
   {
-    "fandom": "Delicious in Dungeon",
-    "count": 60
-  },
-  {
     "fandom": "Blue Archive",
     "count": 52
   },
   {
-    "fandom": "Persona",
-    "count": 47
+    "fandom": "Deltarune",
+    "count": 46
   },
   {
-    "fandom": "Deltarune",
-    "count": 45
+    "fandom": "Persona",
+    "count": 46
   },
   {
     "fandom": "Link Click",
-    "count": 45
-  },
-  {
-    "fandom": "Reverse: 1999",
     "count": 44
   },
   {
@@ -140,8 +136,12 @@
     "count": 43
   },
   {
+    "fandom": "Reverse: 1999",
+    "count": 43
+  },
+  {
     "fandom": "The Summer Hikaru Died",
-    "count": 42
+    "count": 43
   },
   {
     "fandom": "Identity V",
@@ -184,8 +184,16 @@
     "count": 34
   },
   {
+    "fandom": "JoJo's Bizarre Adventure",
+    "count": 32
+  },
+  {
     "fandom": "Ensemble Stars!",
     "count": 32
+  },
+  {
+    "fandom": "Resident Evil",
+    "count": 31
   },
   {
     "fandom": "Animal",
@@ -196,39 +204,23 @@
     "count": 30
   },
   {
-    "fandom": "JoJo's Bizarre Adventure",
-    "count": 30
-  },
-  {
-    "fandom": "Resident Evil",
+    "fandom": "The Amazing Digital Circus",
     "count": 30
   },
   {
     "fandom": "Dandadan",
-    "count": 30
+    "count": 29
   },
   {
     "fandom": "Limbus Company",
-    "count": 30
-  },
-  {
-    "fandom": "The Amazing Digital Circus",
-    "count": 30
+    "count": 29
   },
   {
     "fandom": "Marvel",
     "count": 29
   },
   {
-    "fandom": "Puella Magi Madoka Magica",
-    "count": 27
-  },
-  {
     "fandom": "Goddess of Victory: NIKKE",
-    "count": 26
-  },
-  {
-    "fandom": "My Little Pony",
     "count": 26
   },
   {
@@ -240,6 +232,10 @@
     "count": 26
   },
   {
+    "fandom": "Detective Conan",
+    "count": 25
+  },
+  {
     "fandom": "Sakamoto Days",
     "count": 25
   },
@@ -248,19 +244,23 @@
     "count": 25
   },
   {
-    "fandom": "Detective Conan",
-    "count": 24
+    "fandom": "Puella Magi Madoka Magica",
+    "count": 25
   },
   {
     "fandom": "Shoujo",
     "count": 24
   },
   {
-    "fandom": "Adventure Time",
-    "count": 23
+    "fandom": "My Little Pony",
+    "count": 24
   },
   {
     "fandom": "Neon Genesis Evangelion",
+    "count": 23
+  },
+  {
+    "fandom": "Hollow Knight",
     "count": 23
   },
   {
@@ -269,6 +269,10 @@
   },
   {
     "fandom": "MCYT",
+    "count": 23
+  },
+  {
+    "fandom": "Stardew Valley",
     "count": 23
   },
   {
@@ -284,7 +288,7 @@
     "count": 22
   },
   {
-    "fandom": "Hollow Knight",
+    "fandom": "Adventure Time",
     "count": 22
   },
   {
@@ -292,11 +296,11 @@
     "count": 22
   },
   {
-    "fandom": "Stardew Valley",
-    "count": 22
+    "fandom": "Hunter x Hunter",
+    "count": 21
   },
   {
-    "fandom": "Hunter x Hunter",
+    "fandom": "Cat",
     "count": 21
   },
   {
@@ -328,7 +332,7 @@
     "count": 20
   },
   {
-    "fandom": "Cat",
+    "fandom": "Bocchi the Rock!",
     "count": 20
   },
   {
@@ -338,10 +342,6 @@
   {
     "fandom": "Needy Streamer Overload",
     "count": 20
-  },
-  {
-    "fandom": "Bocchi the Rock!",
-    "count": 19
   },
   {
     "fandom": "Cosplay",
@@ -364,6 +364,10 @@
     "count": 18
   },
   {
+    "fandom": "Aikatsu!",
+    "count": 18
+  },
+  {
     "fandom": "Omori",
     "count": 18
   },
@@ -381,10 +385,6 @@
   },
   {
     "fandom": "Spy x Family",
-    "count": 17
-  },
-  {
-    "fandom": "Aikatsu!",
     "count": 17
   },
   {
@@ -428,6 +428,10 @@
     "count": 15
   },
   {
+    "fandom": "Attack on Titan",
+    "count": 15
+  },
+  {
     "fandom": "Video Games",
     "count": 15
   },
@@ -452,10 +456,6 @@
     "count": 15
   },
   {
-    "fandom": "Attack on Titan",
-    "count": 14
-  },
-  {
     "fandom": "Ace Attorney",
     "count": 14
   },
@@ -469,6 +469,10 @@
   },
   {
     "fandom": "Danganronpa",
+    "count": 14
+  },
+  {
+    "fandom": "Gintama",
     "count": 14
   },
   {
@@ -492,11 +496,15 @@
     "count": 13
   },
   {
-    "fandom": "Mouthwashing",
+    "fandom": "Granblue Fantasy",
     "count": 13
   },
   {
-    "fandom": "Panty & Stocking with Garterbelt",
+    "fandom": "Forsaken",
+    "count": 13
+  },
+  {
+    "fandom": "Mouthwashing",
     "count": 13
   },
   {
@@ -505,10 +513,6 @@
   },
   {
     "fandom": "Where Winds Meet",
-    "count": 13
-  },
-  {
-    "fandom": "Gintama",
     "count": 13
   },
   {
@@ -540,19 +544,11 @@
     "count": 12
   },
   {
-    "fandom": "Granblue Fantasy",
-    "count": 12
-  },
-  {
-    "fandom": "Forsaken",
+    "fandom": "Panty & Stocking with Garterbelt",
     "count": 12
   },
   {
     "fandom": "Danmei",
-    "count": 12
-  },
-  {
-    "fandom": "Hades",
     "count": 12
   },
   {
@@ -589,6 +585,10 @@
   },
   {
     "fandom": "Utaite",
+    "count": 11
+  },
+  {
+    "fandom": "Hades",
     "count": 11
   },
   {
@@ -696,6 +696,10 @@
     "count": 9
   },
   {
+    "fandom": "Kimi ni Todoke",
+    "count": 9
+  },
+  {
     "fandom": "Ouran High School Host Club",
     "count": 9
   },
@@ -713,6 +717,10 @@
   },
   {
     "fandom": "Mobile Legends: Bang Bang",
+    "count": 9
+  },
+  {
+    "fandom": "Heaven Official's Blessing",
     "count": 9
   },
   {
@@ -768,10 +776,6 @@
     "count": 8
   },
   {
-    "fandom": "Kimi ni Todoke",
-    "count": 8
-  },
-  {
     "fandom": "ZEROBASEONE",
     "count": 8
   },
@@ -780,15 +784,7 @@
     "count": 8
   },
   {
-    "fandom": "Gravity Falls",
-    "count": 8
-  },
-  {
     "fandom": "Love Live!",
-    "count": 8
-  },
-  {
-    "fandom": "Heaven Official's Blessing",
     "count": 8
   },
   {
@@ -864,7 +860,15 @@
     "count": 7
   },
   {
+    "fandom": "Gravity Falls",
+    "count": 7
+  },
+  {
     "fandom": "Ultraman",
+    "count": 7
+  },
+  {
+    "fandom": "Record of Ragnarok",
     "count": 7
   },
   {
@@ -936,10 +940,6 @@
     "count": 6
   },
   {
-    "fandom": "Dead Plate",
-    "count": 6
-  },
-  {
     "fandom": "J-pop",
     "count": 6
   },
@@ -973,10 +973,6 @@
   },
   {
     "fandom": "Harvest Moon",
-    "count": 6
-  },
-  {
-    "fandom": "Record of Ragnarok",
     "count": 6
   },
   {
@@ -1020,10 +1016,6 @@
     "count": 5
   },
   {
-    "fandom": "Mecha",
-    "count": 5
-  },
-  {
     "fandom": "BY THE BEAT",
     "count": 5
   },
@@ -1056,6 +1048,10 @@
     "count": 5
   },
   {
+    "fandom": "Project Hail Mary",
+    "count": 5
+  },
+  {
     "fandom": "BOYNEXTDOOR",
     "count": 5
   },
@@ -1076,19 +1072,15 @@
     "count": 5
   },
   {
+    "fandom": "Dead Plate",
+    "count": 5
+  },
+  {
     "fandom": "Manga",
     "count": 5
   },
   {
     "fandom": "Kamisama Kiss",
-    "count": 5
-  },
-  {
-    "fandom": "Solo Leveling",
-    "count": 5
-  },
-  {
-    "fandom": "The Fragrant Flower Blooms With Dignity",
     "count": 5
   },
   {
@@ -1124,6 +1116,10 @@
     "count": 5
   },
   {
+    "fandom": "The Fragrant Flower Blooms With Dignity",
+    "count": 5
+  },
+  {
     "fandom": "Charisma",
     "count": 5
   },
@@ -1141,6 +1137,10 @@
   },
   {
     "fandom": "Baldur's Gate",
+    "count": 5
+  },
+  {
+    "fandom": "The Scum Villain's Self-Saving System",
     "count": 5
   },
   {
@@ -1180,6 +1180,10 @@
     "count": 4
   },
   {
+    "fandom": "Food",
+    "count": 4
+  },
+  {
     "fandom": "Cyberpunk 2077",
     "count": 4
   },
@@ -1193,6 +1197,10 @@
   },
   {
     "fandom": "One-Punch Man",
+    "count": 4
+  },
+  {
+    "fandom": "Mecha",
     "count": 4
   },
   {
@@ -1240,10 +1248,6 @@
     "count": 4
   },
   {
-    "fandom": "Project Hail Mary",
-    "count": 4
-  },
-  {
     "fandom": "KATSEYE",
     "count": 4
   },
@@ -1257,6 +1261,14 @@
   },
   {
     "fandom": "Boy's Love",
+    "count": 4
+  },
+  {
+    "fandom": "Heaven Burns Red",
+    "count": 4
+  },
+  {
+    "fandom": "Solo Leveling",
     "count": 4
   },
   {
@@ -1312,10 +1324,6 @@
     "count": 4
   },
   {
-    "fandom": "The Scum Villain's Self-Saving System",
-    "count": 4
-  },
-  {
     "fandom": "Metal Gear Solid",
     "count": 4
   },
@@ -1337,10 +1345,6 @@
   },
   {
     "fandom": "Girls' Frontline 2: Exilium",
-    "count": 3
-  },
-  {
-    "fandom": "Food",
     "count": 3
   },
   {
@@ -1392,11 +1396,19 @@
     "count": 3
   },
   {
+    "fandom": "maimai",
+    "count": 3
+  },
+  {
     "fandom": "Okami",
     "count": 3
   },
   {
     "fandom": "Red Dead Redemption 2",
+    "count": 3
+  },
+  {
+    "fandom": "Trains",
     "count": 3
   },
   {
@@ -1532,6 +1544,14 @@
     "count": 3
   },
   {
+    "fandom": "Girls Band Cry",
+    "count": 3
+  },
+  {
+    "fandom": "A Sign Of Affection",
+    "count": 3
+  },
+  {
     "fandom": "Doki Doki Literature Club!",
     "count": 3
   },
@@ -1540,11 +1560,11 @@
     "count": 3
   },
   {
-    "fandom": "Heaven Burns Red",
+    "fandom": "Project: Eden's Garden",
     "count": 3
   },
   {
-    "fandom": "Project: Eden's Garden",
+    "fandom": "Detroit: Become Human",
     "count": 3
   },
   {
@@ -1601,10 +1621,6 @@
   },
   {
     "fandom": "Order of Ecclesia",
-    "count": 3
-  },
-  {
-    "fandom": "Sol4ce",
     "count": 3
   },
   {
@@ -1732,19 +1748,11 @@
     "count": 2
   },
   {
-    "fandom": "maimai",
-    "count": 2
-  },
-  {
     "fandom": "Nintendo",
     "count": 2
   },
   {
     "fandom": "Friday Night Funkin'",
-    "count": 2
-  },
-  {
-    "fandom": "Trains",
     "count": 2
   },
   {
@@ -1833,10 +1841,6 @@
   },
   {
     "fandom": "Initial D",
-    "count": 2
-  },
-  {
-    "fandom": "Lucky Star",
     "count": 2
   },
   {
@@ -1936,6 +1940,10 @@
     "count": 2
   },
   {
+    "fandom": "Angels of Death",
+    "count": 2
+  },
+  {
     "fandom": "Campfire Cooking in Another World with My Absurd Skill",
     "count": 2
   },
@@ -1949,10 +1957,6 @@
   },
   {
     "fandom": "Dragon Age",
-    "count": 2
-  },
-  {
-    "fandom": "Yarichin B Club",
     "count": 2
   },
   {
@@ -1992,10 +1996,6 @@
     "count": 2
   },
   {
-    "fandom": "Girls Band Cry",
-    "count": 2
-  },
-  {
     "fandom": "Idolmaster: Cinderella Girls",
     "count": 2
   },
@@ -2016,10 +2016,6 @@
     "count": 2
   },
   {
-    "fandom": "A Sign Of Affection",
-    "count": 2
-  },
-  {
     "fandom": "Top Gear",
     "count": 2
   },
@@ -2029,6 +2025,10 @@
   },
   {
     "fandom": "Monogatari Series",
+    "count": 2
+  },
+  {
+    "fandom": "Arcaea",
     "count": 2
   },
   {
@@ -2049,10 +2049,6 @@
   },
   {
     "fandom": "Just Roll With It",
-    "count": 2
-  },
-  {
-    "fandom": "Uta No Prince-sama",
     "count": 2
   },
   {
@@ -2112,10 +2108,6 @@
     "count": 2
   },
   {
-    "fandom": "Detroit: Become Human",
-    "count": 2
-  },
-  {
     "fandom": "Barbie",
     "count": 2
   },
@@ -2145,6 +2137,10 @@
   },
   {
     "fandom": "Noragami",
+    "count": 2
+  },
+  {
+    "fandom": "Sol4ce",
     "count": 2
   },
   {
@@ -2192,6 +2188,10 @@
     "count": 2
   },
   {
+    "fandom": "Erha",
+    "count": 2
+  },
+  {
     "fandom": "Villains Are Destined to Die",
     "count": 2
   },
@@ -2209,6 +2209,10 @@
   },
   {
     "fandom": "Pop Culture",
+    "count": 2
+  },
+  {
+    "fandom": "Grandmaster of Demonic Cultivation",
     "count": 2
   },
   {
@@ -2720,15 +2724,23 @@
     "count": 1
   },
   {
-    "fandom": "Cyrene",
-    "count": 1
-  },
-  {
     "fandom": "Hybrid Child",
     "count": 1
   },
   {
     "fandom": "Kaichou wa Maid-sama!",
+    "count": 1
+  },
+  {
+    "fandom": "Kaoruko",
+    "count": 1
+  },
+  {
+    "fandom": "Lookism",
+    "count": 1
+  },
+  {
+    "fandom": "My Little Monster",
     "count": 1
   },
   {
@@ -2825,6 +2837,10 @@
   },
   {
     "fandom": "Illustration",
+    "count": 1
+  },
+  {
+    "fandom": "Nogizaka46",
     "count": 1
   },
   {
@@ -3000,15 +3016,15 @@
     "count": 1
   },
   {
-    "fandom": "Angels of Death",
-    "count": 1
-  },
-  {
     "fandom": "Rieru Shindou",
     "count": 1
   },
   {
     "fandom": "Gokurakugai",
+    "count": 1
+  },
+  {
+    "fandom": "Yarichin B Club",
     "count": 1
   },
   {
@@ -3244,6 +3260,14 @@
     "count": 1
   },
   {
+    "fandom": "Cpk",
+    "count": 1
+  },
+  {
+    "fandom": "Ongeki",
+    "count": 1
+  },
+  {
     "fandom": "Ao Oni",
     "count": 1
   },
@@ -3280,6 +3304,14 @@
     "count": 1
   },
   {
+    "fandom": "Pizza Tower",
+    "count": 1
+  },
+  {
+    "fandom": "Tokyo Ghoul",
+    "count": 1
+  },
+  {
     "fandom": "Black Souls",
     "count": 1
   },
@@ -3288,7 +3320,11 @@
     "count": 1
   },
   {
-    "fandom": "Frozen Soul/dream Game",
+    "fandom": "Dream Game",
+    "count": 1
+  },
+  {
+    "fandom": "Frozen Soul",
     "count": 1
   },
   {
@@ -3297,14 +3333,6 @@
   },
   {
     "fandom": "Love Of The S*n",
-    "count": 1
-  },
-  {
-    "fandom": "Roblox Admins",
-    "count": 1
-  },
-  {
-    "fandom": "Roblox Myths",
     "count": 1
   },
   {
@@ -3364,10 +3392,6 @@
     "count": 1
   },
   {
-    "fandom": "Tales of Arise",
-    "count": 1
-  },
-  {
     "fandom": "FromSoftware",
     "count": 1
   },
@@ -3401,6 +3425,10 @@
   },
   {
     "fandom": "God of War",
+    "count": 1
+  },
+  {
+    "fandom": "Heroes Of Olympus",
     "count": 1
   },
   {
@@ -3644,15 +3672,7 @@
     "count": 1
   },
   {
-    "fandom": "All Quiet on the Western Front",
-    "count": 1
-  },
-  {
-    "fandom": "Elevator Hitch",
-    "count": 1
-  },
-  {
-    "fandom": "Guts & Black Powder",
+    "fandom": "2kawaii4comfort",
     "count": 1
   },
   {
@@ -3816,6 +3836,10 @@
     "count": 1
   },
   {
+    "fandom": "Uta No Prince-sama",
+    "count": 1
+  },
+  {
     "fandom": "The Promised Neverland",
     "count": 1
   },
@@ -3877,6 +3901,10 @@
   },
   {
     "fandom": "ARGONAVIS from BanG Dream!",
+    "count": 1
+  },
+  {
+    "fandom": "Lucky Star",
     "count": 1
   },
   {
@@ -4004,10 +4032,6 @@
     "count": 1
   },
   {
-    "fandom": "Erha",
-    "count": 1
-  },
-  {
     "fandom": "Gomens",
     "count": 1
   },
@@ -4093,6 +4117,10 @@
   },
   {
     "fandom": "XG",
+    "count": 1
+  },
+  {
+    "fandom": "Angel Of Delusion",
     "count": 1
   },
   {
@@ -4252,11 +4280,7 @@
     "count": 1
   },
   {
-    "fandom": "Gta",
-    "count": 1
-  },
-  {
-    "fandom": "Railways",
+    "fandom": "Grand Theft Auto",
     "count": 1
   },
   {
@@ -4269,10 +4293,6 @@
   },
   {
     "fandom": "Solar",
-    "count": 1
-  },
-  {
-    "fandom": "Arcaea",
     "count": 1
   },
   {
@@ -4317,10 +4337,6 @@
   },
   {
     "fandom": "YTMCI",
-    "count": 1
-  },
-  {
-    "fandom": "Grandmaster of Demonic Cultivation",
     "count": 1
   },
   {
