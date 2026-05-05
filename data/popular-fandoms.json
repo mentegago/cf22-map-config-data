@@ -5,11 +5,11 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 360
+    "count": 359
   },
   {
     "fandom": "Genshin Impact",
-    "count": 338
+    "count": 337
   },
   {
     "fandom": "Love and Deepspace",
@@ -17,7 +17,7 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 189
+    "count": 190
   },
   {
     "fandom": "Zenless Zone Zero",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Alien Stage",
-    "count": 154
+    "count": 155
   },
   {
     "fandom": "Vocaloid",
@@ -33,11 +33,11 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 129
+    "count": 130
   },
   {
     "fandom": "HoYoverse",
-    "count": 123
+    "count": 122
   },
   {
     "fandom": "Hololive",
@@ -57,7 +57,7 @@
   },
   {
     "fandom": "Haikyu!!",
-    "count": 97
+    "count": 98
   },
   {
     "fandom": "Studio Ghibli",
@@ -81,7 +81,7 @@
   },
   {
     "fandom": "One Piece",
-    "count": 75
+    "count": 74
   },
   {
     "fandom": "Chainsaw Man",
@@ -93,31 +93,31 @@
   },
   {
     "fandom": "DC Comics",
-    "count": 71
+    "count": 72
+  },
+  {
+    "fandom": "Arknights: Endfield",
+    "count": 64
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
     "count": 64
   },
   {
-    "fandom": "Arknights: Endfield",
-    "count": 63
+    "fandom": "NIJISANJI",
+    "count": 62
   },
   {
     "fandom": "Delicious in Dungeon",
     "count": 61
   },
   {
-    "fandom": "NIJISANJI",
-    "count": 61
-  },
-  {
     "fandom": "Blue Archive",
-    "count": 52
+    "count": 51
   },
   {
     "fandom": "Deltarune",
-    "count": 46
+    "count": 47
   },
   {
     "fandom": "Persona",
@@ -184,11 +184,15 @@
     "count": 34
   },
   {
+    "fandom": "Ensemble Stars!",
+    "count": 33
+  },
+  {
     "fandom": "JoJo's Bizarre Adventure",
     "count": 32
   },
   {
-    "fandom": "Ensemble Stars!",
+    "fandom": "The Amazing Digital Circus",
     "count": 32
   },
   {
@@ -204,7 +208,7 @@
     "count": 30
   },
   {
-    "fandom": "The Amazing Digital Circus",
+    "fandom": "Marvel",
     "count": 30
   },
   {
@@ -216,11 +220,11 @@
     "count": 29
   },
   {
-    "fandom": "Marvel",
-    "count": 29
+    "fandom": "Goddess of Victory: NIKKE",
+    "count": 26
   },
   {
-    "fandom": "Goddess of Victory: NIKKE",
+    "fandom": "Detective Conan",
     "count": 26
   },
   {
@@ -232,15 +236,15 @@
     "count": 26
   },
   {
-    "fandom": "Detective Conan",
-    "count": 25
-  },
-  {
     "fandom": "Sakamoto Days",
     "count": 25
   },
   {
     "fandom": "Valorant",
+    "count": 25
+  },
+  {
+    "fandom": "My Little Pony",
     "count": 25
   },
   {
@@ -252,15 +256,15 @@
     "count": 24
   },
   {
-    "fandom": "My Little Pony",
-    "count": 24
-  },
-  {
     "fandom": "Neon Genesis Evangelion",
     "count": 23
   },
   {
     "fandom": "Hollow Knight",
+    "count": 23
+  },
+  {
+    "fandom": "Idolmaster",
     "count": 23
   },
   {
@@ -276,10 +280,6 @@
     "count": 23
   },
   {
-    "fandom": "Formula 1",
-    "count": 23
-  },
-  {
     "fandom": "Gundam",
     "count": 22
   },
@@ -292,7 +292,11 @@
     "count": 22
   },
   {
-    "fandom": "Idolmaster",
+    "fandom": "Cookie Run: Kingdom",
+    "count": 22
+  },
+  {
+    "fandom": "Formula 1",
     "count": 22
   },
   {
@@ -300,7 +304,15 @@
     "count": 21
   },
   {
+    "fandom": "Bocchi the Rock!",
+    "count": 21
+  },
+  {
     "fandom": "Cat",
+    "count": 21
+  },
+  {
+    "fandom": "Undertale",
     "count": 21
   },
   {
@@ -312,6 +324,10 @@
     "count": 21
   },
   {
+    "fandom": "Needy Streamer Overload",
+    "count": 21
+  },
+  {
     "fandom": "Witch Hat Atelier",
     "count": 21
   },
@@ -320,27 +336,11 @@
     "count": 21
   },
   {
-    "fandom": "Cookie Run: Kingdom",
-    "count": 21
-  },
-  {
     "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
   },
   {
     "fandom": "Devil May Cry",
-    "count": 20
-  },
-  {
-    "fandom": "Bocchi the Rock!",
-    "count": 20
-  },
-  {
-    "fandom": "Undertale",
-    "count": 20
-  },
-  {
-    "fandom": "Needy Streamer Overload",
     "count": 20
   },
   {
@@ -372,6 +372,10 @@
     "count": 18
   },
   {
+    "fandom": "Touhou",
+    "count": 17
+  },
+  {
     "fandom": "Dr. STONE",
     "count": 17
   },
@@ -392,10 +396,6 @@
     "count": 16
   },
   {
-    "fandom": "Touhou",
-    "count": 16
-  },
-  {
     "fandom": "Final Fantasy XIV",
     "count": 16
   },
@@ -405,10 +405,6 @@
   },
   {
     "fandom": "Hannibal",
-    "count": 16
-  },
-  {
-    "fandom": "Tamon's B Side",
     "count": 16
   },
   {
@@ -444,7 +440,15 @@
     "count": 15
   },
   {
+    "fandom": "Heated Rivalry",
+    "count": 15
+  },
+  {
     "fandom": "Sailor Moon",
+    "count": 15
+  },
+  {
+    "fandom": "Tamon's B Side",
     "count": 15
   },
   {
@@ -456,15 +460,19 @@
     "count": 15
   },
   {
+    "fandom": "Nezha",
+    "count": 14
+  },
+  {
     "fandom": "Ace Attorney",
     "count": 14
   },
   {
-    "fandom": "Crafts",
+    "fandom": "Granblue Fantasy",
     "count": 14
   },
   {
-    "fandom": "Heated Rivalry",
+    "fandom": "Crafts",
     "count": 14
   },
   {
@@ -489,18 +497,6 @@
   },
   {
     "fandom": "Baldur's Gate 3",
-    "count": 13
-  },
-  {
-    "fandom": "Nezha",
-    "count": 13
-  },
-  {
-    "fandom": "Granblue Fantasy",
-    "count": 13
-  },
-  {
-    "fandom": "Forsaken",
     "count": 13
   },
   {
@@ -541,6 +537,10 @@
   },
   {
     "fandom": "Transformers",
+    "count": 12
+  },
+  {
+    "fandom": "Forsaken",
     "count": 12
   },
   {
@@ -796,10 +796,6 @@
     "count": 8
   },
   {
-    "fandom": "Karaoke Iko!",
-    "count": 8
-  },
-  {
     "fandom": "Ave Mujica",
     "count": 8
   },
@@ -868,6 +864,10 @@
     "count": 7
   },
   {
+    "fandom": "Karaoke Iko!",
+    "count": 7
+  },
+  {
     "fandom": "Record of Ragnarok",
     "count": 7
   },
@@ -877,6 +877,10 @@
   },
   {
     "fandom": "Persona 3",
+    "count": 7
+  },
+  {
+    "fandom": "Murder Drones",
     "count": 7
   },
   {
@@ -984,7 +988,7 @@
     "count": 6
   },
   {
-    "fandom": "Murder Drones",
+    "fandom": "Studio InvestiGrave",
     "count": 6
   },
   {
@@ -1136,6 +1140,10 @@
     "count": 5
   },
   {
+    "fandom": "Trickcal",
+    "count": 5
+  },
+  {
     "fandom": "Baldur's Gate",
     "count": 5
   },
@@ -1149,10 +1157,6 @@
   },
   {
     "fandom": "A3!",
-    "count": 5
-  },
-  {
-    "fandom": "Studio InvestiGrave",
     "count": 5
   },
   {
@@ -1313,10 +1317,6 @@
   },
   {
     "fandom": "Kingdom Come: Deliverance",
-    "count": 4
-  },
-  {
-    "fandom": "Trickcal",
     "count": 4
   },
   {
@@ -2016,6 +2016,10 @@
     "count": 2
   },
   {
+    "fandom": "Sound! Euphonium",
+    "count": 2
+  },
+  {
     "fandom": "Top Gear",
     "count": 2
   },
@@ -2085,6 +2089,10 @@
   },
   {
     "fandom": "Malevolent Podcast",
+    "count": 2
+  },
+  {
+    "fandom": "Ghost Trick: Phantom Detective",
     "count": 2
   },
   {
@@ -2309,6 +2317,10 @@
   },
   {
     "fandom": "Tinrex",
+    "count": 1
+  },
+  {
+    "fandom": "Linktr.ee/dreamscapeoflove",
     "count": 1
   },
   {
@@ -3348,10 +3360,6 @@
     "count": 1
   },
   {
-    "fandom": "Sound! Euphonium",
-    "count": 1
-  },
-  {
     "fandom": "Tenten Kakumei",
     "count": 1
   },
@@ -3516,6 +3524,14 @@
     "count": 1
   },
   {
+    "fandom": "Devil Survivor",
+    "count": 1
+  },
+  {
+    "fandom": "Gnosia",
+    "count": 1
+  },
+  {
     "fandom": "Boyfriend to Death",
     "count": 1
   },
@@ -3637,6 +3653,14 @@
   },
   {
     "fandom": "Guardian Tales",
+    "count": 1
+  },
+  {
+    "fandom": "Roblox (original, Sol's Rng, Forsaken, Die Of Death)",
+    "count": 1
+  },
+  {
+    "fandom": "Utauloid",
     "count": 1
   },
   {
@@ -3877,10 +3901,6 @@
   },
   {
     "fandom": "AI: The Somnium Files",
-    "count": 1
-  },
-  {
-    "fandom": "Ghost Trick: Phantom Detective",
     "count": 1
   },
   {
@@ -4357,6 +4377,10 @@
   },
   {
     "fandom": "Look Back",
+    "count": 1
+  },
+  {
+    "fandom": "Car Culture",
     "count": 1
   },
   {
