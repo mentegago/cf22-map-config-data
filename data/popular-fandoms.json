@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 502
+    "count": 503
   },
   {
     "fandom": "Honkai Star Rail",
@@ -9,7 +9,7 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 339
+    "count": 340
   },
   {
     "fandom": "Love and Deepspace",
@@ -17,7 +17,7 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 191
+    "count": 192
   },
   {
     "fandom": "Zenless Zone Zero",
@@ -45,7 +45,7 @@
   },
   {
     "fandom": "Arknights",
-    "count": 112
+    "count": 113
   },
   {
     "fandom": "VTuber",
@@ -268,6 +268,10 @@
     "count": 23
   },
   {
+    "fandom": "Undertale",
+    "count": 23
+  },
+  {
     "fandom": "Idolmaster",
     "count": 23
   },
@@ -293,10 +297,6 @@
   },
   {
     "fandom": "Adventure Time",
-    "count": 22
-  },
-  {
-    "fandom": "Undertale",
     "count": 22
   },
   {
@@ -328,10 +328,6 @@
     "count": 21
   },
   {
-    "fandom": "Needy Streamer Overload",
-    "count": 21
-  },
-  {
     "fandom": "Minecraft",
     "count": 21
   },
@@ -341,6 +337,10 @@
   },
   {
     "fandom": "Devil May Cry",
+    "count": 20
+  },
+  {
+    "fandom": "Needy Streamer Overload",
     "count": 20
   },
   {
@@ -356,11 +356,19 @@
     "count": 19
   },
   {
+    "fandom": "Omori",
+    "count": 19
+  },
+  {
     "fandom": "Trigun",
     "count": 19
   },
   {
     "fandom": "Monster Hunter",
+    "count": 18
+  },
+  {
+    "fandom": "Naruto",
     "count": 18
   },
   {
@@ -376,10 +384,6 @@
     "count": 18
   },
   {
-    "fandom": "Omori",
-    "count": 18
-  },
-  {
     "fandom": "Touhou",
     "count": 17
   },
@@ -389,10 +393,6 @@
   },
   {
     "fandom": "Cookie Run",
-    "count": 17
-  },
-  {
-    "fandom": "Naruto",
     "count": 17
   },
   {
@@ -880,6 +880,10 @@
     "count": 7
   },
   {
+    "fandom": "Pandavva",
+    "count": 7
+  },
+  {
     "fandom": "Murder Drones",
     "count": 7
   },
@@ -996,7 +1000,7 @@
     "count": 6
   },
   {
-    "fandom": "Pandavva",
+    "fandom": "MILGRAM",
     "count": 6
   },
   {
@@ -1152,7 +1156,7 @@
     "count": 5
   },
   {
-    "fandom": "MILGRAM",
+    "fandom": "Sfawtde",
     "count": 5
   },
   {
@@ -1260,6 +1264,10 @@
     "count": 4
   },
   {
+    "fandom": "Doki Doki Literature Club!",
+    "count": 4
+  },
+  {
     "fandom": "Meme",
     "count": 4
   },
@@ -1273,6 +1281,10 @@
   },
   {
     "fandom": "The Freak Circus",
+    "count": 4
+  },
+  {
+    "fandom": "UTAU",
     "count": 4
   },
   {
@@ -1317,10 +1329,6 @@
   },
   {
     "fandom": "Stella Sora",
-    "count": 4
-  },
-  {
-    "fandom": "Sfawtde",
     "count": 4
   },
   {
@@ -1468,10 +1476,6 @@
     "count": 3
   },
   {
-    "fandom": "UTAU",
-    "count": 3
-  },
-  {
     "fandom": "Hyakuemu",
     "count": 3
   },
@@ -1581,10 +1585,6 @@
   },
   {
     "fandom": "A Sign Of Affection",
-    "count": 3
-  },
-  {
-    "fandom": "Doki Doki Literature Club!",
     "count": 3
   },
   {
@@ -2632,6 +2632,18 @@
     "count": 1
   },
   {
+    "fandom": "Needy Girl Overdose (ngo)",
+    "count": 1
+  },
+  {
+    "fandom": "Toilet Bound Hanako Kun (tbhk)",
+    "count": 1
+  },
+  {
+    "fandom": "Witch Hat Atelier (wha)",
+    "count": 1
+  },
+  {
     "fandom": "Coquette",
     "count": 1
   },
@@ -3213,6 +3225,10 @@
   },
   {
     "fandom": "Left 4 Dead",
+    "count": 1
+  },
+  {
+    "fandom": "Original Song",
     "count": 1
   },
   {
@@ -4173,6 +4189,10 @@
   },
   {
     "fandom": "Choujin X",
+    "count": 1
+  },
+  {
+    "fandom": "Love & Deepspace (lads)",
     "count": 1
   },
   {
