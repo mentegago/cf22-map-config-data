@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "creators": [
     {
       "id": 7851,
@@ -67811,5 +67811,26 @@
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artkuzu.jpg",
       "circle_code": "S-53ab"
     }
+  ],
+  "popular_searches": [
+    "Original",
+    "Genshin Impact",
+    "Vocaloid",
+    "Limbus Company",
+    "NIJISANJI",
+    "Uma Musume",
+    "Deltarune",
+    "Chainsaw Man",
+    "Twisted Wonderland",
+    "Resident Evil",
+    "Honkai Star Rail",
+    "JoJo's Bizarre Adventure",
+    "Omniscient Reader's Viewpoint",
+    "Blue Archive",
+    "Identity V",
+    "Wind Breaker",
+    "Final Fantasy",
+    "Hololive",
+    "Arknights"
   ]
 }
