@@ -157,7 +157,7 @@
   },
   {
     "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 39
+    "count": 40
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
@@ -412,6 +412,10 @@
     "count": 16
   },
   {
+    "fandom": "Tamon's B Side",
+    "count": 16
+  },
+  {
     "fandom": "Path to Nowhere",
     "count": 16
   },
@@ -456,10 +460,6 @@
     "count": 15
   },
   {
-    "fandom": "Tamon's B Side",
-    "count": 15
-  },
-  {
     "fandom": "Gintama",
     "count": 15
   },
@@ -492,6 +492,10 @@
     "count": 14
   },
   {
+    "fandom": "Black Butler",
+    "count": 14
+  },
+  {
     "fandom": "Project Moon",
     "count": 14
   },
@@ -517,10 +521,6 @@
   },
   {
     "fandom": "Where Winds Meet",
-    "count": 13
-  },
-  {
-    "fandom": "Black Butler",
     "count": 13
   },
   {
@@ -768,6 +768,10 @@
     "count": 8
   },
   {
+    "fandom": "Yona of the Dawn",
+    "count": 8
+  },
+  {
     "fandom": "Pikmin",
     "count": 8
   },
@@ -837,10 +841,6 @@
   },
   {
     "fandom": "My S-Class Hunters",
-    "count": 7
-  },
-  {
-    "fandom": "Yona of the Dawn",
     "count": 7
   },
   {
@@ -961,6 +961,10 @@
   },
   {
     "fandom": "Project Hail Mary",
+    "count": 6
+  },
+  {
+    "fandom": "Kamisama Kiss",
     "count": 6
   },
   {
@@ -1105,10 +1109,6 @@
   },
   {
     "fandom": "Manga",
-    "count": 5
-  },
-  {
-    "fandom": "Kamisama Kiss",
     "count": 5
   },
   {
@@ -1912,6 +1912,10 @@
     "count": 2
   },
   {
+    "fandom": "Vampire Knight",
+    "count": 2
+  },
+  {
     "fandom": "Tim Burton",
     "count": 2
   },
@@ -1945,6 +1949,10 @@
   },
   {
     "fandom": "Princess Comet",
+    "count": 2
+  },
+  {
+    "fandom": "Mermaid Melody Pichi Pichi Pitch",
     "count": 2
   },
   {
@@ -2872,10 +2880,6 @@
     "count": 1
   },
   {
-    "fandom": "Vampire Knight",
-    "count": 1
-  },
-  {
     "fandom": "Chobits",
     "count": 1
   },
@@ -2965,10 +2969,6 @@
   },
   {
     "fandom": "Corrector Yui",
-    "count": 1
-  },
-  {
-    "fandom": "Mermaid Melody Pichi Pichi Pitch",
     "count": 1
   },
   {
@@ -3573,6 +3573,14 @@
   },
   {
     "fandom": "Boyfriend to Death",
+    "count": 1
+  },
+  {
+    "fandom": "Kamichama Karin",
+    "count": 1
+  },
+  {
+    "fandom": "Pandora Hearts",
     "count": 1
   },
   {
