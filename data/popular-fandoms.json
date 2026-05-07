@@ -9,7 +9,7 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 340
+    "count": 341
   },
   {
     "fandom": "Love and Deepspace",
@@ -17,7 +17,7 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 192
+    "count": 193
   },
   {
     "fandom": "Zenless Zone Zero",
@@ -28,12 +28,12 @@
     "count": 155
   },
   {
-    "fandom": "Vocaloid",
+    "fandom": "Jujutsu Kaisen",
     "count": 133
   },
   {
-    "fandom": "Jujutsu Kaisen",
-    "count": 131
+    "fandom": "Vocaloid",
+    "count": 133
   },
   {
     "fandom": "HoYoverse",
@@ -57,7 +57,7 @@
   },
   {
     "fandom": "Haikyu!!",
-    "count": 99
+    "count": 100
   },
   {
     "fandom": "Studio Ghibli",
@@ -73,7 +73,7 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 85
+    "count": 86
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
@@ -81,10 +81,14 @@
   },
   {
     "fandom": "One Piece",
-    "count": 74
+    "count": 75
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
+    "count": 74
+  },
+  {
+    "fandom": "DC Comics",
     "count": 74
   },
   {
@@ -92,16 +96,12 @@
     "count": 73
   },
   {
-    "fandom": "DC Comics",
-    "count": 73
+    "fandom": "Arknights: Endfield",
+    "count": 65
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
     "count": 65
-  },
-  {
-    "fandom": "Arknights: Endfield",
-    "count": 64
   },
   {
     "fandom": "Delicious in Dungeon",
@@ -173,6 +173,10 @@
   },
   {
     "fandom": "Dispatch",
+    "count": 37
+  },
+  {
+    "fandom": "K-Pop: Demon Hunters",
     "count": 35
   },
   {
@@ -180,8 +184,8 @@
     "count": 34
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
-    "count": 34
+    "fandom": "Resident Evil",
+    "count": 33
   },
   {
     "fandom": "Ensemble Stars!",
@@ -193,22 +197,18 @@
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
-    "count": 32
-  },
-  {
-    "fandom": "Resident Evil",
-    "count": 32
+    "count": 31
   },
   {
     "fandom": "Animal",
     "count": 31
   },
   {
-    "fandom": "BanG Dream!",
-    "count": 30
+    "fandom": "Marvel",
+    "count": 31
   },
   {
-    "fandom": "Marvel",
+    "fandom": "BanG Dream!",
     "count": 30
   },
   {
@@ -260,6 +260,10 @@
     "count": 24
   },
   {
+    "fandom": "Gundam",
+    "count": 23
+  },
+  {
     "fandom": "Hunter x Hunter",
     "count": 23
   },
@@ -290,10 +294,6 @@
   {
     "fandom": "Stardew Valley",
     "count": 23
-  },
-  {
-    "fandom": "Gundam",
-    "count": 22
   },
   {
     "fandom": "Nana",
@@ -368,6 +368,10 @@
     "count": 18
   },
   {
+    "fandom": "Cookie Run",
+    "count": 18
+  },
+  {
     "fandom": "Naruto",
     "count": 18
   },
@@ -392,7 +396,7 @@
     "count": 17
   },
   {
-    "fandom": "Cookie Run",
+    "fandom": "Hannibal",
     "count": 17
   },
   {
@@ -408,7 +412,7 @@
     "count": 16
   },
   {
-    "fandom": "Hannibal",
+    "fandom": "Heated Rivalry",
     "count": 16
   },
   {
@@ -432,6 +436,10 @@
     "count": 15
   },
   {
+    "fandom": "Nezha",
+    "count": 15
+  },
+  {
     "fandom": "Attack on Titan",
     "count": 15
   },
@@ -449,10 +457,6 @@
   },
   {
     "fandom": "Honkai Impact 3rd",
-    "count": 15
-  },
-  {
-    "fandom": "Heated Rivalry",
     "count": 15
   },
   {
@@ -476,7 +480,7 @@
     "count": 15
   },
   {
-    "fandom": "Nezha",
+    "fandom": "Baldur's Gate 3",
     "count": 14
   },
   {
@@ -504,7 +508,7 @@
     "count": 14
   },
   {
-    "fandom": "Baldur's Gate 3",
+    "fandom": "Transformers",
     "count": 13
   },
   {
@@ -541,10 +545,6 @@
   },
   {
     "fandom": "NU: Carnival",
-    "count": 12
-  },
-  {
-    "fandom": "Transformers",
     "count": 12
   },
   {
@@ -596,6 +596,10 @@
     "count": 11
   },
   {
+    "fandom": "ENHYPEN",
+    "count": 11
+  },
+  {
     "fandom": "To Be Hero X",
     "count": 11
   },
@@ -637,10 +641,6 @@
   },
   {
     "fandom": "My Chemical Romance",
-    "count": 10
-  },
-  {
-    "fandom": "ENHYPEN",
     "count": 10
   },
   {
@@ -856,6 +856,10 @@
     "count": 7
   },
   {
+    "fandom": "Project Hail Mary",
+    "count": 7
+  },
+  {
     "fandom": "Gravity Falls",
     "count": 7
   },
@@ -957,10 +961,6 @@
   },
   {
     "fandom": "Xdinary Heroes",
-    "count": 6
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 6
   },
   {
@@ -1248,6 +1248,10 @@
     "count": 4
   },
   {
+    "fandom": "The Pitt",
+    "count": 4
+  },
+  {
     "fandom": "Shugo Chara",
     "count": 4
   },
@@ -1300,6 +1304,10 @@
     "count": 4
   },
   {
+    "fandom": "Star Wars",
+    "count": 4
+  },
+  {
     "fandom": "Disco Elysium",
     "count": 4
   },
@@ -1313,6 +1321,10 @@
   },
   {
     "fandom": "Moriarty the Patriot",
+    "count": 4
+  },
+  {
+    "fandom": "Supernatural",
     "count": 4
   },
   {
@@ -1448,10 +1460,6 @@
     "count": 3
   },
   {
-    "fandom": "The Pitt",
-    "count": 3
-  },
-  {
     "fandom": "Welcome to Demon School! Iruma-kun",
     "count": 3
   },
@@ -1504,10 +1512,6 @@
     "count": 3
   },
   {
-    "fandom": "Star Wars",
-    "count": 3
-  },
-  {
     "fandom": "K-On!",
     "count": 3
   },
@@ -1549,10 +1553,6 @@
   },
   {
     "fandom": "Code Geass",
-    "count": 3
-  },
-  {
-    "fandom": "Supernatural",
     "count": 3
   },
   {
@@ -2140,6 +2140,10 @@
     "count": 2
   },
   {
+    "fandom": "Cuphead",
+    "count": 2
+  },
+  {
     "fandom": "Lobotomy Corporation",
     "count": 2
   },
@@ -2173,6 +2177,10 @@
   },
   {
     "fandom": "Visual kei",
+    "count": 2
+  },
+  {
+    "fandom": "Hamilton",
     "count": 2
   },
   {
@@ -2457,6 +2465,18 @@
   },
   {
     "fandom": "Chinese Fandom",
+    "count": 1
+  },
+  {
+    "fandom": "Persona 3 Reload",
+    "count": 1
+  },
+  {
+    "fandom": "Persona 5 Royal",
+    "count": 1
+  },
+  {
+    "fandom": "Steel Ball Run",
     "count": 1
   },
   {
@@ -3296,6 +3316,10 @@
     "count": 1
   },
   {
+    "fandom": "Lost Saga",
+    "count": 1
+  },
+  {
     "fandom": "Bbno$",
     "count": 1
   },
@@ -3596,10 +3620,6 @@
     "count": 1
   },
   {
-    "fandom": "Cuphead",
-    "count": 1
-  },
-  {
     "fandom": "Dfigures",
     "count": 1
   },
@@ -3761,10 +3781,6 @@
   },
   {
     "fandom": "Hadestown",
-    "count": 1
-  },
-  {
-    "fandom": "Hamilton",
     "count": 1
   },
   {
@@ -4377,6 +4393,14 @@
   },
   {
     "fandom": "Slay the Spire",
+    "count": 1
+  },
+  {
+    "fandom": "Dungeon-meshi",
+    "count": 1
+  },
+  {
+    "fandom": "Sf/dawtde",
     "count": 1
   },
   {
