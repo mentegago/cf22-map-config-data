@@ -28,11 +28,11 @@
     "count": 155
   },
   {
-    "fandom": "Jujutsu Kaisen",
-    "count": 133
+    "fandom": "Vocaloid",
+    "count": 134
   },
   {
-    "fandom": "Vocaloid",
+    "fandom": "Jujutsu Kaisen",
     "count": 133
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 86
+    "count": 84
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
@@ -84,16 +84,16 @@
     "count": 75
   },
   {
+    "fandom": "Chainsaw Man",
+    "count": 74
+  },
+  {
     "fandom": "Omniscient Reader's Viewpoint",
     "count": 74
   },
   {
     "fandom": "DC Comics",
     "count": 74
-  },
-  {
-    "fandom": "Chainsaw Man",
-    "count": 73
   },
   {
     "fandom": "Arknights: Endfield",
@@ -145,7 +145,7 @@
   },
   {
     "fandom": "Identity V",
-    "count": 42
+    "count": 41
   },
   {
     "fandom": "Gachiakuta",
@@ -180,12 +180,12 @@
     "count": 35
   },
   {
-    "fandom": "Sonic the Hedgehog",
+    "fandom": "Resident Evil",
     "count": 34
   },
   {
-    "fandom": "Resident Evil",
-    "count": 33
+    "fandom": "Sonic the Hedgehog",
+    "count": 34
   },
   {
     "fandom": "Ensemble Stars!",
@@ -197,7 +197,7 @@
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
-    "count": 31
+    "count": 32
   },
   {
     "fandom": "Animal",
@@ -300,6 +300,10 @@
     "count": 22
   },
   {
+    "fandom": "Cat",
+    "count": 22
+  },
+  {
     "fandom": "Adventure Time",
     "count": 22
   },
@@ -313,10 +317,6 @@
   },
   {
     "fandom": "Bocchi the Rock!",
-    "count": 21
-  },
-  {
-    "fandom": "Cat",
     "count": 21
   },
   {
@@ -336,12 +336,12 @@
     "count": 21
   },
   {
-    "fandom": "Devil May Cry",
+    "fandom": "Arcane",
     "count": 20
   },
   {
-    "fandom": "Arcane",
-    "count": 20
+    "fandom": "Devil May Cry",
+    "count": 19
   },
   {
     "fandom": "Cosplay",
@@ -400,6 +400,10 @@
     "count": 17
   },
   {
+    "fandom": "Holostars",
+    "count": 17
+  },
+  {
     "fandom": "Hatsune Miku",
     "count": 16
   },
@@ -421,10 +425,6 @@
   },
   {
     "fandom": "Path to Nowhere",
-    "count": 16
-  },
-  {
-    "fandom": "Holostars",
     "count": 16
   },
   {
@@ -488,10 +488,6 @@
     "count": 14
   },
   {
-    "fandom": "Danganronpa",
-    "count": 14
-  },
-  {
     "fandom": "Epic: The Musical",
     "count": 14
   },
@@ -525,6 +521,10 @@
   },
   {
     "fandom": "Where Winds Meet",
+    "count": 13
+  },
+  {
+    "fandom": "Danganronpa",
     "count": 13
   },
   {
@@ -768,6 +768,10 @@
     "count": 8
   },
   {
+    "fandom": "Fear & Hunger",
+    "count": 8
+  },
+  {
     "fandom": "Yona of the Dawn",
     "count": 8
   },
@@ -833,10 +837,6 @@
   },
   {
     "fandom": "Tokusatsu",
-    "count": 7
-  },
-  {
-    "fandom": "Fear & Hunger",
     "count": 7
   },
   {
@@ -1152,6 +1152,10 @@
     "count": 5
   },
   {
+    "fandom": "Gorillaz",
+    "count": 5
+  },
+  {
     "fandom": "Shin Megami Tensei",
     "count": 5
   },
@@ -1165,6 +1169,10 @@
   },
   {
     "fandom": "Baldur's Gate",
+    "count": 5
+  },
+  {
+    "fandom": "DEADLOCK",
     "count": 5
   },
   {
@@ -1336,10 +1344,6 @@
     "count": 4
   },
   {
-    "fandom": "Gorillaz",
-    "count": 4
-  },
-  {
     "fandom": "Stella Sora",
     "count": 4
   },
@@ -1352,11 +1356,11 @@
     "count": 4
   },
   {
-    "fandom": "DEADLOCK",
+    "fandom": "Metal Gear Solid",
     "count": 4
   },
   {
-    "fandom": "Metal Gear Solid",
+    "fandom": "Team Fortress 2",
     "count": 4
   },
   {
@@ -1596,6 +1600,10 @@
     "count": 3
   },
   {
+    "fandom": "Saya no Uta",
+    "count": 3
+  },
+  {
     "fandom": "Creepypasta",
     "count": 3
   },
@@ -1624,10 +1632,6 @@
     "count": 3
   },
   {
-    "fandom": "Team Fortress 2",
-    "count": 3
-  },
-  {
     "fandom": "Tinggal Meninggal",
     "count": 3
   },
@@ -1637,10 +1641,6 @@
   },
   {
     "fandom": "Greek Mythology",
-    "count": 3
-  },
-  {
-    "fandom": "Squid Game",
     "count": 3
   },
   {
@@ -2080,10 +2080,6 @@
     "count": 2
   },
   {
-    "fandom": "Saya no Uta",
-    "count": 2
-  },
-  {
     "fandom": "Soulsborne",
     "count": 2
   },
@@ -2149,6 +2145,10 @@
   },
   {
     "fandom": "Scott Pilgrim",
+    "count": 2
+  },
+  {
+    "fandom": "Squid Game",
     "count": 2
   },
   {
@@ -2305,6 +2305,10 @@
   },
   {
     "fandom": "Goods",
+    "count": 1
+  },
+  {
+    "fandom": "Requiem",
     "count": 1
   },
   {
@@ -2600,6 +2604,14 @@
     "count": 1
   },
   {
+    "fandom": "K-pop (nct Wish, Super Junior, Hearts2hearts)",
+    "count": 1
+  },
+  {
+    "fandom": "You & I Are Polar Opposites",
+    "count": 1
+  },
+  {
     "fandom": "Anne of Green Gables",
     "count": 1
   },
@@ -2660,7 +2672,15 @@
     "count": 1
   },
   {
+    "fandom": "Art Trades",
+    "count": 1
+  },
+  {
     "fandom": "Coquette",
+    "count": 1
+  },
+  {
+    "fandom": "Freebies",
     "count": 1
   },
   {
@@ -2749,6 +2769,10 @@
   },
   {
     "fandom": "Dead by Daylight",
+    "count": 1
+  },
+  {
+    "fandom": "Pandavva Vtuber",
     "count": 1
   },
   {
@@ -3596,7 +3620,19 @@
     "count": 1
   },
   {
-    "fandom": "Boyfriend to Death",
+    "fandom": "No Means Nothing",
+    "count": 1
+  },
+  {
+    "fandom": "Odd Taxi",
+    "count": 1
+  },
+  {
+    "fandom": "Visual Novel Games",
+    "count": 1
+  },
+  {
+    "fandom": "Yotsubato!",
     "count": 1
   },
   {
