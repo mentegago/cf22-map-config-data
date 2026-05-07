@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 503
+    "count": 504
   },
   {
     "fandom": "Honkai Star Rail",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 102
+    "count": 103
   },
   {
     "fandom": "Haikyu!!",
@@ -964,6 +964,10 @@
     "count": 6
   },
   {
+    "fandom": "Rhythm Games",
+    "count": 6
+  },
+  {
     "fandom": "Kamisama Kiss",
     "count": 6
   },
@@ -1093,10 +1097,6 @@
   },
   {
     "fandom": "Public Transportation",
-    "count": 5
-  },
-  {
-    "fandom": "Rhythm Games",
     "count": 5
   },
   {
@@ -1245,6 +1245,10 @@
   },
   {
     "fandom": "DLL",
+    "count": 4
+  },
+  {
+    "fandom": "maimai",
     "count": 4
   },
   {
@@ -1432,10 +1436,6 @@
     "count": 3
   },
   {
-    "fandom": "maimai",
-    "count": 3
-  },
-  {
     "fandom": "Okami",
     "count": 3
   },
@@ -1477,14 +1477,6 @@
   },
   {
     "fandom": "Wednesday",
-    "count": 3
-  },
-  {
-    "fandom": "Disney",
-    "count": 3
-  },
-  {
-    "fandom": "Visual Novel",
     "count": 3
   },
   {
@@ -1864,6 +1856,10 @@
     "count": 2
   },
   {
+    "fandom": "Visual Novel",
+    "count": 2
+  },
+  {
     "fandom": "Bluey",
     "count": 2
   },
@@ -1945,6 +1941,10 @@
   },
   {
     "fandom": "Dreamcatcher",
+    "count": 2
+  },
+  {
+    "fandom": "Disney",
     "count": 2
   },
   {
@@ -2468,6 +2468,10 @@
     "count": 1
   },
   {
+    "fandom": "Yoasobi",
+    "count": 1
+  },
+  {
     "fandom": "Chinese Fandom",
     "count": 1
   },
@@ -2689,10 +2693,6 @@
   },
   {
     "fandom": "Relatable",
-    "count": 1
-  },
-  {
-    "fandom": "Square Enix",
     "count": 1
   },
   {
@@ -3289,6 +3289,10 @@
   },
   {
     "fandom": "Tsukuyomi",
+    "count": 1
+  },
+  {
+    "fandom": "Programming",
     "count": 1
   },
   {
