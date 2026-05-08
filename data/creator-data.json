@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "creators": [
     {
       "id": 7851,
@@ -652,7 +652,14 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/cabd3785-c598-42bf-8cb0-7f246dc040b9/AA-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/8dddcaf7-a49f-48eb-8a1c-f989ce76418a/AA-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/28cab1ac-7aad-4346-9352-5b5a9907222f/AA-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/9a8336e8-db24-40bc-908c-c9a320261c0c/AA-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/e12f8330-3c26-4d19-a4f9-a2f85dad024b/AA-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ebd188a4-38a7-4526-8d77-8f701da95cfa/54192a5b-6578-440a-b7e7-a8284d587bf3/AA-20.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bichi Mao.jpg",
       "circle_code": "AA-20"
     },
@@ -4452,7 +4459,15 @@
         "Music",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/40dff9b0-ea50-403a-9506-09de13b2db3c/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/6512b7a8-3848-420a-bedd-b3ce34b2e51a/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/0de8e1ee-90b9-4e01-a489-cc9e9f397731/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/d8a38eb6-6639-413a-905e-095350d70be2/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/b454ee63-a194-4ccc-9803-7dc6eddb65b5/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/e7ed1aaf-721b-438a-97a7-c6eb007fba10/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dc85c193-b66c-42b7-b163-2e4b3259d7af/06996c50-a269-4b09-86a0-d9fe72c51077/AD-43.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gumu's Bedroom Studio.jpg",
       "circle_code": "AD-43"
     },
@@ -20167,7 +20182,7 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/758a9ef6-9655-4d09-bcbf-6d60f50a62ca/D-52ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/93ca9af1-1580-402a-9404-d3a07c703067/D-52ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/f15f7628-5cd4-41b4-9134-e456625ea35a/D-52ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/f0871a63-91a4-4cdb-9551-cea3f1c783a3/D-52ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/769586fc-715a-4d7c-9182-1c0e68d2f976/D-52ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/932e1b72-4acc-437d-beb5-f82a39fd1ad2/D-52ab.png",
@@ -24661,7 +24676,9 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/bbf1ee25-19e0-45a1-9d16-85abd68d58e6/F-39ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/4c81273c-22ac-489d-88f4-fb94c02a82f4/F-39ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/6c4dc435-af63-4c4d-b86a-1efa23660083/F-39ab.JPG",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/9afcd8d1-4352-465c-a1e4-ca9027e456d6/F-39ab.jpeg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/9afcd8d1-4352-465c-a1e4-ca9027e456d6/F-39ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/50235d8f-43e9-41f9-8933-4d35581bfcea/F-39ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/261546d7-6327-4730-9d3e-d0caa15fe38e/F-39ab.jpeg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Veve Kawai.jpg",
       "circle_code": "F-39ab"
@@ -31727,12 +31744,7 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c2d2bb0-1ed5-4b3d-8507-5b8b2f3fbaa1/8c49ef29-484b-4742-87ed-380f2d76864b/H-53b.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c2d2bb0-1ed5-4b3d-8507-5b8b2f3fbaa1/bc34bbeb-c9c2-4c0e-9019-795ee2793005/H-53b.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c2d2bb0-1ed5-4b3d-8507-5b8b2f3fbaa1/29e902f9-757a-4ad5-b417-147eca6ae45e/H-53b.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c2d2bb0-1ed5-4b3d-8507-5b8b2f3fbaa1/41e7f201-04af-47c8-97ee-dfd1ed44a02e/H-53b.jpg"
-      ],
+      "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Momoka L'saltywetspirit.jpg",
       "circle_code": "H-53b"
     },
@@ -32448,7 +32460,8 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/c584990e-228e-42d6-bb07-ecbecee7282f/I-05ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/d5e46e7c-0a00-4dae-b020-7b472f7ecda6/I-05ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/d5e46e7c-0a00-4dae-b020-7b472f7ecda6/I-05ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/c1ff7072-33b3-4a1d-9618-7c3a5f1dbffc/I-05ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Belka.jpg",
       "circle_code": "I-05ab"
@@ -41486,7 +41499,14 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/77b9a81f-ebaf-441c-9fd1-a2946577fe29/K-45a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/b6065f97-b8c8-4919-83b5-3e934ca86d31/K-45a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/af334f21-a36c-49eb-85a5-c122f088bc14/K-45a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/9c6a37bd-7d65-4219-b5d6-04b554060fc3/K-45a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/64c33a8a-e125-4f38-b565-2406635a0a9e/K-45a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6059230e-0359-49a1-b58d-eef8e854b125/c7492260-aa71-4b9e-a602-e65cc8aa4726/K-45a (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fyoiret.jpg",
       "circle_code": "K-45a (SUN)"
     },
