@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 134
+    "count": 135
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -57,7 +57,7 @@
   },
   {
     "fandom": "Haikyu!!",
-    "count": 100
+    "count": 101
   },
   {
     "fandom": "Studio Ghibli",
@@ -96,16 +96,16 @@
     "count": 74
   },
   {
+    "fandom": "Arknights: Endfield",
+    "count": 65
+  },
+  {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
     "count": 65
   },
   {
-    "fandom": "Arknights: Endfield",
-    "count": 64
-  },
-  {
     "fandom": "Delicious in Dungeon",
-    "count": 62
+    "count": 63
   },
   {
     "fandom": "NIJISANJI",
@@ -188,16 +188,16 @@
     "count": 34
   },
   {
+    "fandom": "JoJo's Bizarre Adventure",
+    "count": 33
+  },
+  {
     "fandom": "Ensemble Stars!",
     "count": 33
   },
   {
     "fandom": "The Amazing Digital Circus",
     "count": 33
-  },
-  {
-    "fandom": "JoJo's Bizarre Adventure",
-    "count": 32
   },
   {
     "fandom": "Animal",
@@ -296,6 +296,10 @@
     "count": 23
   },
   {
+    "fandom": "Cookie Run: Kingdom",
+    "count": 23
+  },
+  {
     "fandom": "Nana",
     "count": 22
   },
@@ -305,10 +309,6 @@
   },
   {
     "fandom": "Adventure Time",
-    "count": 22
-  },
-  {
-    "fandom": "Cookie Run: Kingdom",
     "count": 22
   },
   {
@@ -400,6 +400,10 @@
     "count": 17
   },
   {
+    "fandom": "Tamon's B Side",
+    "count": 17
+  },
+  {
     "fandom": "Holostars",
     "count": 17
   },
@@ -416,11 +420,11 @@
     "count": 16
   },
   {
-    "fandom": "Heated Rivalry",
+    "fandom": "Persona 5",
     "count": 16
   },
   {
-    "fandom": "Tamon's B Side",
+    "fandom": "Heated Rivalry",
     "count": 16
   },
   {
@@ -449,10 +453,6 @@
   },
   {
     "fandom": "Video Games",
-    "count": 15
-  },
-  {
-    "fandom": "Persona 5",
     "count": 15
   },
   {
@@ -776,6 +776,10 @@
     "count": 8
   },
   {
+    "fandom": "Persona 3",
+    "count": 8
+  },
+  {
     "fandom": "Pikmin",
     "count": 8
   },
@@ -801,6 +805,10 @@
   },
   {
     "fandom": "Love Live!",
+    "count": 8
+  },
+  {
+    "fandom": "Pandavva",
     "count": 8
   },
   {
@@ -848,6 +856,10 @@
     "count": 7
   },
   {
+    "fandom": "NCT",
+    "count": 7
+  },
+  {
     "fandom": "Tears of Themis",
     "count": 7
   },
@@ -868,6 +880,10 @@
     "count": 7
   },
   {
+    "fandom": "Yotsuba&!",
+    "count": 7
+  },
+  {
     "fandom": "Karaoke Iko!",
     "count": 7
   },
@@ -877,14 +893,6 @@
   },
   {
     "fandom": "Yohaji",
-    "count": 7
-  },
-  {
-    "fandom": "Persona 3",
-    "count": 7
-  },
-  {
-    "fandom": "Pandavva",
     "count": 7
   },
   {
@@ -956,10 +964,6 @@
     "count": 6
   },
   {
-    "fandom": "NCT",
-    "count": 6
-  },
-  {
     "fandom": "Xdinary Heroes",
     "count": 6
   },
@@ -992,10 +996,6 @@
     "count": 6
   },
   {
-    "fandom": "Yotsuba&!",
-    "count": 6
-  },
-  {
     "fandom": "Skip and Loafer",
     "count": 6
   },
@@ -1009,6 +1009,10 @@
   },
   {
     "fandom": "Harvest Moon",
+    "count": 6
+  },
+  {
+    "fandom": "Sfawtde",
     "count": 6
   },
   {
@@ -1160,10 +1164,6 @@
     "count": 5
   },
   {
-    "fandom": "Sfawtde",
-    "count": 5
-  },
-  {
     "fandom": "Trickcal",
     "count": 5
   },
@@ -1261,6 +1261,10 @@
   },
   {
     "fandom": "The Pitt",
+    "count": 4
+  },
+  {
+    "fandom": "Welcome to Demon School! Iruma-kun",
     "count": 4
   },
   {
@@ -1468,10 +1472,6 @@
     "count": 3
   },
   {
-    "fandom": "Welcome to Demon School! Iruma-kun",
-    "count": 3
-  },
-  {
     "fandom": "Jesus",
     "count": 3
   },
@@ -1481,6 +1481,10 @@
   },
   {
     "fandom": "Wednesday",
+    "count": 3
+  },
+  {
+    "fandom": "Visual Novel",
     "count": 3
   },
   {
@@ -1856,10 +1860,6 @@
     "count": 2
   },
   {
-    "fandom": "Visual Novel",
-    "count": 2
-  },
-  {
     "fandom": "Bluey",
     "count": 2
   },
@@ -1929,6 +1929,10 @@
   },
   {
     "fandom": "Macross",
+    "count": 2
+  },
+  {
+    "fandom": "Ichi the Witch",
     "count": 2
   },
   {
@@ -2312,10 +2316,6 @@
     "count": 1
   },
   {
-    "fandom": "Requiem",
-    "count": 1
-  },
-  {
     "fandom": "Escape from Tarkov",
     "count": 1
   },
@@ -2472,23 +2472,11 @@
     "count": 1
   },
   {
-    "fandom": "Yoasobi",
+    "fandom": "YOASOBI",
     "count": 1
   },
   {
     "fandom": "Chinese Fandom",
-    "count": 1
-  },
-  {
-    "fandom": "Persona 3 Reload",
-    "count": 1
-  },
-  {
-    "fandom": "Persona 5 Royal",
-    "count": 1
-  },
-  {
-    "fandom": "Steel Ball Run",
     "count": 1
   },
   {
@@ -2612,7 +2600,11 @@
     "count": 1
   },
   {
-    "fandom": "K-pop (nct Wish, Super Junior, Hearts2hearts)",
+    "fandom": "HEARTS2HEARTS",
+    "count": 1
+  },
+  {
+    "fandom": "Super Junior",
     "count": 1
   },
   {
@@ -2773,10 +2765,6 @@
   },
   {
     "fandom": "Dead by Daylight",
-    "count": 1
-  },
-  {
-    "fandom": "Pandavva Vtuber",
     "count": 1
   },
   {
@@ -3148,10 +3136,6 @@
     "count": 1
   },
   {
-    "fandom": "Ichi the Witch",
-    "count": 1
-  },
-  {
     "fandom": "Rockstar Games",
     "count": 1
   },
@@ -3221,10 +3205,6 @@
   },
   {
     "fandom": "Yu Yu Hakusho",
-    "count": 1
-  },
-  {
-    "fandom": "Arknights:enfield",
     "count": 1
   },
   {
@@ -3633,14 +3613,6 @@
   },
   {
     "fandom": "Odd Taxi",
-    "count": 1
-  },
-  {
-    "fandom": "Visual Novel Games",
-    "count": 1
-  },
-  {
-    "fandom": "Yotsubato!",
     "count": 1
   },
   {
@@ -4344,11 +4316,11 @@
     "count": 1
   },
   {
-    "fandom": "Tsubasha Chronicle",
+    "fandom": "Tsubasa: Reservoir Chronicle",
     "count": 1
   },
   {
-    "fandom": "Xxx Holic",
+    "fandom": "xxxHolic",
     "count": 1
   },
   {
@@ -4457,14 +4429,6 @@
   },
   {
     "fandom": "Slay the Spire",
-    "count": 1
-  },
-  {
-    "fandom": "Dungeon-meshi",
-    "count": 1
-  },
-  {
-    "fandom": "Sf/dawtde",
     "count": 1
   },
   {

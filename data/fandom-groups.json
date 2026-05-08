@@ -402,7 +402,8 @@
       "Dunmeshi",
       "Danmeshi",
       "Dungeon Meshii",
-      "Dunmeshi (dungeon Meshi)"
+      "Dunmeshi (dungeon Meshi)",
+      "Dungeon-meshi"
     ]
   },
   {
@@ -675,7 +676,8 @@
       "K-pop (stray Kids)",
       "K-pop (ateez, Xlov, Zb1)",
       "Kpop (plave)",
-      "Kpop (tws)"
+      "Kpop (tws)",
+      "K-pop (nct Wish, Super Junior, Hearts2hearts)"
     ]
   },
   {
@@ -859,7 +861,8 @@
   {
     "canonical": "Persona 5",
     "variants": [
-      "Persona 5"
+      "Persona 5",
+      "Persona 5 Royal"
     ]
   },
   {
@@ -923,7 +926,8 @@
       "Resident Evil 9",
       "Re9",
       "Resident Evil Requiem 9",
-      "Resident Evil 9 Requiem"
+      "Resident Evil 9 Requiem",
+      "Requiem"
     ]
   },
   {
@@ -1443,7 +1447,8 @@
       "Jojo Bizare Advanture",
       "Jojo's Bizzarre Adventure",
       "Jojo Sbr",
-      "Jojo: Sbr"
+      "Jojo: Sbr",
+      "Steel Ball Run"
     ]
   },
   {
@@ -1834,7 +1839,8 @@
     "canonical": "Persona 3",
     "variants": [
       "Persona 3",
-      "Persona 3 Fes/reload"
+      "Persona 3 Fes/reload",
+      "Persona 3 Reload"
     ]
   },
   {
@@ -2537,7 +2543,8 @@
       "NCT",
       "Nct Wish",
       "Nct 127",
-      "Nct Dream"
+      "Nct Dream",
+      "K-pop (nct Wish, Super Junior, Hearts2hearts)"
     ]
   },
   {
@@ -2833,7 +2840,8 @@
     "canonical": "Visual Novel",
     "variants": [
       "Visual Novel",
-      "Visual Novel (14 Days With You, The Kid At The Back, A Date With Death, Our Life Beginning And Always, The Freak Circus)"
+      "Visual Novel (14 Days With You, The Kid At The Back, A Date With Death, Our Life Beginning And Always, The Freak Circus)",
+      "Visual Novel Games"
     ]
   },
   {
@@ -3418,7 +3426,8 @@
       "Arknight Enfield",
       "Endfield",
       "Arknight Endfield",
-      "Arknights Enfield"
+      "Arknights Enfield",
+      "Arknights:endfield"
     ]
   },
   {
@@ -5320,7 +5329,8 @@
     "canonical": "Sfawtde",
     "variants": [
       "Sfawtde",
-      "Minecraft (sfawtde)"
+      "Minecraft (sfawtde)",
+      "Sf/dawtde"
     ]
   },
   {
@@ -6270,7 +6280,8 @@
     "canonical": "Yotsuba&!",
     "variants": [
       "Yotsuba&!",
-      "Yotsuba"
+      "Yotsuba",
+      "Yotsubato!"
     ]
   },
   {
@@ -7149,7 +7160,8 @@
   {
     "canonical": "Pandavva",
     "variants": [
-      "Pandavva"
+      "Pandavva",
+      "Pandavva Vtuber"
     ]
   },
   {
@@ -8219,6 +8231,115 @@
     "canonical": "Jane Doe",
     "variants": [
       "Jane Doe"
+    ]
+  },
+  {
+    "canonical": "YOASOBI",
+    "variants": [
+      "YOASOBI"
+    ]
+  },
+  {
+    "canonical": "Super Junior",
+    "variants": [
+      "Super Junior",
+      "K-pop (nct Wish, Super Junior, Hearts2hearts)"
+    ]
+  },
+  {
+    "canonical": "HEARTS2HEARTS",
+    "variants": [
+      "HEARTS2HEARTS",
+      "K-pop (nct Wish, Super Junior, Hearts2hearts)"
+    ]
+  },
+  {
+    "canonical": "You & I Are Polar Opposites",
+    "variants": [
+      "You & I Are Polar Opposites"
+    ]
+  },
+  {
+    "canonical": "Freebies",
+    "variants": [
+      "Freebies"
+    ]
+  },
+  {
+    "canonical": "Art Trades",
+    "variants": [
+      "Art Trades"
+    ]
+  },
+  {
+    "canonical": "Programming",
+    "variants": [
+      "Programming"
+    ]
+  },
+  {
+    "canonical": "Lost Saga",
+    "variants": [
+      "Lost Saga"
+    ]
+  },
+  {
+    "canonical": "Odd Taxi",
+    "variants": [
+      "Odd Taxi"
+    ]
+  },
+  {
+    "canonical": "No Means Nothing",
+    "variants": [
+      "No Means Nothing"
+    ]
+  },
+  {
+    "canonical": "Kamichama Karin",
+    "variants": [
+      "Kamichama Karin"
+    ]
+  },
+  {
+    "canonical": "Pandora Hearts",
+    "variants": [
+      "Pandora Hearts"
+    ]
+  },
+  {
+    "canonical": "xxxHolic",
+    "variants": [
+      "xxxHolic",
+      "Xxx Holic"
+    ]
+  },
+  {
+    "canonical": "Tsubasa: Reservoir Chronicle",
+    "variants": [
+      "Tsubasa: Reservoir Chronicle",
+      "Tsubasa Chronicle",
+      "Tsubasha Chronicle",
+      "Tsubasa Reservoir Chronicle"
+    ]
+  },
+  {
+    "canonical": "Magic Knight Rayearth",
+    "variants": [
+      "Magic Knight Rayearth"
+    ]
+  },
+  {
+    "canonical": "Bad Omens",
+    "variants": [
+      "Bad Omens"
+    ]
+  },
+  {
+    "canonical": "Bring Me The Horizon",
+    "variants": [
+      "Bring Me The Horizon",
+      "BMTH"
     ]
   }
 ]
