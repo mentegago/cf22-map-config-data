@@ -109,7 +109,7 @@
   },
   {
     "fandom": "NIJISANJI",
-    "count": 62
+    "count": 63
   },
   {
     "fandom": "Blue Archive",
@@ -716,6 +716,10 @@
     "count": 9
   },
   {
+    "fandom": "Pandavva",
+    "count": 9
+  },
+  {
     "fandom": "Green Yuri",
     "count": 9
   },
@@ -805,10 +809,6 @@
   },
   {
     "fandom": "Love Live!",
-    "count": 8
-  },
-  {
-    "fandom": "Pandavva",
     "count": 8
   },
   {
@@ -1332,6 +1332,10 @@
     "count": 4
   },
   {
+    "fandom": "No Home",
+    "count": 4
+  },
+  {
     "fandom": "Ghost Stories",
     "count": 4
   },
@@ -1541,10 +1545,6 @@
   },
   {
     "fandom": "ENA",
-    "count": 3
-  },
-  {
-    "fandom": "No Home",
     "count": 3
   },
   {
@@ -4317,6 +4317,10 @@
   },
   {
     "fandom": "Tsubasa: Reservoir Chronicle",
+    "count": 1
+  },
+  {
+    "fandom": "Twice",
     "count": 1
   },
   {

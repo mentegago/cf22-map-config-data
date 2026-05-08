@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "creators": [
     {
       "id": 7851,
@@ -42819,7 +42819,8 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/ead430e5-da1e-4673-b665-314a35a49d38/L-05ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/76ac965f-d698-4e65-ac32-a7ff0a8172dc/L-05ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/97e72477-c7ee-45b6-9a7e-e53855bfd26b/L-05ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/1b348bc1-ad09-44e4-9ca0-aa9b364150d1/L-05ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/1b348bc1-ad09-44e4-9ca0-aa9b364150d1/L-05ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/2760f8d0-c76c-4e57-973d-a5861e99a33b/L-05ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lucabalsafanclub.jpg",
       "circle_code": "L-05ab"
@@ -56940,6 +56941,10 @@
       ],
       "raw_fandoms": [
         "Plave",
+        "Pandavva",
+        "Nijisanji",
+        "Twice",
+        "No Home",
         "Xxx Holic",
         "Tsubasha Chronicle",
         "Magic Knight Rayearth",
@@ -56961,9 +56966,13 @@
         "Kuroko's Basketball",
         "Magic Knight Rayearth",
         "My Chemical Romance",
+        "NIJISANJI",
+        "No Home",
+        "Pandavva",
         "PLAVE",
         "Sleep Token",
         "Tsubasa: Reservoir Chronicle",
+        "Twice",
         "xxxHolic"
       ],
       "works_type": [
@@ -56972,7 +56981,7 @@
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/50de325c-741b-4aff-9932-4d2f8d9f85fb/d12ed580-b701-4cd4-a169-d24b51030afc/O-38a.jpeg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/50de325c-741b-4aff-9932-4d2f8d9f85fb/7ca5921b-2dee-4b92-a90a-1a2f3f429473/O-38a.jpeg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/50de325c-741b-4aff-9932-4d2f8d9f85fb/c14c6ab8-1387-4687-b815-68bf0d2dc2c4/O-38a.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/50de325c-741b-4aff-9932-4d2f8d9f85fb/10f6ae45-6a25-46a7-b310-f3c50e0c5b30/O-38a.jpeg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Polaris.jpg",
       "circle_code": "O-38a"
