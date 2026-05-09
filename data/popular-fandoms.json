@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 506
+    "count": 507
   },
   {
     "fandom": "Honkai Star Rail",
@@ -29,11 +29,11 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 135
+    "count": 136
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 133
+    "count": 134
   },
   {
     "fandom": "HoYoverse",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 103
+    "count": 104
   },
   {
     "fandom": "Haikyu!!",
@@ -84,16 +84,16 @@
     "count": 75
   },
   {
-    "fandom": "Chainsaw Man",
-    "count": 74
-  },
-  {
     "fandom": "Omniscient Reader's Viewpoint",
     "count": 74
   },
   {
     "fandom": "DC Comics",
     "count": 74
+  },
+  {
+    "fandom": "Chainsaw Man",
+    "count": 73
   },
   {
     "fandom": "Arknights: Endfield",
@@ -176,12 +176,12 @@
     "count": 37
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Resident Evil",
     "count": 35
   },
   {
-    "fandom": "Resident Evil",
-    "count": 34
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 35
   },
   {
     "fandom": "Sonic the Hedgehog",
@@ -344,6 +344,10 @@
     "count": 19
   },
   {
+    "fandom": "Monster Hunter",
+    "count": 19
+  },
+  {
     "fandom": "Cosplay",
     "count": 19
   },
@@ -364,10 +368,6 @@
     "count": 19
   },
   {
-    "fandom": "Monster Hunter",
-    "count": 18
-  },
-  {
     "fandom": "Cookie Run",
     "count": 18
   },
@@ -377,6 +377,10 @@
   },
   {
     "fandom": "Spy x Family",
+    "count": 18
+  },
+  {
+    "fandom": "Holostars",
     "count": 18
   },
   {
@@ -400,11 +404,15 @@
     "count": 17
   },
   {
+    "fandom": "Heated Rivalry",
+    "count": 17
+  },
+  {
     "fandom": "Tamon's B Side",
     "count": 17
   },
   {
-    "fandom": "Holostars",
+    "fandom": "Path to Nowhere",
     "count": 17
   },
   {
@@ -421,14 +429,6 @@
   },
   {
     "fandom": "Persona 5",
-    "count": 16
-  },
-  {
-    "fandom": "Heated Rivalry",
-    "count": 16
-  },
-  {
-    "fandom": "Path to Nowhere",
     "count": 16
   },
   {
@@ -504,6 +504,10 @@
     "count": 14
   },
   {
+    "fandom": "Hundred Line: The Last Defense Academy",
+    "count": 14
+  },
+  {
     "fandom": "Transformers",
     "count": 13
   },
@@ -537,10 +541,6 @@
   },
   {
     "fandom": "Homestuck",
-    "count": 13
-  },
-  {
-    "fandom": "Hundred Line: The Last Defense Academy",
     "count": 13
   },
   {
@@ -800,6 +800,10 @@
     "count": 8
   },
   {
+    "fandom": "Project Hail Mary",
+    "count": 8
+  },
+  {
     "fandom": "ZEROBASEONE",
     "count": 8
   },
@@ -869,10 +873,6 @@
   },
   {
     "fandom": "Spider-Verse",
-    "count": 7
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 7
   },
   {
@@ -1148,6 +1148,10 @@
     "count": 5
   },
   {
+    "fandom": "Moriarty the Patriot",
+    "count": 5
+  },
+  {
     "fandom": "Medalist",
     "count": 5
   },
@@ -1188,7 +1192,15 @@
     "count": 5
   },
   {
+    "fandom": "Metal Gear Solid",
+    "count": 5
+  },
+  {
     "fandom": "A3!",
+    "count": 5
+  },
+  {
+    "fandom": "Team Fortress 2",
     "count": 5
   },
   {
@@ -1344,10 +1356,6 @@
     "count": 4
   },
   {
-    "fandom": "Moriarty the Patriot",
-    "count": 4
-  },
-  {
     "fandom": "Supernatural",
     "count": 4
   },
@@ -1369,14 +1377,6 @@
   },
   {
     "fandom": "Kingdom Come: Deliverance",
-    "count": 4
-  },
-  {
-    "fandom": "Metal Gear Solid",
-    "count": 4
-  },
-  {
-    "fandom": "Team Fortress 2",
     "count": 4
   },
   {
@@ -1421,6 +1421,10 @@
   },
   {
     "fandom": "Frankenstein",
+    "count": 3
+  },
+  {
+    "fandom": "Junji Ito",
     "count": 3
   },
   {
@@ -1721,10 +1725,6 @@
   },
   {
     "fandom": "Street Fighter",
-    "count": 2
-  },
-  {
-    "fandom": "Junji Ito",
     "count": 2
   },
   {
@@ -2169,6 +2169,10 @@
   },
   {
     "fandom": "Bandom",
+    "count": 2
+  },
+  {
+    "fandom": "AI: The Somnium Files",
     "count": 2
   },
   {
@@ -2988,14 +2992,6 @@
     "count": 1
   },
   {
-    "fandom": "Holostar",
-    "count": 1
-  },
-  {
-    "fandom": "Ito Junji",
-    "count": 1
-  },
-  {
     "fandom": "Gavan Infinity",
     "count": 1
   },
@@ -3748,6 +3744,10 @@
     "count": 1
   },
   {
+    "fandom": "Alan Becker",
+    "count": 1
+  },
+  {
     "fandom": "Lovebruh Chronicles",
     "count": 1
   },
@@ -3816,7 +3816,7 @@
     "count": 1
   },
   {
-    "fandom": "Iron Lung X Project Hail Mary",
+    "fandom": "Iron Lung",
     "count": 1
   },
   {
@@ -3989,10 +3989,6 @@
   },
   {
     "fandom": "Voltron",
-    "count": 1
-  },
-  {
-    "fandom": "AI: The Somnium Files",
     "count": 1
   },
   {
@@ -4328,7 +4324,7 @@
     "count": 1
   },
   {
-    "fandom": "Twice",
+    "fandom": "TWICE",
     "count": 1
   },
   {

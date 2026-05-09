@@ -883,7 +883,8 @@
       "Holostars English",
       "Holostars Etc",
       "Holostars (en / Tempus / Uproar)",
-      "Holostars Armis"
+      "Holostars Armis",
+      "Holostar"
     ]
   },
   {
@@ -4617,7 +4618,8 @@
   {
     "canonical": "Junji Ito",
     "variants": [
-      "Junji Ito"
+      "Junji Ito",
+      "Ito Junji"
     ]
   },
   {
@@ -7550,7 +7552,8 @@
     "variants": [
       "Project Hail Mary",
       "Project: Hail Mary",
-      "Phm (project Hail Mary)"
+      "Phm (project Hail Mary)",
+      "Iron Lung X Project Hail Mary"
     ]
   },
   {
@@ -8340,6 +8343,25 @@
     "variants": [
       "Bring Me The Horizon",
       "BMTH"
+    ]
+  },
+  {
+    "canonical": "Alan Becker",
+    "variants": [
+      "Alan Becker"
+    ]
+  },
+  {
+    "canonical": "Iron Lung",
+    "variants": [
+      "Iron Lung",
+      "Iron Lung X Project Hail Mary"
+    ]
+  },
+  {
+    "canonical": "TWICE",
+    "variants": [
+      "TWICE"
     ]
   }
 ]
