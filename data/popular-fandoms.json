@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 505
+    "count": 506
   },
   {
     "fandom": "Honkai Star Rail",
@@ -45,7 +45,7 @@
   },
   {
     "fandom": "Arknights",
-    "count": 113
+    "count": 114
   },
   {
     "fandom": "VTuber",
@@ -77,7 +77,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 76
+    "count": 77
   },
   {
     "fandom": "One Piece",
@@ -632,6 +632,10 @@
     "count": 10
   },
   {
+    "fandom": "Musicals",
+    "count": 10
+  },
+  {
     "fandom": "ATEEZ",
     "count": 10
   },
@@ -697,10 +701,6 @@
   },
   {
     "fandom": "Marvel Rivals",
-    "count": 9
-  },
-  {
-    "fandom": "Musicals",
     "count": 9
   },
   {
@@ -896,6 +896,10 @@
     "count": 7
   },
   {
+    "fandom": "MILGRAM",
+    "count": 7
+  },
+  {
     "fandom": "Murder Drones",
     "count": 7
   },
@@ -968,10 +972,6 @@
     "count": 6
   },
   {
-    "fandom": "Rhythm Games",
-    "count": 6
-  },
-  {
     "fandom": "Kamisama Kiss",
     "count": 6
   },
@@ -1016,10 +1016,6 @@
     "count": 6
   },
   {
-    "fandom": "MILGRAM",
-    "count": 6
-  },
-  {
     "fandom": "Studio InvestiGrave",
     "count": 6
   },
@@ -1041,6 +1037,10 @@
   },
   {
     "fandom": "Super Sentai",
+    "count": 5
+  },
+  {
+    "fandom": "Food",
     "count": 5
   },
   {
@@ -1101,6 +1101,10 @@
   },
   {
     "fandom": "Public Transportation",
+    "count": 5
+  },
+  {
+    "fandom": "Rhythm Games",
     "count": 5
   },
   {
@@ -1205,10 +1209,6 @@
   },
   {
     "fandom": "MyGO!!!!!",
-    "count": 4
-  },
-  {
-    "fandom": "Food",
     "count": 4
   },
   {
@@ -1389,6 +1389,10 @@
   },
   {
     "fandom": "Berserk",
+    "count": 3
+  },
+  {
+    "fandom": "Dorohedoro",
     "count": 3
   },
   {
@@ -1689,10 +1693,6 @@
   },
   {
     "fandom": "NieR Replicant",
-    "count": 2
-  },
-  {
-    "fandom": "Dorohedoro",
     "count": 2
   },
   {
@@ -3809,6 +3809,10 @@
   },
   {
     "fandom": "Xlov",
+    "count": 1
+  },
+  {
+    "fandom": "Iron Lung X Project Hail Mary",
     "count": 1
   },
   {
