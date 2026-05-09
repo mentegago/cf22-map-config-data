@@ -668,6 +668,10 @@
     "count": 10
   },
   {
+    "fandom": "Heartopia",
+    "count": 9
+  },
+  {
     "fandom": "Dungeons & Dragons",
     "count": 9
   },
@@ -756,10 +760,6 @@
     "count": 8
   },
   {
-    "fandom": "Heartopia",
-    "count": 8
-  },
-  {
     "fandom": "Music",
     "count": 8
   },
@@ -813,6 +813,10 @@
   },
   {
     "fandom": "Soul Eater",
+    "count": 8
+  },
+  {
+    "fandom": "Record of Ragnarok",
     "count": 8
   },
   {
@@ -885,10 +889,6 @@
   },
   {
     "fandom": "Karaoke Iko!",
-    "count": 7
-  },
-  {
-    "fandom": "Record of Ragnarok",
     "count": 7
   },
   {
@@ -985,10 +985,6 @@
   },
   {
     "fandom": "Splatoon",
-    "count": 6
-  },
-  {
-    "fandom": "Western",
     "count": 6
   },
   {
@@ -1133,6 +1129,10 @@
   },
   {
     "fandom": "DAY6",
+    "count": 5
+  },
+  {
+    "fandom": "Western",
     "count": 5
   },
   {
@@ -2988,6 +2988,14 @@
     "count": 1
   },
   {
+    "fandom": "Holostar",
+    "count": 1
+  },
+  {
+    "fandom": "Ito Junji",
+    "count": 1
+  },
+  {
     "fandom": "Gavan Infinity",
     "count": 1
   },
@@ -3653,10 +3661,6 @@
   },
   {
     "fandom": "Re-Animator",
-    "count": 1
-  },
-  {
-    "fandom": "Bebichhichi",
     "count": 1
   },
   {
