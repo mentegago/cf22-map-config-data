@@ -5,11 +5,11 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 364
+    "count": 365
   },
   {
     "fandom": "Genshin Impact",
-    "count": 342
+    "count": 343
   },
   {
     "fandom": "Love and Deepspace",
@@ -496,6 +496,10 @@
     "count": 14
   },
   {
+    "fandom": "Black Butler",
+    "count": 14
+  },
+  {
     "fandom": "Harry Potter",
     "count": 14
   },
@@ -525,10 +529,6 @@
   },
   {
     "fandom": "Danganronpa",
-    "count": 13
-  },
-  {
-    "fandom": "Black Butler",
     "count": 13
   },
   {
@@ -624,6 +624,10 @@
     "count": 10
   },
   {
+    "fandom": "Fate Series",
+    "count": 10
+  },
+  {
     "fandom": "Kamen Rider",
     "count": 10
   },
@@ -689,10 +693,6 @@
   },
   {
     "fandom": "League of Legends",
-    "count": 9
-  },
-  {
-    "fandom": "Fate Series",
     "count": 9
   },
   {
@@ -3365,6 +3365,14 @@
   },
   {
     "fandom": "The Melancholy of Haruhi Suzumiya",
+    "count": 1
+  },
+  {
+    "fandom": "Mahoyo",
+    "count": 1
+  },
+  {
+    "fandom": "Zenlesszonezero:aod",
     "count": 1
   },
   {
