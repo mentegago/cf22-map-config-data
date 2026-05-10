@@ -1,11 +1,11 @@
 [
   {
     "fandom": "Original",
-    "count": 511
+    "count": 512
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 362
+    "count": 364
   },
   {
     "fandom": "Genshin Impact",
@@ -13,7 +13,7 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 198
+    "count": 199
   },
   {
     "fandom": "Uma Musume",
@@ -33,19 +33,19 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 134
-  },
-  {
-    "fandom": "HoYoverse",
-    "count": 122
+    "count": 135
   },
   {
     "fandom": "Hololive",
-    "count": 120
+    "count": 121
+  },
+  {
+    "fandom": "HoYoverse",
+    "count": 121
   },
   {
     "fandom": "Arknights",
-    "count": 114
+    "count": 113
   },
   {
     "fandom": "VTuber",
@@ -76,12 +76,12 @@
     "count": 84
   },
   {
-    "fandom": "Frieren: Beyond Journey's End",
+    "fandom": "One Piece",
     "count": 77
   },
   {
-    "fandom": "One Piece",
-    "count": 76
+    "fandom": "Frieren: Beyond Journey's End",
+    "count": 77
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
@@ -96,12 +96,12 @@
     "count": 73
   },
   {
-    "fandom": "Demon Slayer: Kimetsu no Yaiba",
+    "fandom": "Arknights: Endfield",
     "count": 65
   },
   {
-    "fandom": "Arknights: Endfield",
-    "count": 64
+    "fandom": "Demon Slayer: Kimetsu no Yaiba",
+    "count": 65
   },
   {
     "fandom": "Delicious in Dungeon",
@@ -121,7 +121,7 @@
   },
   {
     "fandom": "Persona",
-    "count": 46
+    "count": 47
   },
   {
     "fandom": "K-pop",
@@ -156,11 +156,11 @@
     "count": 40
   },
   {
-    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 39
+    "fandom": "My Hero Academia (Boku No Hero Academia)",
+    "count": 40
   },
   {
-    "fandom": "My Hero Academia (Boku No Hero Academia)",
+    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
     "count": 39
   },
   {
@@ -176,11 +176,11 @@
     "count": 37
   },
   {
-    "fandom": "Resident Evil",
-    "count": 35
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 36
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Resident Evil",
     "count": 35
   },
   {
@@ -364,6 +364,10 @@
     "count": 19
   },
   {
+    "fandom": "Holostars",
+    "count": 19
+  },
+  {
     "fandom": "Omori",
     "count": 19
   },
@@ -377,10 +381,6 @@
   },
   {
     "fandom": "Cookie Run",
-    "count": 18
-  },
-  {
-    "fandom": "Holostars",
     "count": 18
   },
   {
@@ -420,6 +420,10 @@
     "count": 16
   },
   {
+    "fandom": "Silent Hill",
+    "count": 16
+  },
+  {
     "fandom": "Attack on Titan",
     "count": 16
   },
@@ -436,8 +440,8 @@
     "count": 16
   },
   {
-    "fandom": "Silent Hill",
-    "count": 15
+    "fandom": "Honkai Impact 3rd",
+    "count": 16
   },
   {
     "fandom": "Final Fantasy",
@@ -453,10 +457,6 @@
   },
   {
     "fandom": "Video Games",
-    "count": 15
-  },
-  {
-    "fandom": "Honkai Impact 3rd",
     "count": 15
   },
   {
@@ -496,10 +496,6 @@
     "count": 14
   },
   {
-    "fandom": "Black Butler",
-    "count": 14
-  },
-  {
     "fandom": "Harry Potter",
     "count": 14
   },
@@ -532,6 +528,10 @@
     "count": 13
   },
   {
+    "fandom": "Black Butler",
+    "count": 13
+  },
+  {
     "fandom": "Tomorrow X Together",
     "count": 13
   },
@@ -560,6 +560,10 @@
     "count": 12
   },
   {
+    "fandom": "Utaite",
+    "count": 12
+  },
+  {
     "fandom": "Hades",
     "count": 12
   },
@@ -581,10 +585,6 @@
   },
   {
     "fandom": "The Legend of Zelda",
-    "count": 11
-  },
-  {
-    "fandom": "Utaite",
     "count": 11
   },
   {
@@ -652,11 +652,19 @@
     "count": 10
   },
   {
+    "fandom": "Mystic Messenger",
+    "count": 10
+  },
+  {
     "fandom": "Hai, Miiko!",
     "count": 10
   },
   {
     "fandom": "Ouran High School Host Club",
+    "count": 10
+  },
+  {
+    "fandom": "Eve",
     "count": 10
   },
   {
@@ -712,19 +720,11 @@
     "count": 9
   },
   {
-    "fandom": "Mystic Messenger",
-    "count": 9
-  },
-  {
     "fandom": "Mashle: Magic and Muscles",
     "count": 9
   },
   {
     "fandom": "Green Yuri",
-    "count": 9
-  },
-  {
-    "fandom": "Eve",
     "count": 9
   },
   {
@@ -1152,6 +1152,10 @@
     "count": 5
   },
   {
+    "fandom": "Supernatural",
+    "count": 5
+  },
+  {
     "fandom": "Medalist",
     "count": 5
   },
@@ -1224,6 +1228,10 @@
     "count": 4
   },
   {
+    "fandom": "Got Dropped In A Ghost Story",
+    "count": 4
+  },
+  {
     "fandom": "Cyberpunk 2077",
     "count": 4
   },
@@ -1233,6 +1241,10 @@
   },
   {
     "fandom": "Good Omens",
+    "count": 4
+  },
+  {
+    "fandom": "Girls und Panzer",
     "count": 4
   },
   {
@@ -1356,10 +1368,6 @@
     "count": 4
   },
   {
-    "fandom": "Supernatural",
-    "count": 4
-  },
-  {
     "fandom": "SIGNALIS",
     "count": 4
   },
@@ -1416,10 +1424,6 @@
     "count": 3
   },
   {
-    "fandom": "Got Dropped In A Ghost Story",
-    "count": 3
-  },
-  {
     "fandom": "Frankenstein",
     "count": 3
   },
@@ -1437,10 +1441,6 @@
   },
   {
     "fandom": "BTS",
-    "count": 3
-  },
-  {
-    "fandom": "Girls und Panzer",
     "count": 3
   },
   {
@@ -1677,6 +1677,10 @@
   },
   {
     "fandom": "Blur",
+    "count": 3
+  },
+  {
+    "fandom": "Still Gotta Work",
     "count": 3
   },
   {
@@ -2064,6 +2068,10 @@
     "count": 2
   },
   {
+    "fandom": "Ganbare Nakamura",
+    "count": 2
+  },
+  {
     "fandom": "Sound! Euphonium",
     "count": 2
   },
@@ -2129,6 +2137,10 @@
   },
   {
     "fandom": "Funamusea",
+    "count": 2
+  },
+  {
+    "fandom": "Osomatsu-san",
     "count": 2
   },
   {
@@ -2269,10 +2281,6 @@
   },
   {
     "fandom": "Grandmaster of Demonic Cultivation",
-    "count": 2
-  },
-  {
-    "fandom": "Still Gotta Work",
     "count": 2
   },
   {
@@ -3284,14 +3292,6 @@
     "count": 1
   },
   {
-    "fandom": "Boku No Hero",
-    "count": 1
-  },
-  {
-    "fandom": "Gup",
-    "count": 1
-  },
-  {
     "fandom": "Western Pop",
     "count": 1
   },
@@ -3321,10 +3321,6 @@
   },
   {
     "fandom": "Indogov",
-    "count": 1
-  },
-  {
-    "fandom": "Ganbare Nakamura",
     "count": 1
   },
   {
@@ -3604,23 +3600,7 @@
     "count": 1
   },
   {
-    "fandom": "Eve/utaite",
-    "count": 1
-  },
-  {
-    "fandom": "Gegege No Kitaro/ Ge Nazo",
-    "count": 1
-  },
-  {
-    "fandom": "Nakamura Kun",
-    "count": 1
-  },
-  {
-    "fandom": "Natori",
-    "count": 1
-  },
-  {
-    "fandom": "Osomatsu",
+    "fandom": "Gegege no Kitaro",
     "count": 1
   },
   {
@@ -3685,6 +3665,14 @@
   },
   {
     "fandom": "Re-Animator",
+    "count": 1
+  },
+  {
+    "fandom": "Alice: Madness Returns",
+    "count": 1
+  },
+  {
+    "fandom": "Bebichhichi",
     "count": 1
   },
   {
@@ -4033,10 +4021,6 @@
   },
   {
     "fandom": "Countryballs",
-    "count": 1
-  },
-  {
-    "fandom": "Osomatsu-san",
     "count": 1
   },
   {
@@ -4412,6 +4396,10 @@
     "count": 1
   },
   {
+    "fandom": "Tales of",
+    "count": 1
+  },
+  {
     "fandom": "Seihantai Na Kimi To Boku",
     "count": 1
   },
@@ -4533,14 +4521,6 @@
   },
   {
     "fandom": "The Devil Wears Prada",
-    "count": 1
-  },
-  {
-    "fandom": "Honkai 3rd",
-    "count": 1
-  },
-  {
-    "fandom": "Mystic Messanger Persona",
     "count": 1
   },
   {

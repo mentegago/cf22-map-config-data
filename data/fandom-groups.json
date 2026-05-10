@@ -80,7 +80,8 @@
       "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
       "Oc/originals",
       "Original (oc)",
-      "Original Song"
+      "Original Song",
+      "Original. Gacha. Trickcal"
     ]
   },
   {
@@ -310,7 +311,8 @@
       "Natori | Anime: Jujutsu Kaisen",
       "Jujutsi Kaisen",
       "Jujutusu Kaisen",
-      "Stsg"
+      "Stsg",
+      "Natori"
     ]
   },
   {
@@ -436,7 +438,8 @@
       "Onepiece",
       "One Piece And Many More!",
       "One Piec",
-      "On Piece"
+      "On Piece",
+      "Onepice"
     ]
   },
   {
@@ -566,7 +569,8 @@
       "Persona",
       "Persona Series",
       "Persona Games",
-      "Persona."
+      "Persona.",
+      "Mystic Messanger Persona"
     ]
   },
   {
@@ -1132,7 +1136,8 @@
     "variants": [
       "Utaite",
       "Utaite/after The Rain",
-      "Utaite (mafumafu, Soraru, Nqruse, Ado)"
+      "Utaite (mafumafu, Soraru, Nqruse, Ado)",
+      "Eve/utaite"
     ]
   },
   {
@@ -1331,7 +1336,8 @@
       "Mha",
       "Bnha",
       "Boku No Hero And Others",
-      "Bhna"
+      "Bhna",
+      "Boku No Hero"
     ]
   },
   {
@@ -1610,7 +1616,8 @@
       "Eve",
       "Eve Harapeco",
       "Eve Utaite",
-      "Eve (j-pop)"
+      "Eve (j-pop)",
+      "Eve/utaite"
     ]
   },
   {
@@ -1688,7 +1695,8 @@
       "Honkai",
       "Honkai Impact",
       "Elysia",
-      "Honkai Impact & Zzz"
+      "Honkai Impact & Zzz",
+      "Honkai 3rd"
     ]
   },
   {
@@ -2178,7 +2186,8 @@
     "canonical": "Mystic Messenger",
     "variants": [
       "Mystic Messenger",
-      "Mystic Messanger"
+      "Mystic Messanger",
+      "Mystic Messanger Persona"
     ]
   },
   {
@@ -2556,7 +2565,8 @@
       "Game",
       "Gacha Games",
       "Gacha Game",
-      "Gacha"
+      "Gacha",
+      "Original. Gacha. Trickcal"
     ]
   },
   {
@@ -3028,7 +3038,8 @@
   {
     "canonical": "Girls und Panzer",
     "variants": [
-      "Girls und Panzer"
+      "Girls und Panzer",
+      "Gup"
     ]
   },
   {
@@ -5462,7 +5473,8 @@
       "Got Dropped In A Ghost Story",
       "Got Dropped Into A Ghost Story",
       "괴담에 떨어져도 출근을 해야 하는구나 (괴담출근) / Got Dropped Into A Ghost Story",
-      "Still Gotta Work (gsgw)"
+      "Still Gotta Work (gsgw)",
+      "Got Dropped In A Ghost Story Still Gotta Work"
     ]
   },
   {
@@ -6419,7 +6431,8 @@
     "variants": [
       "Trickcal",
       "Original.trickal",
-      "Trickcal:chibi Go"
+      "Trickcal:chibi Go",
+      "Original. Gacha. Trickcal"
     ]
   },
   {
@@ -7088,7 +7101,8 @@
   {
     "canonical": "Osomatsu-san",
     "variants": [
-      "Osomatsu-san"
+      "Osomatsu-san",
+      "Osomatsu"
     ]
   },
   {
@@ -7126,7 +7140,8 @@
     "canonical": "Still Gotta Work",
     "variants": [
       "Still Gotta Work (gsgw)",
-      "Gsgw/gdcg"
+      "Gsgw/gdcg",
+      "Got Dropped In A Ghost Story Still Gotta Work"
     ]
   },
   {
@@ -8009,7 +8024,8 @@
   {
     "canonical": "Ganbare Nakamura",
     "variants": [
-      "Ganbare Nakamura"
+      "Ganbare Nakamura",
+      "Nakamura Kun"
     ]
   },
   {
@@ -8362,6 +8378,34 @@
     "canonical": "TWICE",
     "variants": [
       "TWICE"
+    ]
+  },
+  {
+    "canonical": "Dinosaurs",
+    "variants": [
+      "Dinosaurs"
+    ]
+  },
+  {
+    "canonical": "Gegege no Kitaro",
+    "variants": [
+      "Gegege no Kitaro",
+      "Ge Nazo",
+      "Gegege No Kitaro/ Ge Nazo"
+    ]
+  },
+  {
+    "canonical": "Alice: Madness Returns",
+    "variants": [
+      "Alice: Madness Returns",
+      "Alice Madness Returns"
+    ]
+  },
+  {
+    "canonical": "Tales of",
+    "variants": [
+      "Tales of",
+      "Tales Of Series"
     ]
   }
 ]
