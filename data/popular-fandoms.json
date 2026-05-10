@@ -5,11 +5,11 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 360
+    "count": 361
   },
   {
     "fandom": "Genshin Impact",
-    "count": 341
+    "count": 342
   },
   {
     "fandom": "Love and Deepspace",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 133
+    "count": 134
   },
   {
     "fandom": "HoYoverse",
@@ -69,7 +69,7 @@
   },
   {
     "fandom": "PLAVE",
-    "count": 87
+    "count": 86
   },
   {
     "fandom": "Wuthering Waves",
@@ -128,15 +128,15 @@
     "count": 45
   },
   {
+    "fandom": "Reverse: 1999",
+    "count": 44
+  },
+  {
     "fandom": "Link Click",
     "count": 44
   },
   {
     "fandom": "Anime",
-    "count": 43
-  },
-  {
-    "fandom": "Reverse: 1999",
     "count": 43
   },
   {
@@ -184,12 +184,12 @@
     "count": 35
   },
   {
-    "fandom": "Sonic the Hedgehog",
+    "fandom": "JoJo's Bizarre Adventure",
     "count": 34
   },
   {
-    "fandom": "JoJo's Bizarre Adventure",
-    "count": 33
+    "fandom": "Sonic the Hedgehog",
+    "count": 34
   },
   {
     "fandom": "Ensemble Stars!",
@@ -292,10 +292,6 @@
     "count": 23
   },
   {
-    "fandom": "Stardew Valley",
-    "count": 23
-  },
-  {
     "fandom": "Cookie Run: Kingdom",
     "count": 23
   },
@@ -309,6 +305,10 @@
   },
   {
     "fandom": "Adventure Time",
+    "count": 22
+  },
+  {
+    "fandom": "Stardew Valley",
     "count": 22
   },
   {
@@ -648,15 +648,15 @@
     "count": 10
   },
   {
-    "fandom": "Mystic Messenger",
-    "count": 10
-  },
-  {
     "fandom": "Hai, Miiko!",
     "count": 10
   },
   {
     "fandom": "Ouran High School Host Club",
+    "count": 10
+  },
+  {
+    "fandom": "Pandavva",
     "count": 10
   },
   {
@@ -716,11 +716,11 @@
     "count": 9
   },
   {
-    "fandom": "Mashle: Magic and Muscles",
+    "fandom": "Mystic Messenger",
     "count": 9
   },
   {
-    "fandom": "Pandavva",
+    "fandom": "Mashle: Magic and Muscles",
     "count": 9
   },
   {
@@ -940,6 +940,10 @@
     "count": 6
   },
   {
+    "fandom": "BY THE BEAT",
+    "count": 6
+  },
+  {
     "fandom": "Helluva Boss",
     "count": 6
   },
@@ -1053,10 +1057,6 @@
   },
   {
     "fandom": "Red Dead Redemption",
-    "count": 5
-  },
-  {
-    "fandom": "BY THE BEAT",
     "count": 5
   },
   {
@@ -1452,6 +1452,10 @@
     "count": 3
   },
   {
+    "fandom": "86 -Eighty Six-",
+    "count": 3
+  },
+  {
     "fandom": "Cute Art",
     "count": 3
   },
@@ -1761,10 +1765,6 @@
   },
   {
     "fandom": "Zerowakegates",
-    "count": 2
-  },
-  {
-    "fandom": "86 -Eighty Six-",
     "count": 2
   },
   {
@@ -4505,6 +4505,14 @@
   },
   {
     "fandom": "The Devil Wears Prada",
+    "count": 1
+  },
+  {
+    "fandom": "Honkai 3rd",
+    "count": 1
+  },
+  {
+    "fandom": "Mystic Messanger Persona",
     "count": 1
   },
   {
