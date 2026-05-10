@@ -1,11 +1,11 @@
 [
   {
     "fandom": "Original",
-    "count": 508
+    "count": 511
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 361
+    "count": 362
   },
   {
     "fandom": "Genshin Impact",
@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 136
+    "count": 137
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 104
+    "count": 105
   },
   {
     "fandom": "Haikyu!!",
@@ -81,7 +81,7 @@
   },
   {
     "fandom": "One Piece",
-    "count": 75
+    "count": 76
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
@@ -157,7 +157,7 @@
   },
   {
     "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 40
+    "count": 39
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
@@ -217,7 +217,7 @@
   },
   {
     "fandom": "Dandadan",
-    "count": 29
+    "count": 28
   },
   {
     "fandom": "Hazbin Hotel",
@@ -232,15 +232,15 @@
     "count": 26
   },
   {
+    "fandom": "Valorant",
+    "count": 26
+  },
+  {
     "fandom": "Roblox",
     "count": 26
   },
   {
     "fandom": "Sakamoto Days",
-    "count": 25
-  },
-  {
-    "fandom": "Valorant",
     "count": 25
   },
   {
@@ -257,6 +257,10 @@
   },
   {
     "fandom": "Shoujo",
+    "count": 24
+  },
+  {
+    "fandom": "Witch Hat Atelier",
     "count": 24
   },
   {
@@ -284,10 +288,6 @@
     "count": 23
   },
   {
-    "fandom": "Witch Hat Atelier",
-    "count": 23
-  },
-  {
     "fandom": "MCYT",
     "count": 23
   },
@@ -308,6 +308,10 @@
     "count": 22
   },
   {
+    "fandom": "Needy Streamer Overload",
+    "count": 22
+  },
+  {
     "fandom": "Stardew Valley",
     "count": 22
   },
@@ -321,10 +325,6 @@
   },
   {
     "fandom": "Bungo Stray Dogs",
-    "count": 21
-  },
-  {
-    "fandom": "Needy Streamer Overload",
     "count": 21
   },
   {
@@ -356,7 +356,7 @@
     "count": 19
   },
   {
-    "fandom": "Digimon",
+    "fandom": "Naruto",
     "count": 19
   },
   {
@@ -372,11 +372,11 @@
     "count": 19
   },
   {
-    "fandom": "Cookie Run",
+    "fandom": "Digimon",
     "count": 18
   },
   {
-    "fandom": "Naruto",
+    "fandom": "Cookie Run",
     "count": 18
   },
   {
@@ -604,6 +604,10 @@
     "count": 11
   },
   {
+    "fandom": "Pandavva",
+    "count": 11
+  },
+  {
     "fandom": "South Park",
     "count": 11
   },
@@ -656,10 +660,6 @@
     "count": 10
   },
   {
-    "fandom": "Pandavva",
-    "count": 10
-  },
-  {
     "fandom": "Degrees of Lewdity",
     "count": 10
   },
@@ -705,10 +705,6 @@
   },
   {
     "fandom": "Marvel Rivals",
-    "count": 9
-  },
-  {
-    "fandom": "Bleach",
     "count": 9
   },
   {
@@ -789,6 +785,10 @@
   },
   {
     "fandom": "Cats",
+    "count": 8
+  },
+  {
+    "fandom": "Bleach",
     "count": 8
   },
   {
@@ -888,7 +888,7 @@
     "count": 7
   },
   {
-    "fandom": "Karaoke Iko!",
+    "fandom": "Takopi's Original Sin",
     "count": 7
   },
   {
@@ -1004,11 +1004,11 @@
     "count": 6
   },
   {
-    "fandom": "Takopi's Original Sin",
+    "fandom": "Harvest Moon",
     "count": 6
   },
   {
-    "fandom": "Harvest Moon",
+    "fandom": "Karaoke Iko!",
     "count": 6
   },
   {
@@ -3008,6 +3008,10 @@
     "count": 1
   },
   {
+    "fandom": "Dinosaurs",
+    "count": 1
+  },
+  {
     "fandom": "Corrector Yui",
     "count": 1
   },
@@ -3073,10 +3077,6 @@
   },
   {
     "fandom": "Isekai Worker",
-    "count": 1
-  },
-  {
-    "fandom": "Worthikids",
     "count": 1
   },
   {
@@ -3281,6 +3281,14 @@
   },
   {
     "fandom": "Programming",
+    "count": 1
+  },
+  {
+    "fandom": "Boku No Hero",
+    "count": 1
+  },
+  {
+    "fandom": "Gup",
     "count": 1
   },
   {
@@ -3593,6 +3601,26 @@
   },
   {
     "fandom": "Taylor Swift",
+    "count": 1
+  },
+  {
+    "fandom": "Eve/utaite",
+    "count": 1
+  },
+  {
+    "fandom": "Gegege No Kitaro/ Ge Nazo",
+    "count": 1
+  },
+  {
+    "fandom": "Nakamura Kun",
+    "count": 1
+  },
+  {
+    "fandom": "Natori",
+    "count": 1
+  },
+  {
+    "fandom": "Osomatsu",
     "count": 1
   },
   {
