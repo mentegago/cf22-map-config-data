@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 512
+    "count": 513
   },
   {
     "fandom": "Honkai Star Rail",
@@ -9,23 +9,23 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 343
+    "count": 344
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 199
+    "count": 201
   },
   {
     "fandom": "Uma Musume",
-    "count": 193
+    "count": 194
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 160
+    "count": 161
   },
   {
     "fandom": "Alien Stage",
-    "count": 155
+    "count": 154
   },
   {
     "fandom": "Vocaloid",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 135
+    "count": 136
   },
   {
     "fandom": "Hololive",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 105
+    "count": 106
   },
   {
     "fandom": "Haikyu!!",
@@ -73,26 +73,26 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 84
-  },
-  {
-    "fandom": "One Piece",
-    "count": 77
+    "count": 85
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
     "count": 77
   },
   {
+    "fandom": "One Piece",
+    "count": 76
+  },
+  {
     "fandom": "Omniscient Reader's Viewpoint",
     "count": 74
   },
   {
-    "fandom": "DC Comics",
-    "count": 74
+    "fandom": "Chainsaw Man",
+    "count": 73
   },
   {
-    "fandom": "Chainsaw Man",
+    "fandom": "DC Comics",
     "count": 73
   },
   {
@@ -132,6 +132,10 @@
     "count": 44
   },
   {
+    "fandom": "The Summer Hikaru Died",
+    "count": 44
+  },
+  {
     "fandom": "Link Click",
     "count": 44
   },
@@ -140,19 +144,15 @@
     "count": 43
   },
   {
-    "fandom": "The Summer Hikaru Died",
-    "count": 43
-  },
-  {
     "fandom": "Identity V",
     "count": 41
   },
   {
-    "fandom": "Gachiakuta",
-    "count": 40
+    "fandom": "Blue Lock",
+    "count": 41
   },
   {
-    "fandom": "Blue Lock",
+    "fandom": "Gachiakuta",
     "count": 40
   },
   {
@@ -164,12 +164,12 @@
     "count": 39
   },
   {
-    "fandom": "Twisted Wonderland",
+    "fandom": "Wind Breaker",
     "count": 38
   },
   {
-    "fandom": "Wind Breaker",
-    "count": 37
+    "fandom": "Twisted Wonderland",
+    "count": 38
   },
   {
     "fandom": "Dispatch",
@@ -556,10 +556,6 @@
     "count": 12
   },
   {
-    "fandom": "Danmei",
-    "count": 12
-  },
-  {
     "fandom": "Utaite",
     "count": 12
   },
@@ -581,6 +577,14 @@
   },
   {
     "fandom": "Cardcaptor Sakura",
+    "count": 11
+  },
+  {
+    "fandom": "Kamen Rider",
+    "count": 11
+  },
+  {
+    "fandom": "Danmei",
     "count": 11
   },
   {
@@ -628,7 +632,7 @@
     "count": 10
   },
   {
-    "fandom": "Kamen Rider",
+    "fandom": "Lord of the Mysteries",
     "count": 10
   },
   {
@@ -697,10 +701,6 @@
   },
   {
     "fandom": "IDOLiSH7",
-    "count": 9
-  },
-  {
-    "fandom": "Lord of the Mysteries",
     "count": 9
   },
   {
@@ -828,6 +828,10 @@
     "count": 8
   },
   {
+    "fandom": "Yohaji",
+    "count": 8
+  },
+  {
     "fandom": "Ave Mujica",
     "count": 8
   },
@@ -889,10 +893,6 @@
   },
   {
     "fandom": "Takopi's Original Sin",
-    "count": 7
-  },
-  {
-    "fandom": "Yohaji",
     "count": 7
   },
   {
@@ -1388,11 +1388,19 @@
     "count": 4
   },
   {
+    "fandom": "PHIGHTING!",
+    "count": 4
+  },
+  {
     "fandom": "Smiling Friends",
     "count": 4
   },
   {
     "fandom": "Nitro+CHiRAL",
+    "count": 4
+  },
+  {
+    "fandom": "Manhwa",
     "count": 4
   },
   {
@@ -1421,6 +1429,10 @@
   },
   {
     "fandom": "Automotive",
+    "count": 3
+  },
+  {
+    "fandom": "Cars",
     "count": 3
   },
   {
@@ -1624,10 +1636,6 @@
     "count": 3
   },
   {
-    "fandom": "PHIGHTING!",
-    "count": 3
-  },
-  {
     "fandom": "Fullmetal Alchemist",
     "count": 3
   },
@@ -1665,10 +1673,6 @@
   },
   {
     "fandom": "Order of Ecclesia",
-    "count": 3
-  },
-  {
-    "fandom": "Manhwa",
     "count": 3
   },
   {
@@ -1721,10 +1725,6 @@
   },
   {
     "fandom": "Mental Health",
-    "count": 2
-  },
-  {
-    "fandom": "Cars",
     "count": 2
   },
   {
@@ -1960,6 +1960,10 @@
     "count": 2
   },
   {
+    "fandom": "Infinity Nikki",
+    "count": 2
+  },
+  {
     "fandom": "Mermaid Melody Pichi Pichi Pitch",
     "count": 2
   },
@@ -2137,6 +2141,10 @@
   },
   {
     "fandom": "Funamusea",
+    "count": 2
+  },
+  {
+    "fandom": "Natori",
     "count": 2
   },
   {
@@ -3368,11 +3376,7 @@
     "count": 1
   },
   {
-    "fandom": "Mahoyo",
-    "count": 1
-  },
-  {
-    "fandom": "Zenlesszonezero:aod",
+    "fandom": "Mahoutsukai no Yoru",
     "count": 1
   },
   {
@@ -3564,6 +3568,10 @@
     "count": 1
   },
   {
+    "fandom": "The Marias",
+    "count": 1
+  },
+  {
     "fandom": "Cooking Mama",
     "count": 1
   },
@@ -3597,10 +3605,6 @@
   },
   {
     "fandom": "Lofi Art",
-    "count": 1
-  },
-  {
-    "fandom": "Infinity Nikki",
     "count": 1
   },
   {
@@ -3684,10 +3688,6 @@
     "count": 1
   },
   {
-    "fandom": "Gotham",
-    "count": 1
-  },
-  {
     "fandom": "Grasshopper Manufacture",
     "count": 1
   },
@@ -3709,10 +3709,6 @@
   },
   {
     "fandom": "Sylvanian Families",
-    "count": 1
-  },
-  {
-    "fandom": "Teen Titans",
     "count": 1
   },
   {
@@ -4124,10 +4120,6 @@
     "count": 1
   },
   {
-    "fandom": "C-drama",
-    "count": 1
-  },
-  {
     "fandom": "Glitch Production",
     "count": 1
   },
@@ -4513,10 +4505,6 @@
   },
   {
     "fandom": "Look Back",
-    "count": 1
-  },
-  {
-    "fandom": "Car Culture",
     "count": 1
   },
   {

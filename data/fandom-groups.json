@@ -293,7 +293,8 @@
       "Hoyoverse (hsr, Gi, Zzz)",
       "Dan Zzz.",
       "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
-      "Angel Of Delusion"
+      "Angel Of Delusion",
+      "Zenlesszonezero:aod"
     ]
   },
   {
@@ -8412,6 +8413,20 @@
     "variants": [
       "Tales of",
       "Tales Of Series"
+    ]
+  },
+  {
+    "canonical": "Mahoutsukai no Yoru",
+    "variants": [
+      "Mahoutsukai no Yoru",
+      "Mahoyo",
+      "Witch on the Holy Night"
+    ]
+  },
+  {
+    "canonical": "The Marias",
+    "variants": [
+      "The Marias"
     ]
   }
 ]
