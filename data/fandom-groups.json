@@ -81,7 +81,8 @@
       "Oc/originals",
       "Original (oc)",
       "Original Song",
-      "Original. Gacha. Trickcal"
+      "Original. Gacha. Trickcal",
+      "Original (fish)"
     ]
   },
   {
@@ -164,7 +165,8 @@
       "Hoyoverse (genshin/hsr)",
       "Mihoyo Games (genshin , Hsr , Zzz)",
       "Hoyoverse (hsr, Gi, Zzz)",
-      "Honkai Star Rail (peppy Only)"
+      "Honkai Star Rail (peppy Only)",
+      "Honkai Star Rail ( Hsr )"
     ]
   },
   {
@@ -198,7 +200,9 @@
       "Love And Deepspaces",
       "Love And Deepsace",
       "lads",
-      "Love & Deepspace (lads)"
+      "Love & Deepspace (lads)",
+      "Lads Love And Deepspace",
+      "Love And Deepspace ( Lads )"
     ]
   },
   {
@@ -273,7 +277,8 @@
       "Plave(kpop)",
       "Plave.",
       "Kpop (plave)",
-      "Plave (kpop Virtual Idol)"
+      "Plave (kpop Virtual Idol)",
+      "Plve"
     ]
   },
   {
@@ -294,7 +299,8 @@
       "Dan Zzz.",
       "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
       "Angel Of Delusion",
-      "Zenlesszonezero:aod"
+      "Zenlesszonezero:aod",
+      "Zzz."
     ]
   },
   {
@@ -312,7 +318,8 @@
       "Natori | Anime: Jujutsu Kaisen",
       "Jujutsi Kaisen",
       "Jujutusu Kaisen",
-      "Stsg"
+      "Stsg",
+      "Jujutsu Kaisen Jjk"
     ]
   },
   {
@@ -489,7 +496,8 @@
       "Manhwa Orv",
       "Omnicient Reader",
       "Omniscient Reader's Viewpoint.",
-      "Omniscient's Reader Viewpoint (orv)"
+      "Omniscient's Reader Viewpoint (orv)",
+      "Omniscience Reader's Viewpoint"
     ]
   },
   {
@@ -519,7 +527,9 @@
       "Niji Jp",
       "Nijisanji (vtuber)",
       "Nijisanji/vtubers",
-      "Vtubers (nijisanji)"
+      "Vtubers (nijisanji)",
+      "Nijisanji Ex-id (nijiid)",
+      "Krisisis Nijisanji En"
     ]
   },
   {
@@ -530,7 +540,8 @@
       "Vtuber (nijien: By The Beat)",
       "BY THE BEAT",
       "Nijisanji En By The Beat",
-      "Btb Nijisanji En"
+      "Btb Nijisanji En",
+      "Btb By The Beat"
     ]
   },
   {
@@ -1182,7 +1193,8 @@
       "Baldur’s Gate 3",
       "Baldurs Gate 3",
       "Baldur Gate 3",
-      "Bdg3"
+      "Bdg3",
+      "Baldur's Gate 3/bg3"
     ]
   },
   {
@@ -1317,7 +1329,8 @@
       "Yakuza/like A Dragon",
       "Like a Dragon",
       "Yakuza Rgg",
-      "Rgg"
+      "Rgg",
+      "Rgg/yakuza"
     ]
   },
   {
@@ -2666,7 +2679,8 @@
       "Rpg Horror",
       "Rpg Maker Horror Games",
       "Rpgmaker Games",
-      "Rpgmaker"
+      "Rpgmaker",
+      "Rpg Maker Games"
     ]
   },
   {
@@ -3405,7 +3419,8 @@
     "canonical": "First Stage Production",
     "variants": [
       "First Stage Production En",
-      "Fsp"
+      "Fsp",
+      "Fsp En"
     ]
   },
   {
@@ -3731,7 +3746,8 @@
     "variants": [
       "Helldivers 2",
       "Helldivers",
-      "Helldivers2"
+      "Helldivers2",
+      "Helldivers Ii"
     ]
   },
   {
@@ -3884,7 +3900,8 @@
     "canonical": "TYPE-MOON",
     "variants": [
       "TYPE-MOON",
-      "Type-moon (neco Arc)"
+      "Type-moon (neco Arc)",
+      "Type-moon (fate Series, Tsukihime, Mahoyo)"
     ]
   },
   {
@@ -4134,7 +4151,8 @@
     "canonical": "Yu-Gi-Oh!",
     "variants": [
       "Yugioh",
-      "Yugi Oh"
+      "Yugi Oh",
+      "Yu-gi-oh"
     ]
   },
   {
@@ -4901,7 +4919,8 @@
   {
     "canonical": "Durarara!!",
     "variants": [
-      "Durarara!!"
+      "Durarara!!",
+      "Durarara"
     ]
   },
   {
@@ -7486,7 +7505,8 @@
     "canonical": "Barbitch Parody",
     "variants": [
       "Barbitch Parody",
-      "Barb*tch Parody"
+      "Barb*tch Parody",
+      "Barb*tch (barbie Parody Rip Off)"
     ]
   },
   {
@@ -8427,6 +8447,64 @@
     "canonical": "The Marias",
     "variants": [
       "The Marias"
+    ]
+  },
+  {
+    "canonical": "Cold Front",
+    "variants": [
+      "Cold Front"
+    ]
+  },
+  {
+    "canonical": "Fellow Moon",
+    "variants": [
+      "Fellow Moon"
+    ]
+  },
+  {
+    "canonical": "Miraculous Ladybug",
+    "variants": [
+      "Miraculous Ladybug",
+      "Miracoulus Ladybug"
+    ]
+  },
+  {
+    "canonical": "Perler Beads",
+    "variants": [
+      "Perler Beads"
+    ]
+  },
+  {
+    "canonical": "Litchi Hikari Club",
+    "variants": [
+      "Litchi Hikari Club",
+      "Lychee Light Club"
+    ]
+  },
+  {
+    "canonical": "Aizora Sena",
+    "variants": [
+      "Aizora Sena"
+    ]
+  },
+  {
+    "canonical": "Mao Mao: Heroes of Pure Heart",
+    "variants": [
+      "Mao Mao: Heroes of Pure Heart",
+      "Mao Mao"
+    ]
+  },
+  {
+    "canonical": "Fren",
+    "variants": [
+      "Fren"
+    ]
+  },
+  {
+    "canonical": "The Little Prince",
+    "variants": [
+      "The Little Prince",
+      "Little Prince"
     ]
   }
 ]

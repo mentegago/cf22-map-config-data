@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 513
+    "count": 514
   },
   {
     "fandom": "Honkai Star Rail",
@@ -21,7 +21,7 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 162
+    "count": 163
   },
   {
     "fandom": "Alien Stage",
@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 139
+    "count": 138
   },
   {
     "fandom": "Vocaloid",
@@ -69,7 +69,7 @@
   },
   {
     "fandom": "PLAVE",
-    "count": 86
+    "count": 87
   },
   {
     "fandom": "Wuthering Waves",
@@ -109,7 +109,7 @@
   },
   {
     "fandom": "NIJISANJI",
-    "count": 64
+    "count": 65
   },
   {
     "fandom": "Blue Archive",
@@ -148,12 +148,12 @@
     "count": 41
   },
   {
-    "fandom": "Blue Lock",
+    "fandom": "Gachiakuta",
     "count": 41
   },
   {
-    "fandom": "Gachiakuta",
-    "count": 40
+    "fandom": "Blue Lock",
+    "count": 41
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
@@ -172,16 +172,16 @@
     "count": 38
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Resident Evil",
     "count": 37
   },
   {
-    "fandom": "Resident Evil",
-    "count": 36
+    "fandom": "Dispatch",
+    "count": 37
   },
   {
-    "fandom": "Dispatch",
-    "count": 36
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 37
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
@@ -220,6 +220,10 @@
     "count": 28
   },
   {
+    "fandom": "Valorant",
+    "count": 27
+  },
+  {
     "fandom": "Hazbin Hotel",
     "count": 27
   },
@@ -237,10 +241,6 @@
   },
   {
     "fandom": "Detective Conan",
-    "count": 26
-  },
-  {
-    "fandom": "Valorant",
     "count": 26
   },
   {
@@ -340,6 +340,10 @@
     "count": 21
   },
   {
+    "fandom": "Trigun",
+    "count": 20
+  },
+  {
     "fandom": "Devil May Cry",
     "count": 19
   },
@@ -372,10 +376,6 @@
     "count": 19
   },
   {
-    "fandom": "Trigun",
-    "count": 19
-  },
-  {
     "fandom": "Digimon",
     "count": 18
   },
@@ -404,10 +404,6 @@
     "count": 17
   },
   {
-    "fandom": "Touhou",
-    "count": 17
-  },
-  {
     "fandom": "Final Fantasy XIV",
     "count": 17
   },
@@ -426,6 +422,10 @@
   {
     "fandom": "Aikatsu!",
     "count": 17
+  },
+  {
+    "fandom": "Touhou",
+    "count": 16
   },
   {
     "fandom": "Attack on Titan",
@@ -580,8 +580,16 @@
     "count": 12
   },
   {
+    "fandom": "Pandavva",
+    "count": 12
+  },
+  {
     "fandom": "Dandy's World",
     "count": 12
+  },
+  {
+    "fandom": "Heartopia",
+    "count": 11
   },
   {
     "fandom": "Cardcaptor Sakura",
@@ -609,10 +617,6 @@
   },
   {
     "fandom": "To Be Hero X",
-    "count": 11
-  },
-  {
-    "fandom": "Pandavva",
     "count": 11
   },
   {
@@ -684,15 +688,7 @@
     "count": 10
   },
   {
-    "fandom": "Cortis",
-    "count": 10
-  },
-  {
     "fandom": "Death Note",
-    "count": 9
-  },
-  {
-    "fandom": "Heartopia",
     "count": 9
   },
   {
@@ -720,6 +716,10 @@
     "count": 9
   },
   {
+    "fandom": "RPG Maker",
+    "count": 9
+  },
+  {
     "fandom": "Pretty Cure",
     "count": 9
   },
@@ -736,6 +736,10 @@
     "count": 9
   },
   {
+    "fandom": "Cortis",
+    "count": 9
+  },
+  {
     "fandom": "Paradox Live",
     "count": 9
   },
@@ -749,6 +753,10 @@
   },
   {
     "fandom": "Kingdom Hearts",
+    "count": 8
+  },
+  {
+    "fandom": "Yakuza",
     "count": 8
   },
   {
@@ -800,10 +808,6 @@
     "count": 8
   },
   {
-    "fandom": "RPG Maker",
-    "count": 8
-  },
-  {
     "fandom": "ZEROBASEONE",
     "count": 8
   },
@@ -852,10 +856,6 @@
     "count": 7
   },
   {
-    "fandom": "Yakuza",
-    "count": 7
-  },
-  {
     "fandom": "Katekyo Hitman Reborn!",
     "count": 7
   },
@@ -873,6 +873,10 @@
   },
   {
     "fandom": "Indie VTuber",
+    "count": 7
+  },
+  {
+    "fandom": "BY THE BEAT",
     "count": 7
   },
   {
@@ -912,10 +916,6 @@
     "count": 7
   },
   {
-    "fandom": "Invincible",
-    "count": 7
-  },
-  {
     "fandom": "Tamagotchi",
     "count": 6
   },
@@ -937,10 +937,6 @@
   },
   {
     "fandom": "Guilty Gear",
-    "count": 6
-  },
-  {
-    "fandom": "BY THE BEAT",
     "count": 6
   },
   {
@@ -1017,6 +1013,10 @@
   },
   {
     "fandom": "Studio InvestiGrave",
+    "count": 6
+  },
+  {
+    "fandom": "Invincible",
     "count": 6
   },
   {
@@ -1181,10 +1181,6 @@
   },
   {
     "fandom": "Trickcal",
-    "count": 5
-  },
-  {
-    "fandom": "Baldur's Gate",
     "count": 5
   },
   {
@@ -1364,6 +1360,10 @@
     "count": 4
   },
   {
+    "fandom": "First Stage Production",
+    "count": 4
+  },
+  {
     "fandom": "SIGNALIS",
     "count": 4
   },
@@ -1384,11 +1384,19 @@
     "count": 4
   },
   {
+    "fandom": "Yu-Gi-Oh!",
+    "count": 4
+  },
+  {
     "fandom": "Kingdom Come: Deliverance",
     "count": 4
   },
   {
     "fandom": "PHIGHTING!",
+    "count": 4
+  },
+  {
+    "fandom": "Baldur's Gate",
     "count": 4
   },
   {
@@ -1417,6 +1425,10 @@
   },
   {
     "fandom": "Streamer",
+    "count": 3
+  },
+  {
+    "fandom": "Helldivers 2",
     "count": 3
   },
   {
@@ -1592,10 +1604,6 @@
     "count": 3
   },
   {
-    "fandom": "First Stage Production",
-    "count": 3
-  },
-  {
     "fandom": "Laid-Back Camp",
     "count": 3
   },
@@ -1652,10 +1660,6 @@
     "count": 3
   },
   {
-    "fandom": "Yu-Gi-Oh!",
-    "count": 3
-  },
-  {
     "fandom": "Zutto Mayonaka de Iinoni.",
     "count": 3
   },
@@ -1704,15 +1708,15 @@
     "count": 2
   },
   {
+    "fandom": "TYPE-MOON",
+    "count": 2
+  },
+  {
     "fandom": "Drakengard",
     "count": 2
   },
   {
     "fandom": "NieR Replicant",
-    "count": 2
-  },
-  {
-    "fandom": "Helldivers 2",
     "count": 2
   },
   {
@@ -1825,10 +1829,6 @@
   },
   {
     "fandom": "Western Cartoon",
-    "count": 2
-  },
-  {
-    "fandom": "Heart2heart",
     "count": 2
   },
   {
@@ -1988,7 +1988,15 @@
     "count": 2
   },
   {
+    "fandom": "Durarara!!",
+    "count": 2
+  },
+  {
     "fandom": "Free!",
+    "count": 2
+  },
+  {
+    "fandom": "XG",
     "count": 2
   },
   {
@@ -2329,10 +2337,6 @@
   },
   {
     "fandom": "Super Smash Bros.",
-    "count": 1
-  },
-  {
-    "fandom": "TYPE-MOON",
     "count": 1
   },
   {
@@ -2692,6 +2696,10 @@
     "count": 1
   },
   {
+    "fandom": "Heart2heart",
+    "count": 1
+  },
+  {
     "fandom": "Rusty Lake",
     "count": 1
   },
@@ -3044,7 +3052,7 @@
     "count": 1
   },
   {
-    "fandom": "Miracoulus Ladybug",
+    "fandom": "Miraculous Ladybug",
     "count": 1
   },
   {
@@ -3073,10 +3081,6 @@
   },
   {
     "fandom": "Dps",
-    "count": 1
-  },
-  {
-    "fandom": "Durarara!!",
     "count": 1
   },
   {
@@ -3109,10 +3113,6 @@
   },
   {
     "fandom": "Capcom",
-    "count": 1
-  },
-  {
-    "fandom": "Isekai Worker",
     "count": 1
   },
   {
@@ -3165,10 +3165,6 @@
   },
   {
     "fandom": "Sasaki and Miyano",
-    "count": 1
-  },
-  {
-    "fandom": "Plve",
     "count": 1
   },
   {
@@ -3356,22 +3352,6 @@
     "count": 1
   },
   {
-    "fandom": "Helldivers Ii",
-    "count": 1
-  },
-  {
-    "fandom": "Fsp En",
-    "count": 1
-  },
-  {
-    "fandom": "Rpg Maker Games",
-    "count": 1
-  },
-  {
-    "fandom": "Yu-gi-oh",
-    "count": 1
-  },
-  {
     "fandom": "Phase Connect",
     "count": 1
   },
@@ -3412,10 +3392,6 @@
     "count": 1
   },
   {
-    "fandom": "Nijisanji Ex-id (nijiid)",
-    "count": 1
-  },
-  {
     "fandom": "Clannad",
     "count": 1
   },
@@ -3449,10 +3425,6 @@
   },
   {
     "fandom": "Onmyoji",
-    "count": 1
-  },
-  {
-    "fandom": "Type-moon (fate Series, Tsukihime, Mahoyo)",
     "count": 1
   },
   {
@@ -3544,14 +3516,6 @@
     "count": 1
   },
   {
-    "fandom": "Baldur's Gate 3/bg3",
-    "count": 1
-  },
-  {
-    "fandom": "Rgg/yakuza",
-    "count": 1
-  },
-  {
     "fandom": "Huntrix",
     "count": 1
   },
@@ -3633,10 +3597,6 @@
   },
   {
     "fandom": "Cooking Mama",
-    "count": 1
-  },
-  {
-    "fandom": "Durarara",
     "count": 1
   },
   {
@@ -4208,10 +4168,6 @@
     "count": 1
   },
   {
-    "fandom": "Omniscience Reader's Viewpoint",
-    "count": 1
-  },
-  {
     "fandom": "Gomens",
     "count": 1
   },
@@ -4296,10 +4252,6 @@
     "count": 1
   },
   {
-    "fandom": "XG",
-    "count": 1
-  },
-  {
     "fandom": "Choujin X",
     "count": 1
   },
@@ -4353,10 +4305,6 @@
   },
   {
     "fandom": "Jane Doe",
-    "count": 1
-  },
-  {
-    "fandom": "Thai Series",
     "count": 1
   },
   {
@@ -4476,11 +4424,7 @@
     "count": 1
   },
   {
-    "fandom": "Mao Mao",
-    "count": 1
-  },
-  {
-    "fandom": "Original (fish)",
+    "fandom": "Mao Mao: Heroes of Pure Heart",
     "count": 1
   },
   {
@@ -4512,7 +4456,7 @@
     "count": 1
   },
   {
-    "fandom": "Little Prince",
+    "fandom": "The Little Prince",
     "count": 1
   },
   {
@@ -4573,10 +4517,6 @@
   },
   {
     "fandom": "Fortnite",
-    "count": 1
-  },
-  {
-    "fandom": "Barb*tch (barbie Parody Rip Off)",
     "count": 1
   },
   {
