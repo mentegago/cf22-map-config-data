@@ -61,7 +61,7 @@
   },
   {
     "fandom": "Studio Ghibli",
-    "count": 91
+    "count": 92
   },
   {
     "fandom": "Project SEKAI",
@@ -76,12 +76,16 @@
     "count": 84
   },
   {
+    "fandom": "One Piece",
+    "count": 77
+  },
+  {
     "fandom": "Frieren: Beyond Journey's End",
     "count": 77
   },
   {
-    "fandom": "One Piece",
-    "count": 76
+    "fandom": "Chainsaw Man",
+    "count": 74
   },
   {
     "fandom": "Omniscient Reader's Viewpoint",
@@ -90,10 +94,6 @@
   {
     "fandom": "DC Comics",
     "count": 74
-  },
-  {
-    "fandom": "Chainsaw Man",
-    "count": 73
   },
   {
     "fandom": "Arknights: Endfield",
@@ -113,7 +113,7 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 52
+    "count": 53
   },
   {
     "fandom": "Deltarune",
@@ -172,7 +172,7 @@
     "count": 38
   },
   {
-    "fandom": "Dispatch",
+    "fandom": "K-Pop: Demon Hunters",
     "count": 37
   },
   {
@@ -180,7 +180,7 @@
     "count": 36
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Dispatch",
     "count": 36
   },
   {
@@ -228,6 +228,10 @@
     "count": 27
   },
   {
+    "fandom": "Witch Hat Atelier",
+    "count": 27
+  },
+  {
     "fandom": "Goddess of Victory: NIKKE",
     "count": 26
   },
@@ -240,6 +244,10 @@
     "count": 26
   },
   {
+    "fandom": "Puella Magi Madoka Magica",
+    "count": 26
+  },
+  {
     "fandom": "Sakamoto Days",
     "count": 25
   },
@@ -248,12 +256,8 @@
     "count": 25
   },
   {
-    "fandom": "Witch Hat Atelier",
-    "count": 25
-  },
-  {
-    "fandom": "Puella Magi Madoka Magica",
-    "count": 25
+    "fandom": "Nana",
+    "count": 24
   },
   {
     "fandom": "Hollow Knight",
@@ -265,10 +269,6 @@
   },
   {
     "fandom": "Gundam",
-    "count": 23
-  },
-  {
-    "fandom": "Nana",
     "count": 23
   },
   {
@@ -292,6 +292,10 @@
     "count": 23
   },
   {
+    "fandom": "Needy Streamer Overload",
+    "count": 23
+  },
+  {
     "fandom": "MCYT",
     "count": 23
   },
@@ -309,10 +313,6 @@
   },
   {
     "fandom": "Adventure Time",
-    "count": 22
-  },
-  {
-    "fandom": "Needy Streamer Overload",
     "count": 22
   },
   {
@@ -388,8 +388,16 @@
     "count": 18
   },
   {
+    "fandom": "Tamon's B Side",
+    "count": 18
+  },
+  {
     "fandom": "Mob Psycho 100",
     "count": 18
+  },
+  {
+    "fandom": "Hatsune Miku",
+    "count": 17
   },
   {
     "fandom": "Silent Hill",
@@ -397,6 +405,10 @@
   },
   {
     "fandom": "Touhou",
+    "count": 17
+  },
+  {
+    "fandom": "Final Fantasy XIV",
     "count": 17
   },
   {
@@ -408,10 +420,6 @@
     "count": 17
   },
   {
-    "fandom": "Tamon's B Side",
-    "count": 17
-  },
-  {
     "fandom": "Path to Nowhere",
     "count": 17
   },
@@ -420,15 +428,11 @@
     "count": 17
   },
   {
-    "fandom": "Hatsune Miku",
-    "count": 16
-  },
-  {
     "fandom": "Attack on Titan",
     "count": 16
   },
   {
-    "fandom": "Final Fantasy XIV",
+    "fandom": "Ace Attorney",
     "count": 16
   },
   {
@@ -456,10 +460,6 @@
     "count": 15
   },
   {
-    "fandom": "Ace Attorney",
-    "count": 15
-  },
-  {
     "fandom": "Video Games",
     "count": 15
   },
@@ -476,12 +476,12 @@
     "count": 15
   },
   {
-    "fandom": "SEVENTEEN",
+    "fandom": "Harry Potter",
     "count": 15
   },
   {
-    "fandom": "Baldur's Gate 3",
-    "count": 14
+    "fandom": "SEVENTEEN",
+    "count": 15
   },
   {
     "fandom": "Granblue Fantasy",
@@ -500,16 +500,20 @@
     "count": 14
   },
   {
-    "fandom": "Harry Potter",
+    "fandom": "The Disastrous Life of Saiki K.",
     "count": 14
   },
   {
-    "fandom": "The Disastrous Life of Saiki K.",
+    "fandom": "Tokyo Debunker",
     "count": 14
   },
   {
     "fandom": "Hundred Line: The Last Defense Academy",
     "count": 14
+  },
+  {
+    "fandom": "Baldur's Gate 3",
+    "count": 13
   },
   {
     "fandom": "Transformers",
@@ -521,6 +525,10 @@
   },
   {
     "fandom": "Mouthwashing",
+    "count": 13
+  },
+  {
+    "fandom": "Hetalia",
     "count": 13
   },
   {
@@ -536,19 +544,11 @@
     "count": 13
   },
   {
-    "fandom": "Tokyo Debunker",
-    "count": 13
-  },
-  {
     "fandom": "Homestuck",
     "count": 13
   },
   {
     "fandom": "NU: Carnival",
-    "count": 12
-  },
-  {
-    "fandom": "Hetalia",
     "count": 12
   },
   {
@@ -573,6 +573,10 @@
   },
   {
     "fandom": "Ado",
+    "count": 12
+  },
+  {
+    "fandom": "Project Hail Mary",
     "count": 12
   },
   {
@@ -605,10 +609,6 @@
   },
   {
     "fandom": "To Be Hero X",
-    "count": 11
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 11
   },
   {
@@ -696,10 +696,6 @@
     "count": 9
   },
   {
-    "fandom": "Dungeons & Dragons",
-    "count": 9
-  },
-  {
     "fandom": "Clair Obscur: Expedition 33",
     "count": 9
   },
@@ -753,6 +749,10 @@
   },
   {
     "fandom": "Kingdom Hearts",
+    "count": 8
+  },
+  {
+    "fandom": "Dungeons & Dragons",
     "count": 8
   },
   {
@@ -844,6 +844,10 @@
     "count": 8
   },
   {
+    "fandom": "Banana Fish",
+    "count": 7
+  },
+  {
     "fandom": "Fire Emblem",
     "count": 7
   },
@@ -896,6 +900,10 @@
     "count": 7
   },
   {
+    "fandom": "Skip and Loafer",
+    "count": 7
+  },
+  {
     "fandom": "Takopi's Original Sin",
     "count": 7
   },
@@ -908,15 +916,11 @@
     "count": 7
   },
   {
-    "fandom": "Banana Fish",
+    "fandom": "Tamagotchi",
     "count": 6
   },
   {
     "fandom": "NieR: Automata",
-    "count": 6
-  },
-  {
-    "fandom": "Final Fantasy VII",
     "count": 6
   },
   {
@@ -925,10 +929,6 @@
   },
   {
     "fandom": "Cosmic Princess Kaguya",
-    "count": 6
-  },
-  {
-    "fandom": "Girls' Frontline",
     "count": 6
   },
   {
@@ -957,6 +957,10 @@
   },
   {
     "fandom": "Kirby",
+    "count": 6
+  },
+  {
+    "fandom": "Overwatch",
     "count": 6
   },
   {
@@ -996,10 +1000,6 @@
     "count": 6
   },
   {
-    "fandom": "Skip and Loafer",
-    "count": 6
-  },
-  {
     "fandom": "Kuroko's Basketball",
     "count": 6
   },
@@ -1032,11 +1032,15 @@
     "count": 5
   },
   {
-    "fandom": "Tamagotchi",
+    "fandom": "Super Sentai",
     "count": 5
   },
   {
-    "fandom": "Super Sentai",
+    "fandom": "Final Fantasy VII",
+    "count": 5
+  },
+  {
+    "fandom": "Girls' Frontline",
     "count": 5
   },
   {
@@ -1061,10 +1065,6 @@
   },
   {
     "fandom": "Sky: Children of the Light",
-    "count": 5
-  },
-  {
-    "fandom": "Overwatch",
     "count": 5
   },
   {
@@ -1216,10 +1216,6 @@
     "count": 5
   },
   {
-    "fandom": "Breaking Bad",
-    "count": 5
-  },
-  {
     "fandom": "MBTI",
     "count": 5
   },
@@ -1296,6 +1292,10 @@
     "count": 4
   },
   {
+    "fandom": "Jesus",
+    "count": 4
+  },
+  {
     "fandom": "Shugo Chara",
     "count": 4
   },
@@ -1360,10 +1360,6 @@
     "count": 4
   },
   {
-    "fandom": "Ghost Stories",
-    "count": 4
-  },
-  {
     "fandom": "Code Geass",
     "count": 4
   },
@@ -1384,6 +1380,10 @@
     "count": 4
   },
   {
+    "fandom": "Fallout",
+    "count": 4
+  },
+  {
     "fandom": "Kingdom Come: Deliverance",
     "count": 4
   },
@@ -1397,6 +1397,10 @@
   },
   {
     "fandom": "Nitro+CHiRAL",
+    "count": 4
+  },
+  {
+    "fandom": "Breaking Bad",
     "count": 4
   },
   {
@@ -1500,10 +1504,6 @@
     "count": 3
   },
   {
-    "fandom": "Jesus",
-    "count": 3
-  },
-  {
     "fandom": "Monster",
     "count": 3
   },
@@ -1581,6 +1581,10 @@
   },
   {
     "fandom": "Campfire Cooking in Another World with My Absurd Skill",
+    "count": 3
+  },
+  {
+    "fandom": "Ghost Stories",
     "count": 3
   },
   {
@@ -1672,14 +1676,6 @@
     "count": 3
   },
   {
-    "fandom": "The Witcher",
-    "count": 3
-  },
-  {
-    "fandom": "Fallout",
-    "count": 3
-  },
-  {
     "fandom": "Order of Ecclesia",
     "count": 3
   },
@@ -1705,10 +1701,6 @@
   },
   {
     "fandom": "Blue Reflection",
-    "count": 2
-  },
-  {
-    "fandom": "TYPE-MOON",
     "count": 2
   },
   {
@@ -2188,6 +2180,10 @@
     "count": 2
   },
   {
+    "fandom": "The Witcher",
+    "count": 2
+  },
+  {
     "fandom": "Squid Game",
     "count": 2
   },
@@ -2333,6 +2329,10 @@
   },
   {
     "fandom": "Super Smash Bros.",
+    "count": 1
+  },
+  {
+    "fandom": "TYPE-MOON",
     "count": 1
   },
   {
@@ -3044,6 +3044,14 @@
     "count": 1
   },
   {
+    "fandom": "Miracoulus Ladybug",
+    "count": 1
+  },
+  {
+    "fandom": "Perler Beads",
+    "count": 1
+  },
+  {
     "fandom": "Wonder Egg Priority",
     "count": 1
   },
@@ -3348,6 +3356,10 @@
     "count": 1
   },
   {
+    "fandom": "Helldivers Ii",
+    "count": 1
+  },
+  {
     "fandom": "Fsp En",
     "count": 1
   },
@@ -3396,6 +3408,14 @@
     "count": 1
   },
   {
+    "fandom": "Litchi Hikari Club",
+    "count": 1
+  },
+  {
+    "fandom": "Nijisanji Ex-id (nijiid)",
+    "count": 1
+  },
+  {
     "fandom": "Clannad",
     "count": 1
   },
@@ -3429,6 +3449,10 @@
   },
   {
     "fandom": "Onmyoji",
+    "count": 1
+  },
+  {
+    "fandom": "Type-moon (fate Series, Tsukihime, Mahoyo)",
     "count": 1
   },
   {
@@ -3520,6 +3544,14 @@
     "count": 1
   },
   {
+    "fandom": "Baldur's Gate 3/bg3",
+    "count": 1
+  },
+  {
+    "fandom": "Rgg/yakuza",
+    "count": 1
+  },
+  {
     "fandom": "Huntrix",
     "count": 1
   },
@@ -3601,6 +3633,10 @@
   },
   {
     "fandom": "Cooking Mama",
+    "count": 1
+  },
+  {
+    "fandom": "Durarara",
     "count": 1
   },
   {
@@ -4440,10 +4476,6 @@
     "count": 1
   },
   {
-    "fandom": "Genshin Impact ( Colombina )",
-    "count": 1
-  },
-  {
     "fandom": "Mao Mao",
     "count": 1
   },
@@ -4480,7 +4512,7 @@
     "count": 1
   },
   {
-    "fandom": "Better Call Saul",
+    "fandom": "Little Prince",
     "count": 1
   },
   {
@@ -4541,6 +4573,10 @@
   },
   {
     "fandom": "Fortnite",
+    "count": 1
+  },
+  {
+    "fandom": "Barb*tch (barbie Parody Rip Off)",
     "count": 1
   },
   {
