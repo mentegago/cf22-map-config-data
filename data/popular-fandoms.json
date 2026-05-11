@@ -5,7 +5,7 @@
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 365
+    "count": 364
   },
   {
     "fandom": "Genshin Impact",
@@ -13,7 +13,7 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 201
+    "count": 202
   },
   {
     "fandom": "Uma Musume",
@@ -21,23 +21,23 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 161
+    "count": 162
   },
   {
     "fandom": "Alien Stage",
     "count": 154
   },
   {
-    "fandom": "Vocaloid",
-    "count": 137
+    "fandom": "Jujutsu Kaisen",
+    "count": 139
   },
   {
-    "fandom": "Jujutsu Kaisen",
+    "fandom": "Vocaloid",
     "count": 136
   },
   {
     "fandom": "Hololive",
-    "count": 121
+    "count": 122
   },
   {
     "fandom": "HoYoverse",
@@ -65,7 +65,7 @@
   },
   {
     "fandom": "Project SEKAI",
-    "count": 89
+    "count": 90
   },
   {
     "fandom": "PLAVE",
@@ -73,7 +73,7 @@
   },
   {
     "fandom": "Wuthering Waves",
-    "count": 85
+    "count": 84
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
@@ -88,11 +88,11 @@
     "count": 74
   },
   {
-    "fandom": "Chainsaw Man",
-    "count": 73
+    "fandom": "DC Comics",
+    "count": 74
   },
   {
-    "fandom": "DC Comics",
+    "fandom": "Chainsaw Man",
     "count": 73
   },
   {
@@ -105,15 +105,15 @@
   },
   {
     "fandom": "Delicious in Dungeon",
-    "count": 63
+    "count": 65
   },
   {
     "fandom": "NIJISANJI",
-    "count": 63
+    "count": 64
   },
   {
     "fandom": "Blue Archive",
-    "count": 51
+    "count": 52
   },
   {
     "fandom": "Deltarune",
@@ -122,6 +122,10 @@
   {
     "fandom": "Persona",
     "count": 47
+  },
+  {
+    "fandom": "Link Click",
+    "count": 45
   },
   {
     "fandom": "K-pop",
@@ -133,10 +137,6 @@
   },
   {
     "fandom": "The Summer Hikaru Died",
-    "count": 44
-  },
-  {
-    "fandom": "Link Click",
     "count": 44
   },
   {
@@ -176,15 +176,19 @@
     "count": 37
   },
   {
+    "fandom": "Resident Evil",
+    "count": 36
+  },
+  {
     "fandom": "K-Pop: Demon Hunters",
     "count": 36
   },
   {
-    "fandom": "Resident Evil",
-    "count": 35
+    "fandom": "JoJo's Bizarre Adventure",
+    "count": 34
   },
   {
-    "fandom": "JoJo's Bizarre Adventure",
+    "fandom": "Ensemble Stars!",
     "count": 34
   },
   {
@@ -192,15 +196,15 @@
     "count": 34
   },
   {
-    "fandom": "Ensemble Stars!",
-    "count": 33
-  },
-  {
     "fandom": "The Amazing Digital Circus",
     "count": 33
   },
   {
     "fandom": "Animal",
+    "count": 31
+  },
+  {
+    "fandom": "Limbus Company",
     "count": 31
   },
   {
@@ -212,15 +216,15 @@
     "count": 30
   },
   {
-    "fandom": "Limbus Company",
-    "count": 30
-  },
-  {
     "fandom": "Dandadan",
     "count": 28
   },
   {
     "fandom": "Hazbin Hotel",
+    "count": 27
+  },
+  {
+    "fandom": "Roblox",
     "count": 27
   },
   {
@@ -236,15 +240,15 @@
     "count": 26
   },
   {
-    "fandom": "Roblox",
-    "count": 26
-  },
-  {
     "fandom": "Sakamoto Days",
     "count": 25
   },
   {
     "fandom": "My Little Pony",
+    "count": 25
+  },
+  {
+    "fandom": "Witch Hat Atelier",
     "count": 25
   },
   {
@@ -260,11 +264,11 @@
     "count": 24
   },
   {
-    "fandom": "Witch Hat Atelier",
-    "count": 24
+    "fandom": "Gundam",
+    "count": 23
   },
   {
-    "fandom": "Gundam",
+    "fandom": "Nana",
     "count": 23
   },
   {
@@ -292,12 +296,12 @@
     "count": 23
   },
   {
-    "fandom": "Cookie Run: Kingdom",
+    "fandom": "Stardew Valley",
     "count": 23
   },
   {
-    "fandom": "Nana",
-    "count": 22
+    "fandom": "Cookie Run: Kingdom",
+    "count": 23
   },
   {
     "fandom": "Cat",
@@ -309,10 +313,6 @@
   },
   {
     "fandom": "Needy Streamer Overload",
-    "count": 22
-  },
-  {
-    "fandom": "Stardew Valley",
     "count": 22
   },
   {
@@ -328,16 +328,16 @@
     "count": 21
   },
   {
+    "fandom": "Arcane",
+    "count": 21
+  },
+  {
     "fandom": "Minecraft",
     "count": 21
   },
   {
     "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
-  },
-  {
-    "fandom": "Arcane",
-    "count": 20
   },
   {
     "fandom": "Devil May Cry",
@@ -384,12 +384,16 @@
     "count": 18
   },
   {
+    "fandom": "Hannibal",
+    "count": 18
+  },
+  {
     "fandom": "Mob Psycho 100",
     "count": 18
   },
   {
-    "fandom": "Aikatsu!",
-    "count": 18
+    "fandom": "Silent Hill",
+    "count": 17
   },
   {
     "fandom": "Touhou",
@@ -397,10 +401,6 @@
   },
   {
     "fandom": "Dr. STONE",
-    "count": 17
-  },
-  {
-    "fandom": "Hannibal",
     "count": 17
   },
   {
@@ -416,11 +416,11 @@
     "count": 17
   },
   {
-    "fandom": "Hatsune Miku",
-    "count": 16
+    "fandom": "Aikatsu!",
+    "count": 17
   },
   {
-    "fandom": "Silent Hill",
+    "fandom": "Hatsune Miku",
     "count": 16
   },
   {
@@ -441,6 +441,10 @@
   },
   {
     "fandom": "Honkai Impact 3rd",
+    "count": 16
+  },
+  {
+    "fandom": "Call of Duty",
     "count": 16
   },
   {
@@ -472,15 +476,7 @@
     "count": 15
   },
   {
-    "fandom": "The Disastrous Life of Saiki K.",
-    "count": 15
-  },
-  {
     "fandom": "SEVENTEEN",
-    "count": 15
-  },
-  {
-    "fandom": "Call of Duty",
     "count": 15
   },
   {
@@ -489,6 +485,10 @@
   },
   {
     "fandom": "Granblue Fantasy",
+    "count": 14
+  },
+  {
+    "fandom": "Danganronpa",
     "count": 14
   },
   {
@@ -501,6 +501,10 @@
   },
   {
     "fandom": "Harry Potter",
+    "count": 14
+  },
+  {
+    "fandom": "The Disastrous Life of Saiki K.",
     "count": 14
   },
   {
@@ -528,10 +532,6 @@
     "count": 13
   },
   {
-    "fandom": "Danganronpa",
-    "count": 13
-  },
-  {
     "fandom": "Tomorrow X Together",
     "count": 13
   },
@@ -553,6 +553,10 @@
   },
   {
     "fandom": "Panty & Stocking with Garterbelt",
+    "count": 12
+  },
+  {
+    "fandom": "Danmei",
     "count": 12
   },
   {
@@ -584,10 +588,6 @@
     "count": 11
   },
   {
-    "fandom": "Danmei",
-    "count": 11
-  },
-  {
     "fandom": "The Legend of Zelda",
     "count": 11
   },
@@ -608,6 +608,10 @@
     "count": 11
   },
   {
+    "fandom": "Project Hail Mary",
+    "count": 11
+  },
+  {
     "fandom": "Pandavva",
     "count": 11
   },
@@ -617,10 +621,6 @@
   },
   {
     "fandom": "Avatar: The Last Airbender",
-    "count": 10
-  },
-  {
-    "fandom": "Death Note",
     "count": 10
   },
   {
@@ -680,8 +680,16 @@
     "count": 10
   },
   {
+    "fandom": "Heaven Official's Blessing (Tian Guan Ci Fu)",
+    "count": 10
+  },
+  {
     "fandom": "Cortis",
     "count": 10
+  },
+  {
+    "fandom": "Death Note",
+    "count": 9
   },
   {
     "fandom": "Heartopia",
@@ -732,14 +740,6 @@
     "count": 9
   },
   {
-    "fandom": "Heaven Official's Blessing (Tian Guan Ci Fu)",
-    "count": 9
-  },
-  {
-    "fandom": "Debut or Die",
-    "count": 9
-  },
-  {
     "fandom": "Paradox Live",
     "count": 9
   },
@@ -780,6 +780,10 @@
     "count": 8
   },
   {
+    "fandom": "MILGRAM",
+    "count": 8
+  },
+  {
     "fandom": "Pikmin",
     "count": 8
   },
@@ -797,10 +801,6 @@
   },
   {
     "fandom": "RPG Maker",
-    "count": 8
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 8
   },
   {
@@ -829,6 +829,10 @@
   },
   {
     "fandom": "Yohaji",
+    "count": 8
+  },
+  {
+    "fandom": "Debut or Die",
     "count": 8
   },
   {
@@ -893,10 +897,6 @@
   },
   {
     "fandom": "Takopi's Original Sin",
-    "count": 7
-  },
-  {
-    "fandom": "MILGRAM",
     "count": 7
   },
   {
@@ -1085,6 +1085,10 @@
   },
   {
     "fandom": "Stray Kids",
+    "count": 5
+  },
+  {
+    "fandom": "Doki Doki Literature Club!",
     "count": 5
   },
   {
@@ -1305,10 +1309,6 @@
   },
   {
     "fandom": "Ninjago",
-    "count": 4
-  },
-  {
-    "fandom": "Doki Doki Literature Club!",
     "count": 4
   },
   {
@@ -1548,6 +1548,10 @@
     "count": 3
   },
   {
+    "fandom": "Grandmaster of Demonic Cultivation",
+    "count": 3
+  },
+  {
     "fandom": "Tower of God",
     "count": 3
   },
@@ -1609,6 +1613,10 @@
   },
   {
     "fandom": "Girls Band Cry",
+    "count": 3
+  },
+  {
+    "fandom": "Saihate Eki",
     "count": 3
   },
   {
@@ -1717,6 +1725,10 @@
   },
   {
     "fandom": "Kasane Teto",
+    "count": 2
+  },
+  {
+    "fandom": "Pragmata",
     "count": 2
   },
   {
@@ -2028,6 +2040,10 @@
     "count": 2
   },
   {
+    "fandom": "Ejen Ali",
+    "count": 2
+  },
+  {
     "fandom": "KonoSuba: God's Blessing on This Wonderful World!",
     "count": 2
   },
@@ -2133,10 +2149,6 @@
   },
   {
     "fandom": "Made in Abyss",
-    "count": 2
-  },
-  {
-    "fandom": "Saihate Eki",
     "count": 2
   },
   {
@@ -2288,10 +2300,6 @@
     "count": 2
   },
   {
-    "fandom": "Grandmaster of Demonic Cultivation",
-    "count": 2
-  },
-  {
     "fandom": "Muchuu Sa Kimi Ni",
     "count": 2
   },
@@ -2345,10 +2353,6 @@
   },
   {
     "fandom": "Mahjong",
-    "count": 1
-  },
-  {
-    "fandom": "Pragmata",
     "count": 1
   },
   {
@@ -2544,6 +2548,10 @@
     "count": 1
   },
   {
+    "fandom": "Cold Front",
+    "count": 1
+  },
+  {
     "fandom": "Master Detective Archives: Rain Code",
     "count": 1
   },
@@ -2653,6 +2661,10 @@
   },
   {
     "fandom": "Les Misérables",
+    "count": 1
+  },
+  {
+    "fandom": "Fellow Moon",
     "count": 1
   },
   {
@@ -3148,6 +3160,10 @@
     "count": 1
   },
   {
+    "fandom": "Plve",
+    "count": 1
+  },
+  {
     "fandom": "Princess Tutu",
     "count": 1
   },
@@ -3329,6 +3345,18 @@
   },
   {
     "fandom": "Indogov",
+    "count": 1
+  },
+  {
+    "fandom": "Fsp En",
+    "count": 1
+  },
+  {
+    "fandom": "Rpg Maker Games",
+    "count": 1
+  },
+  {
+    "fandom": "Yu-gi-oh",
     "count": 1
   },
   {
@@ -4036,6 +4064,10 @@
     "count": 1
   },
   {
+    "fandom": "Aizora Sena",
+    "count": 1
+  },
+  {
     "fandom": "Superhero",
     "count": 1
   },
@@ -4137,6 +4169,10 @@
   },
   {
     "fandom": "Lucy Dacus",
+    "count": 1
+  },
+  {
+    "fandom": "Omniscience Reader's Viewpoint",
     "count": 1
   },
   {
@@ -4400,7 +4436,19 @@
     "count": 1
   },
   {
-    "fandom": "Seihantai Na Kimi To Boku",
+    "fandom": "Fren",
+    "count": 1
+  },
+  {
+    "fandom": "Genshin Impact ( Colombina )",
+    "count": 1
+  },
+  {
+    "fandom": "Mao Mao",
+    "count": 1
+  },
+  {
+    "fandom": "Original (fish)",
     "count": 1
   },
   {
@@ -4497,10 +4545,6 @@
   },
   {
     "fandom": "Barbitch Parody",
-    "count": 1
-  },
-  {
-    "fandom": "Ejen Ali",
     "count": 1
   },
   {
