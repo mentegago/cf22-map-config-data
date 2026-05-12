@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 516
+    "count": 517
   },
   {
     "fandom": "Honkai Star Rail",
@@ -9,7 +9,7 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 344
+    "count": 345
   },
   {
     "fandom": "Love and Deepspace",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Alien Stage",
-    "count": 154
+    "count": 155
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 136
+    "count": 137
   },
   {
     "fandom": "Hololive",
@@ -61,7 +61,7 @@
   },
   {
     "fandom": "Studio Ghibli",
-    "count": 92
+    "count": 93
   },
   {
     "fandom": "Project SEKAI",
@@ -69,19 +69,19 @@
   },
   {
     "fandom": "PLAVE",
-    "count": 88
+    "count": 89
   },
   {
     "fandom": "Wuthering Waves",
     "count": 84
   },
   {
-    "fandom": "Frieren: Beyond Journey's End",
-    "count": 78
+    "fandom": "One Piece",
+    "count": 79
   },
   {
-    "fandom": "One Piece",
-    "count": 77
+    "fandom": "Frieren: Beyond Journey's End",
+    "count": 79
   },
   {
     "fandom": "Chainsaw Man",
@@ -96,11 +96,11 @@
     "count": 73
   },
   {
-    "fandom": "Arknights: Endfield",
-    "count": 66
+    "fandom": "Delicious in Dungeon",
+    "count": 67
   },
   {
-    "fandom": "Delicious in Dungeon",
+    "fandom": "Arknights: Endfield",
     "count": 66
   },
   {
@@ -113,11 +113,11 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 52
+    "count": 53
   },
   {
     "fandom": "Deltarune",
-    "count": 48
+    "count": 49
   },
   {
     "fandom": "Persona",
@@ -156,11 +156,15 @@
     "count": 41
   },
   {
+    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
+    "count": 40
+  },
+  {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
     "count": 40
   },
   {
-    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
+    "fandom": "Resident Evil",
     "count": 39
   },
   {
@@ -172,15 +176,11 @@
     "count": 38
   },
   {
-    "fandom": "Resident Evil",
-    "count": 37
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 38
   },
   {
     "fandom": "Dispatch",
-    "count": 37
-  },
-  {
-    "fandom": "K-Pop: Demon Hunters",
     "count": 37
   },
   {
@@ -197,7 +197,7 @@
   },
   {
     "fandom": "The Amazing Digital Circus",
-    "count": 33
+    "count": 34
   },
   {
     "fandom": "Animal",
@@ -220,6 +220,10 @@
     "count": 28
   },
   {
+    "fandom": "Witch Hat Atelier",
+    "count": 28
+  },
+  {
     "fandom": "Valorant",
     "count": 27
   },
@@ -229,10 +233,6 @@
   },
   {
     "fandom": "Roblox",
-    "count": 27
-  },
-  {
-    "fandom": "Witch Hat Atelier",
     "count": 27
   },
   {
@@ -248,6 +248,10 @@
     "count": 26
   },
   {
+    "fandom": "Hollow Knight",
+    "count": 25
+  },
+  {
     "fandom": "My Little Pony",
     "count": 25
   },
@@ -256,7 +260,7 @@
     "count": 24
   },
   {
-    "fandom": "Hollow Knight",
+    "fandom": "Hunter x Hunter",
     "count": 24
   },
   {
@@ -276,7 +280,7 @@
     "count": 23
   },
   {
-    "fandom": "Hunter x Hunter",
+    "fandom": "Cat",
     "count": 23
   },
   {
@@ -308,10 +312,6 @@
     "count": 23
   },
   {
-    "fandom": "Cat",
-    "count": 22
-  },
-  {
     "fandom": "Adventure Time",
     "count": 22
   },
@@ -340,15 +340,19 @@
     "count": 21
   },
   {
+    "fandom": "Omori",
+    "count": 21
+  },
+  {
+    "fandom": "Monster Hunter",
+    "count": 20
+  },
+  {
     "fandom": "Trigun",
     "count": 20
   },
   {
     "fandom": "Devil May Cry",
-    "count": 19
-  },
-  {
-    "fandom": "Monster Hunter",
     "count": 19
   },
   {
@@ -376,8 +380,8 @@
     "count": 19
   },
   {
-    "fandom": "Omori",
-    "count": 19
+    "fandom": "Hatsune Miku",
+    "count": 18
   },
   {
     "fandom": "Digimon",
@@ -400,15 +404,15 @@
     "count": 18
   },
   {
-    "fandom": "Hatsune Miku",
-    "count": 17
-  },
-  {
     "fandom": "Silent Hill",
     "count": 17
   },
   {
     "fandom": "Final Fantasy XIV",
+    "count": 17
+  },
+  {
+    "fandom": "Crafts",
     "count": 17
   },
   {
@@ -437,10 +441,6 @@
   },
   {
     "fandom": "Video Games",
-    "count": 16
-  },
-  {
-    "fandom": "Crafts",
     "count": 16
   },
   {
@@ -552,6 +552,10 @@
     "count": 13
   },
   {
+    "fandom": "Heartopia",
+    "count": 12
+  },
+  {
     "fandom": "NU: Carnival",
     "count": 12
   },
@@ -584,14 +588,6 @@
     "count": 12
   },
   {
-    "fandom": "Dandy's World",
-    "count": 12
-  },
-  {
-    "fandom": "Heartopia",
-    "count": 11
-  },
-  {
     "fandom": "Cardcaptor Sakura",
     "count": 11
   },
@@ -617,6 +613,10 @@
   },
   {
     "fandom": "To Be Hero X",
+    "count": 11
+  },
+  {
+    "fandom": "Dandy's World",
     "count": 11
   },
   {
@@ -692,6 +692,10 @@
     "count": 9
   },
   {
+    "fandom": "Music",
+    "count": 9
+  },
+  {
     "fandom": "Clair Obscur: Expedition 33",
     "count": 9
   },
@@ -761,10 +765,6 @@
   },
   {
     "fandom": "Dungeons & Dragons",
-    "count": 8
-  },
-  {
-    "fandom": "Music",
     "count": 8
   },
   {
@@ -916,6 +916,10 @@
     "count": 7
   },
   {
+    "fandom": "Karaoke Iko!",
+    "count": 7
+  },
+  {
     "fandom": "Murder Drones",
     "count": 7
   },
@@ -1008,10 +1012,6 @@
     "count": 6
   },
   {
-    "fandom": "Karaoke Iko!",
-    "count": 6
-  },
-  {
     "fandom": "Sfawtde",
     "count": 6
   },
@@ -1065,6 +1065,10 @@
   },
   {
     "fandom": "Red Dead Redemption",
+    "count": 5
+  },
+  {
+    "fandom": "maimai",
     "count": 5
   },
   {
@@ -1232,6 +1236,10 @@
     "count": 4
   },
   {
+    "fandom": "Indie Games",
+    "count": 4
+  },
+  {
     "fandom": "Got Dropped In A Ghost Story",
     "count": 4
   },
@@ -1273,10 +1281,6 @@
   },
   {
     "fandom": "DLL",
-    "count": 4
-  },
-  {
-    "fandom": "maimai",
     "count": 4
   },
   {
@@ -1357,6 +1361,10 @@
   },
   {
     "fandom": "No Home",
+    "count": 4
+  },
+  {
+    "fandom": "Lngshot",
     "count": 4
   },
   {
@@ -1445,10 +1453,6 @@
   },
   {
     "fandom": "Girls' Frontline 2: Exilium",
-    "count": 3
-  },
-  {
-    "fandom": "Indie Games",
     "count": 3
   },
   {
@@ -1596,10 +1600,6 @@
     "count": 3
   },
   {
-    "fandom": "Lngshot",
-    "count": 3
-  },
-  {
     "fandom": "Campfire Cooking in Another World with My Absurd Skill",
     "count": 3
   },
@@ -1613,6 +1613,10 @@
   },
   {
     "fandom": "Synthesizer V",
+    "count": 3
+  },
+  {
+    "fandom": "Mononoke",
     "count": 3
   },
   {
@@ -1824,6 +1828,10 @@
     "count": 2
   },
   {
+    "fandom": "Akira",
+    "count": 2
+  },
+  {
     "fandom": "Mobile Games",
     "count": 2
   },
@@ -1889,6 +1897,10 @@
   },
   {
     "fandom": "Honor Of Kings",
+    "count": 2
+  },
+  {
+    "fandom": "Dinosaurs",
     "count": 2
   },
   {
@@ -2044,6 +2056,10 @@
     "count": 2
   },
   {
+    "fandom": "Ghost in the Shell",
+    "count": 2
+  },
+  {
     "fandom": "KonoSuba: God's Blessing on This Wonderful World!",
     "count": 2
   },
@@ -2060,7 +2076,7 @@
     "count": 2
   },
   {
-    "fandom": "Mononoke",
+    "fandom": "20th Century Boys",
     "count": 2
   },
   {
@@ -2360,23 +2376,11 @@
     "count": 1
   },
   {
-    "fandom": "Bluc Archive",
-    "count": 1
-  },
-  {
     "fandom": ".flow",
     "count": 1
   },
   {
-    "fandom": "Apothecary Diary",
-    "count": 1
-  },
-  {
     "fandom": "Izakaya Nobu",
-    "count": 1
-  },
-  {
-    "fandom": "Monster Hunter [monhun]",
     "count": 1
   },
   {
@@ -2412,10 +2416,6 @@
     "count": 1
   },
   {
-    "fandom": "Wuterhing Waves",
-    "count": 1
-  },
-  {
     "fandom": "Internet Culture",
     "count": 1
   },
@@ -2425,10 +2425,6 @@
   },
   {
     "fandom": "Disney Princess",
-    "count": 1
-  },
-  {
-    "fandom": "Indie Game",
     "count": 1
   },
   {
@@ -2713,10 +2709,6 @@
   },
   {
     "fandom": "Telat Gajian Co.",
-    "count": 1
-  },
-  {
-    "fandom": "Akira",
     "count": 1
   },
   {
@@ -3068,10 +3060,6 @@
     "count": 1
   },
   {
-    "fandom": "Dinosaurs",
-    "count": 1
-  },
-  {
     "fandom": "Corrector Yui",
     "count": 1
   },
@@ -3204,10 +3192,6 @@
     "count": 1
   },
   {
-    "fandom": "Ghost in the Shell",
-    "count": 1
-  },
-  {
     "fandom": "Bridgerton",
     "count": 1
   },
@@ -3292,10 +3276,6 @@
     "count": 1
   },
   {
-    "fandom": "20th Century Boys",
-    "count": 1
-  },
-  {
     "fandom": "Oyasumi Punpun",
     "count": 1
   },
@@ -3372,7 +3352,7 @@
     "count": 1
   },
   {
-    "fandom": "Re:zero",
+    "fandom": "Re:Zero - Starting Life in Another World",
     "count": 1
   },
   {
@@ -3545,6 +3525,18 @@
   },
   {
     "fandom": "Huntrix",
+    "count": 1
+  },
+  {
+    "fandom": "Billy Bath",
+    "count": 1
+  },
+  {
+    "fandom": "Naoki Urasawa",
+    "count": 1
+  },
+  {
+    "fandom": "Pluto",
     "count": 1
   },
   {
@@ -4529,6 +4521,10 @@
   },
   {
     "fandom": "Oshikatsu",
+    "count": 1
+  },
+  {
+    "fandom": "Delta Force",
     "count": 1
   },
   {

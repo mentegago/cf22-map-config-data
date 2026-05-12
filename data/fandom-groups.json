@@ -213,7 +213,8 @@
       "Vocasynth",
       "Vocaloid (rin Len)",
       "Vocaloid/project Sekai",
-      "Uma Musume. Vocaloid"
+      "Uma Musume. Vocaloid",
+      "Sacabambaspis. Vocaloid"
     ]
   },
   {
@@ -442,7 +443,8 @@
       "Wuthering Wave",
       "Wuwa",
       "Wuthering Waves.",
-      "Hsr Hololive Wuthering Waves"
+      "Hsr Hololive Wuthering Waves",
+      "Wuterhing Waves"
     ]
   },
   {
@@ -505,7 +507,8 @@
     "variants": [
       "Blue Archive",
       "Blue Archieve",
-      "Blue Archives"
+      "Blue Archives",
+      "Bluc Archive"
     ]
   },
   {
@@ -669,7 +672,8 @@
       "Kusuriya No Hitorigoto",
       "Kusuriya",
       "Kusuriya No Hitorigoto/apothecary Diaries",
-      "The Apotechary Diaries"
+      "The Apotechary Diaries",
+      "Apothecary Diary"
     ]
   },
   {
@@ -726,7 +730,8 @@
   {
     "canonical": "Monster Hunter",
     "variants": [
-      "Monster Hunter"
+      "Monster Hunter",
+      "Monster Hunter [monhun]"
     ]
   },
   {
@@ -809,7 +814,8 @@
     "canonical": "Omori",
     "variants": [
       "Omori",
-      "Phantom Busters. Omori"
+      "Phantom Busters. Omori",
+      "Alien Stage | Katekyo Hitman Reborn | Omori"
     ]
   },
   {
@@ -979,7 +985,10 @@
       "Alstg",
       "Allien Stage",
       "Alient Stage",
-      "Alienstage"
+      "Alienstage",
+      "Alien Stage",
+      "Alien Star",
+      "Alien Stage | Katekyo Hitman Reborn | Omori"
     ]
   },
   {
@@ -2143,7 +2152,8 @@
       "Bugs Themed",
       "Sea Creatures",
       "Tikus",
-      "Bunny"
+      "Bunny",
+      "Sacabambaspis. Vocaloid"
     ]
   },
   {
@@ -2407,7 +2417,8 @@
       "Hai Miiko!",
       "Miiko!",
       "Kocchi Muite Miiko",
-      "Miiko"
+      "Miiko",
+      "Hai! Miiko"
     ]
   },
   {
@@ -2564,7 +2575,8 @@
     "canonical": "Indie Games",
     "variants": [
       "Indie Games",
-      "And Indie Games"
+      "And Indie Games",
+      "Indie Game"
     ]
   },
   {
@@ -2625,7 +2637,8 @@
       "KHR",
       "Khr",
       "Hitman Reborn",
-      "Katekyō Hitman Reborn!"
+      "Katekyō Hitman Reborn!",
+      "Alien Stage | Katekyo Hitman Reborn | Omori"
     ]
   },
   {
@@ -2831,7 +2844,8 @@
       "Rock Bands",
       "Pop (lorde, Boygenius)",
       "Musical Artist",
-      "Boygenius"
+      "Boygenius",
+      "Combined With Underground Extreme Musick"
     ]
   },
   {
@@ -8410,7 +8424,8 @@
   {
     "canonical": "Dinosaurs",
     "variants": [
-      "Dinosaurs"
+      "Dinosaurs",
+      "Dinosaurus"
     ]
   },
   {
@@ -8505,6 +8520,44 @@
     "variants": [
       "The Little Prince",
       "Little Prince"
+    ]
+  },
+  {
+    "canonical": "Izakaya Nobu",
+    "variants": [
+      "Izakaya Nobu"
+    ]
+  },
+  {
+    "canonical": "Re:Zero - Starting Life in Another World",
+    "variants": [
+      "Re:Zero - Starting Life in Another World",
+      "Re:zero",
+      "Rezero"
+    ]
+  },
+  {
+    "canonical": "Naoki Urasawa",
+    "variants": [
+      "Naoki Urasawa"
+    ]
+  },
+  {
+    "canonical": "Pluto",
+    "variants": [
+      "Pluto"
+    ]
+  },
+  {
+    "canonical": "Billy Bath",
+    "variants": [
+      "Billy Bath"
+    ]
+  },
+  {
+    "canonical": "Delta Force",
+    "variants": [
+      "Delta Force"
     ]
   }
 ]
