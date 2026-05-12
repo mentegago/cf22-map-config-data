@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "creators": [
     {
       "id": 7851,
@@ -32320,11 +32320,9 @@
       ],
       "raw_fandoms": [
         "Blue Archive",
-        "Girls' Frontline",
-        "Arknights"
+        "Girls' Frontline"
       ],
       "fandoms": [
-        "Arknights",
         "Blue Archive",
         "Girls' Frontline"
       ],
@@ -32332,7 +32330,11 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2daee575-02a0-43a1-9ea5-c9e59603b116/ea0eeb91-baa3-4155-95be-3e35f312f7b8/H-51ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2daee575-02a0-43a1-9ea5-c9e59603b116/95f7dc4b-9730-4786-a625-ab08cb05b74a/H-51ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2daee575-02a0-43a1-9ea5-c9e59603b116/8b61518b-112b-43e2-85c8-daa3f8c476ff/H-51ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rysalia.jpg",
       "circle_code": "H-51ab"
     },
@@ -32854,7 +32856,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/5288627e-004b-4ddf-8e7d-e1a5a8cbf0fd/H-59b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/475cea9e-92fb-4680-a9ad-4447382011cd/H-59b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/fc47569d-3c2f-4515-984d-c18f902260c6/H-59b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/5086d1e0-05bf-42d8-98c7-ba3be3e72717/H-59b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/f1aed40a-db89-4eeb-a60e-40e0fe88069f/H-59b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/ab97d3f7-df7c-4ce3-8d48-bcd60d8a4e2a/H-59b (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunshy Cafe.jpg",
@@ -52151,7 +52153,9 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ec5b9805-61df-4b55-a91c-4a4f84b85410/b0b5c910-689f-4a24-b594-933f3135f1fd/N-08b.jpeg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pejuang Om Tante Barat.jpg",
       "circle_code": "N-08b"
     },
@@ -54863,28 +54867,20 @@
       "day": "BOTH",
       "urls": [
         {
-          "title": "Instagram 1",
-          "url": "https://www.instagram.com/xiaolonghecha/"
-        },
-        {
-          "title": "Instagram 2",
-          "url": "https://www.instagram.com/kurocat_aoibun"
-        },
-        {
-          "title": "Instagram 3",
+          "title": "Facebook",
           "url": "https://www.instagram.com/loo.na.tic/"
         },
         {
-          "title": "Twitter 1",
-          "url": "https://x.com/xiaolonghecha"
+          "title": "Instagram",
+          "url": "https://www.instagram.com/xiaolonghecha/"
         },
         {
-          "title": "Twitter 2",
+          "title": "Twitter",
           "url": "https://x.com/norimilk"
         },
         {
-          "title": "Twitter 3",
-          "url": "https://x.com/kurocat_aoibun"
+          "title": "Other",
+          "url": "https://www.instagram.com/kurocat_aoibun"
         }
       ],
       "raw_fandoms": [
@@ -54914,7 +54910,15 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/c6edca97-6bb4-478a-b5e2-e7a82384ee5c/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/ddf7b885-30fc-49a3-a050-7ad1b250b02f/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/e3c25530-97e2-4b12-a27f-20886461cca3/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/a90842d1-af9c-49e3-b878-32494516671e/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/bf0664d6-e00f-4dac-ab05-54caddf9299d/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/69692f0f-f66c-48a3-9082-b85cbd46251e/N-47ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7f8b362d-e6c2-4f96-86ce-3d5c1a84501c/4d37403e-2237-4268-b52b-235733a3c8ab/N-47ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Husbando Specialist.jpg",
       "circle_code": "N-47ab"
     },
