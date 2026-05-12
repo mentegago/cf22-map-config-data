@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 514
+    "count": 516
   },
   {
     "fandom": "Honkai Star Rail",
@@ -13,7 +13,7 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 202
+    "count": 203
   },
   {
     "fandom": "Uma Musume",
@@ -45,11 +45,11 @@
   },
   {
     "fandom": "Arknights",
-    "count": 112
+    "count": 111
   },
   {
     "fandom": "VTuber",
-    "count": 109
+    "count": 110
   },
   {
     "fandom": "Pokemon",
@@ -69,18 +69,18 @@
   },
   {
     "fandom": "PLAVE",
-    "count": 87
+    "count": 88
   },
   {
     "fandom": "Wuthering Waves",
     "count": 84
   },
   {
-    "fandom": "One Piece",
-    "count": 77
+    "fandom": "Frieren: Beyond Journey's End",
+    "count": 78
   },
   {
-    "fandom": "Frieren: Beyond Journey's End",
+    "fandom": "One Piece",
     "count": 77
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "fandom": "Arknights: Endfield",
-    "count": 65
-  },
-  {
-    "fandom": "Demon Slayer: Kimetsu no Yaiba",
-    "count": 65
+    "count": 66
   },
   {
     "fandom": "Delicious in Dungeon",
+    "count": 66
+  },
+  {
+    "fandom": "Demon Slayer: Kimetsu no Yaiba",
     "count": 65
   },
   {
@@ -113,7 +113,7 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 53
+    "count": 52
   },
   {
     "fandom": "Deltarune",
@@ -800,10 +800,6 @@
     "count": 8
   },
   {
-    "fandom": "Bleach",
-    "count": 8
-  },
-  {
     "fandom": "Ojamajo Doremi",
     "count": 8
   },
@@ -856,6 +852,10 @@
     "count": 7
   },
   {
+    "fandom": "Kirby",
+    "count": 7
+  },
+  {
     "fandom": "Katekyo Hitman Reborn!",
     "count": 7
   },
@@ -885,6 +885,10 @@
   },
   {
     "fandom": "Tears of Themis",
+    "count": 7
+  },
+  {
+    "fandom": "Bleach",
     "count": 7
   },
   {
@@ -949,10 +953,6 @@
   },
   {
     "fandom": "Furry",
-    "count": 6
-  },
-  {
-    "fandom": "Kirby",
     "count": 6
   },
   {
@@ -1024,6 +1024,10 @@
     "count": 6
   },
   {
+    "fandom": "GDCG",
+    "count": 6
+  },
+  {
     "fandom": "Lout of Count's Family",
     "count": 6
   },
@@ -1081,6 +1085,10 @@
   },
   {
     "fandom": "Punishing: Gray Raven",
+    "count": 5
+  },
+  {
+    "fandom": "LGBTQ",
     "count": 5
   },
   {
@@ -1216,11 +1224,11 @@
     "count": 5
   },
   {
-    "fandom": "GDCG",
-    "count": 5
+    "fandom": "MyGO!!!!!",
+    "count": 4
   },
   {
-    "fandom": "MyGO!!!!!",
+    "fandom": "Laid-Back Camp",
     "count": 4
   },
   {
@@ -1293,10 +1301,6 @@
   },
   {
     "fandom": "Shugo Chara",
-    "count": 4
-  },
-  {
-    "fandom": "LGBTQ",
     "count": 4
   },
   {
@@ -1429,6 +1433,10 @@
   },
   {
     "fandom": "Helldivers 2",
+    "count": 3
+  },
+  {
+    "fandom": "Kasane Teto",
     "count": 3
   },
   {
@@ -1604,10 +1612,6 @@
     "count": 3
   },
   {
-    "fandom": "Laid-Back Camp",
-    "count": 3
-  },
-  {
     "fandom": "Synthesizer V",
     "count": 3
   },
@@ -1717,10 +1721,6 @@
   },
   {
     "fandom": "NieR Replicant",
-    "count": 2
-  },
-  {
-    "fandom": "Kasane Teto",
     "count": 2
   },
   {
@@ -2360,7 +2360,23 @@
     "count": 1
   },
   {
+    "fandom": "Bluc Archive",
+    "count": 1
+  },
+  {
     "fandom": ".flow",
+    "count": 1
+  },
+  {
+    "fandom": "Apothecary Diary",
+    "count": 1
+  },
+  {
+    "fandom": "Izakaya Nobu",
+    "count": 1
+  },
+  {
+    "fandom": "Monster Hunter [monhun]",
     "count": 1
   },
   {
@@ -2396,6 +2412,10 @@
     "count": 1
   },
   {
+    "fandom": "Wuterhing Waves",
+    "count": 1
+  },
+  {
     "fandom": "Internet Culture",
     "count": 1
   },
@@ -2405,6 +2425,10 @@
   },
   {
     "fandom": "Disney Princess",
+    "count": 1
+  },
+  {
+    "fandom": "Indie Game",
     "count": 1
   },
   {
@@ -3345,6 +3369,10 @@
   },
   {
     "fandom": "Umineko: When They Cry",
+    "count": 1
+  },
+  {
+    "fandom": "Re:zero",
     "count": 1
   },
   {
