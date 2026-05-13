@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "creators": [
     {
       "id": 7851,
@@ -5602,7 +5602,15 @@
         "Photobook Cosplay",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/05d79fe0-d45b-42d8-a0d8-a6484f5f618f/AE-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/fa140e14-5a42-4189-96ad-f8480a3da77a/AE-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/b42f5787-313c-476f-954f-d876ea30c80c/AE-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/bad3e481-5319-46cd-bc3d-60650ba46024/AE-20.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/9bf90ade-984a-479a-b933-c136dd3b8d9e/AE-20.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/f0bc8012-c607-4660-a74d-cf34d543af3e/AE-20.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99c03031-ac2f-49a8-97db-30b683114d20/3dd1adf7-3f17-418f-9784-7efbad503e97/AE-20.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CandyKitties X YraShaimase.jpg",
       "circle_code": "AE-20"
     },
@@ -25707,16 +25715,26 @@
       ],
       "raw_fandoms": [
         "Ghibli",
-        "Sekiro"
+        "Original Art"
       ],
       "fandoms": [
-        "Sekiro: Shadows Die Twice",
+        "Original",
         "Studio Ghibli"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/2f51f059-77b6-4d29-8578-8f04b0c7a802/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/56138447-5263-4aef-8ce9-9f58968576b9/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/a78a0353-5f2d-4b3f-a230-70650c2435d2/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/2fd1b3d1-3ce8-4b18-ada6-2fb81bf07574/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/9b9efe32-61dc-4377-a428-0eed1e94be22/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/28f24c2a-4ad2-4d5e-a39f-3d3e1e9e9d79/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/722ae6c9-90f1-4a62-a4b0-26cd504fac9c/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/1a50e89f-469b-490c-b88a-f17af00581db/F-43ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f1f1e3e2-cf05-46eb-8489-5f1e10724988/5edcdb09-d754-4d9a-b6a6-97ec52f8be83/F-43ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/exhozt.jpg",
       "circle_code": "F-43ab"
     },
@@ -28703,9 +28721,11 @@
         "Orb On The Movements Of The Earth",
         "Vtubers",
         "Hoyoverse",
-        "Mashle"
+        "Mashle",
+        "Dandadan"
       ],
       "fandoms": [
+        "Dandadan",
         "Dr. STONE",
         "HoYoverse",
         "Mashle: Magic and Muscles",
@@ -28717,7 +28737,9 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/40eaf897-b21b-4d63-a38b-db42be5a2d57/7a4fb523-84d7-49e3-8503-99eb48d7f25d/G-43ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pucuk Dodolan.jpg",
       "circle_code": "G-43ab"
     },
@@ -44619,10 +44641,11 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/da2cb15e-740d-4e76-83a2-ad8a9746a797/L-09ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/3079003f-f881-42fa-bdd0-fc303649b355/L-09ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/ea4c87fb-cfe6-4182-be0e-87afd1f95673/L-09ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/53956ba3-4f9a-45eb-a28a-3820bbccc28d/L-09ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/e048c01a-e04c-4d47-9016-e718822ceddf/L-09ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/ff31fd57-eb31-41b7-8617-3ca2bc2c992b/L-09ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/e32f5dd7-b4a5-404f-8841-34f90a447531/L-09ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freaky Restaurant.jpg",
@@ -46893,9 +46916,11 @@
       ],
       "raw_fandoms": [
         "Hololive",
-        "Dungeon & Dragon"
+        "Dungeon & Dragon",
+        "Dungeon Meshi"
       ],
       "fandoms": [
+        "Delicious in Dungeon",
         "Dungeons & Dragons",
         "Hololive"
       ],
@@ -55486,6 +55511,7 @@
       ],
       "raw_fandoms": [
         "Love And Deepspace",
+        "Tamon B'side",
         "Honkai Star Rail",
         "Genshin Impact",
         "Alien Stage",
@@ -55496,7 +55522,8 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "Love and Deepspace",
-        "Original"
+        "Original",
+        "Tamon B'side"
       ],
       "works_type": [
         "Goods"
