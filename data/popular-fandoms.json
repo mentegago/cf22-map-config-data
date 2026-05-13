@@ -1,19 +1,19 @@
 [
   {
     "fandom": "Original",
-    "count": 518
+    "count": 519
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 365
+    "count": 366
   },
   {
     "fandom": "Genshin Impact",
-    "count": 346
+    "count": 347
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 205
+    "count": 206
   },
   {
     "fandom": "Uma Musume",
@@ -21,15 +21,15 @@
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 164
+    "count": 165
   },
   {
     "fandom": "Alien Stage",
-    "count": 155
+    "count": 156
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 138
+    "count": 137
   },
   {
     "fandom": "Vocaloid",
@@ -105,7 +105,7 @@
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
-    "count": 65
+    "count": 66
   },
   {
     "fandom": "NIJISANJI",
@@ -113,7 +113,7 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 53
+    "count": 54
   },
   {
     "fandom": "Deltarune",
@@ -124,20 +124,20 @@
     "count": 47
   },
   {
+    "fandom": "Reverse: 1999",
+    "count": 45
+  },
+  {
+    "fandom": "The Summer Hikaru Died",
+    "count": 45
+  },
+  {
     "fandom": "Link Click",
     "count": 45
   },
   {
     "fandom": "K-pop",
     "count": 45
-  },
-  {
-    "fandom": "Reverse: 1999",
-    "count": 44
-  },
-  {
-    "fandom": "The Summer Hikaru Died",
-    "count": 44
   },
   {
     "fandom": "Anime",
@@ -204,6 +204,10 @@
     "count": 31
   },
   {
+    "fandom": "Dandadan",
+    "count": 31
+  },
+  {
     "fandom": "Limbus Company",
     "count": 31
   },
@@ -216,15 +220,15 @@
     "count": 30
   },
   {
-    "fandom": "Dandadan",
+    "fandom": "Witch Hat Atelier",
     "count": 29
   },
   {
-    "fandom": "Witch Hat Atelier",
-    "count": 28
+    "fandom": "Valorant",
+    "count": 27
   },
   {
-    "fandom": "Valorant",
+    "fandom": "Puella Magi Madoka Magica",
     "count": 27
   },
   {
@@ -244,8 +248,8 @@
     "count": 26
   },
   {
-    "fandom": "Puella Magi Madoka Magica",
-    "count": 26
+    "fandom": "Nana",
+    "count": 25
   },
   {
     "fandom": "Hollow Knight",
@@ -254,10 +258,6 @@
   {
     "fandom": "My Little Pony",
     "count": 25
-  },
-  {
-    "fandom": "Nana",
-    "count": 24
   },
   {
     "fandom": "Hunter x Hunter",
@@ -348,6 +348,10 @@
     "count": 20
   },
   {
+    "fandom": "Naruto",
+    "count": 20
+  },
+  {
     "fandom": "Trigun",
     "count": 20
   },
@@ -365,10 +369,6 @@
   },
   {
     "fandom": "Hannibal",
-    "count": 19
-  },
-  {
-    "fandom": "Naruto",
     "count": 19
   },
   {
@@ -452,6 +452,10 @@
     "count": 16
   },
   {
+    "fandom": "Gintama",
+    "count": 16
+  },
+  {
     "fandom": "Call of Duty",
     "count": 16
   },
@@ -464,11 +468,11 @@
     "count": 15
   },
   {
-    "fandom": "Sailor Moon",
+    "fandom": "Black Butler",
     "count": 15
   },
   {
-    "fandom": "Gintama",
+    "fandom": "Sailor Moon",
     "count": 15
   },
   {
@@ -493,10 +497,6 @@
   },
   {
     "fandom": "Epic: The Musical",
-    "count": 14
-  },
-  {
-    "fandom": "Black Butler",
     "count": 14
   },
   {
@@ -561,6 +561,10 @@
   },
   {
     "fandom": "Panty & Stocking with Garterbelt",
+    "count": 12
+  },
+  {
+    "fandom": "Orb",
     "count": 12
   },
   {
@@ -637,10 +641,6 @@
   },
   {
     "fandom": "Lord of the Mysteries",
-    "count": 10
-  },
-  {
-    "fandom": "Orb",
     "count": 10
   },
   {
@@ -780,11 +780,19 @@
     "count": 8
   },
   {
+    "fandom": "My S-Class Hunters",
+    "count": 8
+  },
+  {
     "fandom": "Yona of the Dawn",
     "count": 8
   },
   {
     "fandom": "Persona 3",
+    "count": 8
+  },
+  {
+    "fandom": "Skip and Loafer",
     "count": 8
   },
   {
@@ -868,10 +876,6 @@
     "count": 7
   },
   {
-    "fandom": "My S-Class Hunters",
-    "count": 7
-  },
-  {
     "fandom": "Indie VTuber",
     "count": 7
   },
@@ -905,10 +909,6 @@
   },
   {
     "fandom": "Yotsuba&!",
-    "count": 7
-  },
-  {
-    "fandom": "Skip and Loafer",
     "count": 7
   },
   {
@@ -1352,6 +1352,10 @@
     "count": 4
   },
   {
+    "fandom": "Grandmaster of Demonic Cultivation",
+    "count": 4
+  },
+  {
     "fandom": "Disco Elysium",
     "count": 4
   },
@@ -1381,6 +1385,10 @@
   },
   {
     "fandom": "Land of the Lustrous",
+    "count": 4
+  },
+  {
+    "fandom": "Kagurabachi",
     "count": 4
   },
   {
@@ -1492,6 +1500,10 @@
     "count": 3
   },
   {
+    "fandom": "Noragami",
+    "count": 3
+  },
+  {
     "fandom": "86 -Eighty Six-",
     "count": 3
   },
@@ -1521,10 +1533,6 @@
   },
   {
     "fandom": "Red Dead Redemption 2",
-    "count": 3
-  },
-  {
-    "fandom": "Trains",
     "count": 3
   },
   {
@@ -1572,10 +1580,6 @@
     "count": 3
   },
   {
-    "fandom": "Grandmaster of Demonic Cultivation",
-    "count": 3
-  },
-  {
     "fandom": "Tower of God",
     "count": 3
   },
@@ -1609,6 +1613,10 @@
   },
   {
     "fandom": "Monthly Girls' Nozaki-kun",
+    "count": 3
+  },
+  {
+    "fandom": "Erha",
     "count": 3
   },
   {
@@ -1708,10 +1716,6 @@
     "count": 3
   },
   {
-    "fandom": "Kagurabachi",
-    "count": 3
-  },
-  {
     "fandom": "Blue Reflection",
     "count": 2
   },
@@ -1805,6 +1809,10 @@
   },
   {
     "fandom": "Friday Night Funkin'",
+    "count": 2
+  },
+  {
+    "fandom": "Trains",
     "count": 2
   },
   {
@@ -2244,10 +2252,6 @@
     "count": 2
   },
   {
-    "fandom": "Noragami",
-    "count": 2
-  },
-  {
     "fandom": "Sol4ce",
     "count": 2
   },
@@ -2289,10 +2293,6 @@
   },
   {
     "fandom": "S-Classes That I Raised",
-    "count": 2
-  },
-  {
-    "fandom": "Erha",
     "count": 2
   },
   {
@@ -2541,6 +2541,18 @@
   },
   {
     "fandom": "Shrek",
+    "count": 1
+  },
+  {
+    "fandom": "Apocathery Diaries. Howl's Moving Castle",
+    "count": 1
+  },
+  {
+    "fandom": "Oshinoko",
+    "count": 1
+  },
+  {
+    "fandom": "Sign Of Affection",
     "count": 1
   },
   {
@@ -3100,6 +3112,10 @@
     "count": 1
   },
   {
+    "fandom": "Original [onionholic Seiryuuden Topi5356 Dknrkg]",
+    "count": 1
+  },
+  {
     "fandom": "Zara Larsson",
     "count": 1
   },
@@ -3193,6 +3209,26 @@
   },
   {
     "fandom": "Bridgerton",
+    "count": 1
+  },
+  {
+    "fandom": "Alta",
+    "count": 1
+  },
+  {
+    "fandom": "Click Link",
+    "count": 1
+  },
+  {
+    "fandom": "Rotbb",
+    "count": 1
+  },
+  {
+    "fandom": "Tgfc",
+    "count": 1
+  },
+  {
+    "fandom": "Thgll",
     "count": 1
   },
   {
