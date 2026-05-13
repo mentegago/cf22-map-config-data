@@ -82,7 +82,8 @@
       "Original (oc)",
       "Original Song",
       "Original. Gacha. Trickcal",
-      "Original (fish)"
+      "Original (fish)",
+      "Original [onionholic Seiryuuden Topi5356 Dknrkg]"
     ]
   },
   {
@@ -136,7 +137,8 @@
       "Gensin Impact",
       "Mihoyo Games (genshin , Hsr , Zzz)",
       "Hoyoverse (hsr, Gi, Zzz)",
-      "Yelan"
+      "Yelan",
+      "Genshin Impact (chilumi)"
     ]
   },
   {
@@ -481,7 +483,9 @@
       "Gibli",
       "Ghibi",
       "Ponyo",
-      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa"
+      "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
+      "Apocathery Diaries. Howl's Moving Castle",
+      "Howl's Moving Castle"
     ]
   },
   {
@@ -558,7 +562,8 @@
     "variants": [
       "Link Click",
       "Linkclick",
-      "Link-click"
+      "Link-click",
+      "Click Link"
     ]
   },
   {
@@ -661,7 +666,8 @@
       "Chainsaw Man",
       "Chainsawman",
       "Csm",
-      "Chainsawman (csm)"
+      "Chainsawman (csm)",
+      "Chainsawman : Reze Arc"
     ]
   },
   {
@@ -673,7 +679,9 @@
       "Kusuriya",
       "Kusuriya No Hitorigoto/apothecary Diaries",
       "The Apotechary Diaries",
-      "Apothecary Diary"
+      "Apothecary Diary",
+      "Apocathery Diaries. Howl's Moving Castle",
+      "Apocathery Diaries"
     ]
   },
   {
@@ -1339,7 +1347,8 @@
       "Like a Dragon",
       "Yakuza Rgg",
       "Rgg",
-      "Rgg/yakuza"
+      "Rgg/yakuza",
+      "Yakuza / Rgg / Like A Dragon"
     ]
   },
   {
@@ -2693,7 +2702,8 @@
       "Rpg Maker Horror Games",
       "Rpgmaker Games",
       "Rpgmaker",
-      "Rpg Maker Games"
+      "Rpg Maker Games",
+      "Horror Rpgmaker"
     ]
   },
   {
@@ -2731,7 +2741,8 @@
   {
     "canonical": "Oshi no Ko",
     "variants": [
-      "Oshi no Ko"
+      "Oshi no Ko",
+      "Oshinoko"
     ]
   },
   {
@@ -3124,7 +3135,8 @@
       "Love Live",
       "Love Live Hasunosora",
       "Lovelive",
-      "Love Live! School Idol Project"
+      "Love Live! School Idol Project",
+      "Lovelive!"
     ]
   },
   {
@@ -5618,7 +5630,8 @@
       "Tamon's B-side",
       "Tamon-kun Ima Docchi",
       "Tamon B-side",
-      "Tamon's B Side"
+      "Tamon's B Side",
+      "Tamon B'side"
     ]
   },
   {
@@ -6438,7 +6451,8 @@
     "canonical": "A Sign Of Affection",
     "variants": [
       "A Sign Of Affection",
-      "Yubisaki To Renren"
+      "Yubisaki To Renren",
+      "Sign Of Affection"
     ]
   },
   {
@@ -8558,6 +8572,70 @@
     "canonical": "Delta Force",
     "variants": [
       "Delta Force"
+    ]
+  },
+  {
+    "canonical": "LE SSERAFIM",
+    "variants": [
+      "LE SSERAFIM",
+      "Le Sserafim (k-pop)"
+    ]
+  },
+  {
+    "canonical": "Kyou Kara Maou",
+    "variants": [
+      "Kyou Kara Maou",
+      "Kyo Kara Maoh",
+      "Maou"
+    ]
+  },
+  {
+    "canonical": "Hotline Miami",
+    "variants": [
+      "Hotline Miami"
+    ]
+  },
+  {
+    "canonical": "Ib",
+    "variants": [
+      "Ib",
+      "Ib (rpg Maker Horror)"
+    ]
+  },
+  {
+    "canonical": "Mad Father",
+    "variants": [
+      "Mad Father"
+    ]
+  },
+  {
+    "canonical": "Tgfc",
+    "variants": [
+      "Tgfc"
+    ]
+  },
+  {
+    "canonical": "Rotbb",
+    "variants": [
+      "Rotbb"
+    ]
+  },
+  {
+    "canonical": "Thgll",
+    "variants": [
+      "Thgll"
+    ]
+  },
+  {
+    "canonical": "Alta",
+    "variants": [
+      "Alta"
+    ]
+  },
+  {
+    "canonical": "Knives Out",
+    "variants": [
+      "Knives Out"
     ]
   }
 ]

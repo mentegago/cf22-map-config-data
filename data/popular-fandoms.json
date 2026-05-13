@@ -1,15 +1,15 @@
 [
   {
     "fandom": "Original",
-    "count": 519
+    "count": 523
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 366
+    "count": 365
   },
   {
     "fandom": "Genshin Impact",
-    "count": 347
+    "count": 348
   },
   {
     "fandom": "Love and Deepspace",
@@ -29,11 +29,11 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 137
+    "count": 138
   },
   {
     "fandom": "Vocaloid",
-    "count": 137
+    "count": 138
   },
   {
     "fandom": "Hololive",
@@ -45,7 +45,7 @@
   },
   {
     "fandom": "Arknights",
-    "count": 111
+    "count": 112
   },
   {
     "fandom": "VTuber",
@@ -53,7 +53,7 @@
   },
   {
     "fandom": "Pokemon",
-    "count": 106
+    "count": 107
   },
   {
     "fandom": "Haikyu!!",
@@ -61,7 +61,7 @@
   },
   {
     "fandom": "Studio Ghibli",
-    "count": 93
+    "count": 94
   },
   {
     "fandom": "Project SEKAI",
@@ -76,16 +76,16 @@
     "count": 85
   },
   {
+    "fandom": "Frieren: Beyond Journey's End",
+    "count": 80
+  },
+  {
     "fandom": "One Piece",
     "count": 79
   },
   {
-    "fandom": "Frieren: Beyond Journey's End",
-    "count": 79
-  },
-  {
     "fandom": "Chainsaw Man",
-    "count": 74
+    "count": 75
   },
   {
     "fandom": "DC Comics",
@@ -124,15 +124,15 @@
     "count": 47
   },
   {
+    "fandom": "Link Click",
+    "count": 46
+  },
+  {
     "fandom": "Reverse: 1999",
     "count": 45
   },
   {
     "fandom": "The Summer Hikaru Died",
-    "count": 45
-  },
-  {
-    "fandom": "Link Click",
     "count": 45
   },
   {
@@ -148,16 +148,16 @@
     "count": 41
   },
   {
+    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
+    "count": 41
+  },
+  {
     "fandom": "Gachiakuta",
     "count": 41
   },
   {
     "fandom": "Blue Lock",
     "count": 41
-  },
-  {
-    "fandom": "The Apothecary Diaries (Kusuriya no Hitorigoto)",
-    "count": 40
   },
   {
     "fandom": "My Hero Academia (Boku No Hero Academia)",
@@ -176,12 +176,12 @@
     "count": 38
   },
   {
-    "fandom": "K-Pop: Demon Hunters",
+    "fandom": "Dispatch",
     "count": 38
   },
   {
-    "fandom": "Dispatch",
-    "count": 37
+    "fandom": "K-Pop: Demon Hunters",
+    "count": 38
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
@@ -200,15 +200,15 @@
     "count": 34
   },
   {
+    "fandom": "Limbus Company",
+    "count": 32
+  },
+  {
     "fandom": "Animal",
     "count": 31
   },
   {
     "fandom": "Dandadan",
-    "count": 31
-  },
-  {
-    "fandom": "Limbus Company",
     "count": 31
   },
   {
@@ -225,7 +225,7 @@
   },
   {
     "fandom": "Valorant",
-    "count": 27
+    "count": 28
   },
   {
     "fandom": "Puella Magi Madoka Magica",
@@ -236,15 +236,15 @@
     "count": 27
   },
   {
-    "fandom": "Roblox",
-    "count": 27
-  },
-  {
     "fandom": "Goddess of Victory: NIKKE",
     "count": 26
   },
   {
     "fandom": "Detective Conan",
+    "count": 26
+  },
+  {
+    "fandom": "Roblox",
     "count": 26
   },
   {
@@ -316,8 +316,16 @@
     "count": 22
   },
   {
+    "fandom": "Minecraft",
+    "count": 22
+  },
+  {
     "fandom": "Formula 1",
     "count": 22
+  },
+  {
+    "fandom": "Monster Hunter",
+    "count": 21
   },
   {
     "fandom": "Bocchi the Rock!",
@@ -332,10 +340,6 @@
     "count": 21
   },
   {
-    "fandom": "Minecraft",
-    "count": 21
-  },
-  {
     "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
   },
@@ -344,15 +348,11 @@
     "count": 21
   },
   {
-    "fandom": "Monster Hunter",
-    "count": 20
+    "fandom": "Trigun",
+    "count": 21
   },
   {
     "fandom": "Naruto",
-    "count": 20
-  },
-  {
-    "fandom": "Trigun",
     "count": 20
   },
   {
@@ -384,11 +384,19 @@
     "count": 18
   },
   {
+    "fandom": "Silent Hill",
+    "count": 18
+  },
+  {
     "fandom": "Digimon",
     "count": 18
   },
   {
     "fandom": "Cookie Run",
+    "count": 18
+  },
+  {
+    "fandom": "Tamon's B Side",
     "count": 18
   },
   {
@@ -398,10 +406,6 @@
   {
     "fandom": "Mob Psycho 100",
     "count": 18
-  },
-  {
-    "fandom": "Silent Hill",
-    "count": 17
   },
   {
     "fandom": "Final Fantasy XIV",
@@ -417,10 +421,6 @@
   },
   {
     "fandom": "Heated Rivalry",
-    "count": 17
-  },
-  {
-    "fandom": "Tamon's B Side",
     "count": 17
   },
   {
@@ -441,10 +441,6 @@
   },
   {
     "fandom": "Video Games",
-    "count": 16
-  },
-  {
-    "fandom": "Persona 5",
     "count": 16
   },
   {
@@ -472,6 +468,10 @@
     "count": 15
   },
   {
+    "fandom": "Persona 5",
+    "count": 15
+  },
+  {
     "fandom": "Sailor Moon",
     "count": 15
   },
@@ -488,7 +488,15 @@
     "count": 15
   },
   {
-    "fandom": "Granblue Fantasy",
+    "fandom": "Project Hail Mary",
+    "count": 15
+  },
+  {
+    "fandom": "Hetalia",
+    "count": 14
+  },
+  {
+    "fandom": "18trip",
     "count": 14
   },
   {
@@ -501,10 +509,6 @@
   },
   {
     "fandom": "The Disastrous Life of Saiki K.",
-    "count": 14
-  },
-  {
-    "fandom": "Project Hail Mary",
     "count": 14
   },
   {
@@ -524,23 +528,15 @@
     "count": 13
   },
   {
+    "fandom": "Granblue Fantasy",
+    "count": 13
+  },
+  {
     "fandom": "Forsaken",
     "count": 13
   },
   {
     "fandom": "Mouthwashing",
-    "count": 13
-  },
-  {
-    "fandom": "Hetalia",
-    "count": 13
-  },
-  {
-    "fandom": "18trip",
-    "count": 13
-  },
-  {
-    "fandom": "Where Winds Meet",
     "count": 13
   },
   {
@@ -572,6 +568,10 @@
     "count": 12
   },
   {
+    "fandom": "Where Winds Meet",
+    "count": 12
+  },
+  {
     "fandom": "Utaite",
     "count": 12
   },
@@ -589,6 +589,10 @@
   },
   {
     "fandom": "Pandavva",
+    "count": 12
+  },
+  {
+    "fandom": "Dandy's World",
     "count": 12
   },
   {
@@ -617,10 +621,6 @@
   },
   {
     "fandom": "To Be Hero X",
-    "count": 11
-  },
-  {
-    "fandom": "Dandy's World",
     "count": 11
   },
   {
@@ -661,6 +661,10 @@
   },
   {
     "fandom": "House, M.D.",
+    "count": 10
+  },
+  {
+    "fandom": "RPG Maker",
     "count": 10
   },
   {
@@ -720,15 +724,15 @@
     "count": 9
   },
   {
-    "fandom": "RPG Maker",
-    "count": 9
-  },
-  {
     "fandom": "Pretty Cure",
     "count": 9
   },
   {
     "fandom": "Mashle: Magic and Muscles",
+    "count": 9
+  },
+  {
+    "fandom": "Love Live!",
     "count": 9
   },
   {
@@ -820,10 +824,6 @@
     "count": 8
   },
   {
-    "fandom": "Love Live!",
-    "count": 8
-  },
-  {
     "fandom": "Soul Eater",
     "count": 8
   },
@@ -896,6 +896,10 @@
     "count": 7
   },
   {
+    "fandom": "Xdinary Heroes",
+    "count": 7
+  },
+  {
     "fandom": "Spider-Verse",
     "count": 7
   },
@@ -952,6 +956,10 @@
     "count": 6
   },
   {
+    "fandom": "Oshi no Ko",
+    "count": 6
+  },
+  {
     "fandom": "Helluva Boss",
     "count": 6
   },
@@ -980,10 +988,6 @@
     "count": 6
   },
   {
-    "fandom": "Xdinary Heroes",
-    "count": 6
-  },
-  {
     "fandom": "Kamisama Kiss",
     "count": 6
   },
@@ -1008,7 +1012,15 @@
     "count": 6
   },
   {
+    "fandom": "Golden Kamuy",
+    "count": 6
+  },
+  {
     "fandom": "Harvest Moon",
+    "count": 6
+  },
+  {
+    "fandom": "Team Fortress 2",
     "count": 6
   },
   {
@@ -1080,10 +1092,6 @@
     "count": 5
   },
   {
-    "fandom": "Oshi no Ko",
-    "count": 5
-  },
-  {
     "fandom": "Fruits Basket",
     "count": 5
   },
@@ -1152,10 +1160,6 @@
     "count": 5
   },
   {
-    "fandom": "Golden Kamuy",
-    "count": 5
-  },
-  {
     "fandom": "DRAMAtical Murder",
     "count": 5
   },
@@ -1213,10 +1217,6 @@
   },
   {
     "fandom": "A3!",
-    "count": 5
-  },
-  {
-    "fandom": "Team Fortress 2",
     "count": 5
   },
   {
@@ -1281,6 +1281,10 @@
   },
   {
     "fandom": "DLL",
+    "count": 4
+  },
+  {
+    "fandom": "A Sign Of Affection",
     "count": 4
   },
   {
@@ -1480,6 +1484,10 @@
     "count": 3
   },
   {
+    "fandom": "Bloodborne",
+    "count": 3
+  },
+  {
     "fandom": "Dark Souls",
     "count": 3
   },
@@ -1537,6 +1545,10 @@
   },
   {
     "fandom": "Monster",
+    "count": 3
+  },
+  {
+    "fandom": "Tokyo Revengers",
     "count": 3
   },
   {
@@ -1648,10 +1660,6 @@
     "count": 3
   },
   {
-    "fandom": "A Sign Of Affection",
-    "count": 3
-  },
-  {
     "fandom": "Hylics",
     "count": 3
   },
@@ -1752,10 +1760,6 @@
     "count": 2
   },
   {
-    "fandom": "Bloodborne",
-    "count": 2
-  },
-  {
     "fandom": "Totally Spies!",
     "count": 2
   },
@@ -1817,10 +1821,6 @@
   },
   {
     "fandom": "The Kid at the Back",
-    "count": 2
-  },
-  {
-    "fandom": "Tokyo Revengers",
     "count": 2
   },
   {
@@ -2029,6 +2029,10 @@
   },
   {
     "fandom": "Sleep Token",
+    "count": 2
+  },
+  {
+    "fandom": "Pandora Hearts",
     "count": 2
   },
   {
@@ -2249,6 +2253,10 @@
   },
   {
     "fandom": "Hamilton",
+    "count": 2
+  },
+  {
+    "fandom": "Iron Lung",
     "count": 2
   },
   {
@@ -2544,18 +2552,6 @@
     "count": 1
   },
   {
-    "fandom": "Apocathery Diaries. Howl's Moving Castle",
-    "count": 1
-  },
-  {
-    "fandom": "Oshinoko",
-    "count": 1
-  },
-  {
-    "fandom": "Sign Of Affection",
-    "count": 1
-  },
-  {
     "fandom": "Spice and Wolf",
     "count": 1
   },
@@ -2673,6 +2669,10 @@
   },
   {
     "fandom": "You & I Are Polar Opposites",
+    "count": 1
+  },
+  {
+    "fandom": "LE SSERAFIM",
     "count": 1
   },
   {
@@ -2877,6 +2877,10 @@
   },
   {
     "fandom": "Kuragehime",
+    "count": 1
+  },
+  {
+    "fandom": "Kyou Kara Maou",
     "count": 1
   },
   {
@@ -3112,10 +3116,6 @@
     "count": 1
   },
   {
-    "fandom": "Original [onionholic Seiryuuden Topi5356 Dknrkg]",
-    "count": 1
-  },
-  {
     "fandom": "Zara Larsson",
     "count": 1
   },
@@ -3141,6 +3141,18 @@
   },
   {
     "fandom": "Capcom",
+    "count": 1
+  },
+  {
+    "fandom": "Hotline Miami",
+    "count": 1
+  },
+  {
+    "fandom": "Ib",
+    "count": 1
+  },
+  {
+    "fandom": "Mad Father",
     "count": 1
   },
   {
@@ -3213,10 +3225,6 @@
   },
   {
     "fandom": "Alta",
-    "count": 1
-  },
-  {
-    "fandom": "Click Link",
     "count": 1
   },
   {
@@ -3421,10 +3429,6 @@
   },
   {
     "fandom": "Tokyo Afterschool Summoners",
-    "count": 1
-  },
-  {
-    "fandom": "Lovelive!",
     "count": 1
   },
   {
@@ -3728,10 +3732,6 @@
     "count": 1
   },
   {
-    "fandom": "Pandora Hearts",
-    "count": 1
-  },
-  {
     "fandom": "Togainu no Chi",
     "count": 1
   },
@@ -3921,10 +3921,6 @@
   },
   {
     "fandom": "Xlov",
-    "count": 1
-  },
-  {
-    "fandom": "Iron Lung",
     "count": 1
   },
   {
@@ -4297,10 +4293,6 @@
   },
   {
     "fandom": "Versa",
-    "count": 1
-  },
-  {
-    "fandom": "Tamon B'side",
     "count": 1
   },
   {
