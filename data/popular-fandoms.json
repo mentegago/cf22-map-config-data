@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 525
+    "count": 527
   },
   {
     "fandom": "Honkai Star Rail",
@@ -29,7 +29,7 @@
   },
   {
     "fandom": "Jujutsu Kaisen",
-    "count": 138
+    "count": 139
   },
   {
     "fandom": "Vocaloid",
@@ -37,7 +37,7 @@
   },
   {
     "fandom": "Hololive",
-    "count": 123
+    "count": 122
   },
   {
     "fandom": "HoYoverse",
@@ -136,11 +136,11 @@
     "count": 45
   },
   {
-    "fandom": "Reverse: 1999",
-    "count": 44
+    "fandom": "Anime",
+    "count": 43
   },
   {
-    "fandom": "Anime",
+    "fandom": "Reverse: 1999",
     "count": 43
   },
   {
@@ -216,12 +216,12 @@
     "count": 30
   },
   {
-    "fandom": "Witch Hat Atelier",
+    "fandom": "Animal",
     "count": 30
   },
   {
-    "fandom": "Animal",
-    "count": 29
+    "fandom": "Witch Hat Atelier",
+    "count": 30
   },
   {
     "fandom": "Valorant",
@@ -268,10 +268,6 @@
     "count": 24
   },
   {
-    "fandom": "Shoujo",
-    "count": 24
-  },
-  {
     "fandom": "Sakamoto Days",
     "count": 24
   },
@@ -289,6 +285,10 @@
   },
   {
     "fandom": "Undertale",
+    "count": 23
+  },
+  {
+    "fandom": "Shoujo",
     "count": 23
   },
   {
@@ -356,6 +356,10 @@
     "count": 20
   },
   {
+    "fandom": "Spy x Family",
+    "count": 20
+  },
+  {
     "fandom": "Devil May Cry",
     "count": 19
   },
@@ -369,10 +373,6 @@
   },
   {
     "fandom": "Hannibal",
-    "count": 19
-  },
-  {
-    "fandom": "Spy x Family",
     "count": 19
   },
   {
@@ -424,6 +424,10 @@
     "count": 17
   },
   {
+    "fandom": "Final Fantasy",
+    "count": 16
+  },
+  {
     "fandom": "Touhou",
     "count": 16
   },
@@ -460,10 +464,6 @@
     "count": 16
   },
   {
-    "fandom": "Final Fantasy",
-    "count": 15
-  },
-  {
     "fandom": "Nezha",
     "count": 15
   },
@@ -477,6 +477,10 @@
   },
   {
     "fandom": "Sailor Moon",
+    "count": 15
+  },
+  {
+    "fandom": "Danganronpa",
     "count": 15
   },
   {
@@ -504,15 +508,15 @@
     "count": 14
   },
   {
-    "fandom": "Danganronpa",
-    "count": 14
-  },
-  {
     "fandom": "Epic: The Musical",
     "count": 14
   },
   {
     "fandom": "The Disastrous Life of Saiki K.",
+    "count": 14
+  },
+  {
+    "fandom": "Pandavva",
     "count": 14
   },
   {
@@ -537,10 +541,6 @@
   },
   {
     "fandom": "Mouthwashing",
-    "count": 13
-  },
-  {
-    "fandom": "Pandavva",
     "count": 13
   },
   {
@@ -700,6 +700,10 @@
     "count": 9
   },
   {
+    "fandom": "Music",
+    "count": 9
+  },
+  {
     "fandom": "Clair Obscur: Expedition 33",
     "count": 9
   },
@@ -760,10 +764,6 @@
     "count": 8
   },
   {
-    "fandom": "Music",
-    "count": 8
-  },
-  {
     "fandom": "League of Legends",
     "count": 8
   },
@@ -817,6 +817,10 @@
   },
   {
     "fandom": "Animal Crossing",
+    "count": 8
+  },
+  {
+    "fandom": "Takopi's Original Sin",
     "count": 8
   },
   {
@@ -913,10 +917,6 @@
   },
   {
     "fandom": "Yotsuba&!",
-    "count": 7
-  },
-  {
-    "fandom": "Takopi's Original Sin",
     "count": 7
   },
   {
@@ -1240,6 +1240,10 @@
     "count": 4
   },
   {
+    "fandom": "Eyeshield 21",
+    "count": 4
+  },
+  {
     "fandom": "Cyberpunk 2077",
     "count": 4
   },
@@ -1500,10 +1504,6 @@
     "count": 3
   },
   {
-    "fandom": "Eyeshield 21",
-    "count": 3
-  },
-  {
     "fandom": "BTS",
     "count": 3
   },
@@ -1601,6 +1601,10 @@
   },
   {
     "fandom": "Tower of God",
+    "count": 3
+  },
+  {
+    "fandom": "Eddsworld",
     "count": 3
   },
   {
@@ -1988,14 +1992,6 @@
     "count": 2
   },
   {
-    "fandom": "Hell's Paradise",
-    "count": 2
-  },
-  {
-    "fandom": "Eddsworld",
-    "count": 2
-  },
-  {
     "fandom": "LEGO Monkie Kid",
     "count": 2
   },
@@ -2105,6 +2101,10 @@
   },
   {
     "fandom": "Subarashiki Hibi",
+    "count": 2
+  },
+  {
+    "fandom": "Re:Zero - Starting Life in Another World",
     "count": 2
   },
   {
@@ -2744,18 +2744,6 @@
     "count": 1
   },
   {
-    "fandom": "Jujutsu Kaisen (jjk)",
-    "count": 1
-  },
-  {
-    "fandom": "Drv3",
-    "count": 1
-  },
-  {
-    "fandom": "Originals (frogs, Aliens, Cats, Crochet, Felt, Jewelry, Etc)",
-    "count": 1
-  },
-  {
     "fandom": "Trolls",
     "count": 1
   },
@@ -2889,10 +2877,6 @@
   },
   {
     "fandom": "Kakegurui",
-    "count": 1
-  },
-  {
-    "fandom": "Takopi Original's Sin",
     "count": 1
   },
   {
@@ -3088,18 +3072,6 @@
     "count": 1
   },
   {
-    "fandom": "Axolotl",
-    "count": 1
-  },
-  {
-    "fandom": "Sugar Glider",
-    "count": 1
-  },
-  {
-    "fandom": "Combined With Underground Extreme Musick And Original Art",
-    "count": 1
-  },
-  {
     "fandom": "Gavan Infinity",
     "count": 1
   },
@@ -3128,7 +3100,7 @@
     "count": 1
   },
   {
-    "fandom": "Cute Animals",
+    "fandom": "Yomi no Tsugai",
     "count": 1
   },
   {
@@ -3440,10 +3412,6 @@
     "count": 1
   },
   {
-    "fandom": "Re:Zero - Starting Life in Another World",
-    "count": 1
-  },
-  {
     "fandom": "Indogov",
     "count": 1
   },
@@ -3576,15 +3544,7 @@
     "count": 1
   },
   {
-    "fandom": "Evergarden",
-    "count": 1
-  },
-  {
     "fandom": "Rascal Does Not Dream",
-    "count": 1
-  },
-  {
-    "fandom": "Shiroi Suna",
     "count": 1
   },
   {
@@ -3592,7 +3552,15 @@
     "count": 1
   },
   {
-    "fandom": "Vivy",
+    "fandom": "The Aquatope on White Sand",
+    "count": 1
+  },
+  {
+    "fandom": "Violet Evergarden",
+    "count": 1
+  },
+  {
+    "fandom": "Vivy: Fluorite Eye's Song",
     "count": 1
   },
   {
@@ -3745,10 +3713,6 @@
   },
   {
     "fandom": "Taylor Swift",
-    "count": 1
-  },
-  {
-    "fandom": "Eddworld",
     "count": 1
   },
   {
@@ -3920,11 +3884,7 @@
     "count": 1
   },
   {
-    "fandom": "Minecraft Arg",
-    "count": 1
-  },
-  {
-    "fandom": "Slay The Princess",
+    "fandom": "Slay the Princess",
     "count": 1
   },
   {
@@ -3949,14 +3909,6 @@
   },
   {
     "fandom": "Nerd Project",
-    "count": 1
-  },
-  {
-    "fandom": "Re",
-    "count": 1
-  },
-  {
-    "fandom": "Unstable Smp",
     "count": 1
   },
   {
@@ -4013,6 +3965,10 @@
   },
   {
     "fandom": "Twin Peaks",
+    "count": 1
+  },
+  {
+    "fandom": "Hell's Paradise",
     "count": 1
   },
   {
@@ -4580,10 +4536,6 @@
     "count": 1
   },
   {
-    "fandom": "Oc (rabbits)",
-    "count": 1
-  },
-  {
     "fandom": "Light and Night",
     "count": 1
   },
@@ -4680,11 +4632,7 @@
     "count": 1
   },
   {
-    "fandom": "Original Bara Art",
-    "count": 1
-  },
-  {
-    "fandom": "Zenless Zone Zero.",
+    "fandom": "Bara",
     "count": 1
   },
   {

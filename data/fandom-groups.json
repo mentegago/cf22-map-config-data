@@ -83,7 +83,9 @@
       "Original Song",
       "Original. Gacha. Trickcal",
       "Original (fish)",
-      "Original [onionholic Seiryuuden Topi5356 Dknrkg]"
+      "Original [onionholic Seiryuuden Topi5356 Dknrkg]",
+      "Originals (frogs, Aliens, Cats, Crochet, Felt, Jewelry, Etc)",
+      "Oc (rabbits)"
     ]
   },
   {
@@ -303,7 +305,8 @@
       "Ghibli Umamusume Skycotl Hazbin Paswg Indie Vtuber Frieren Hollow Knight / Silk Song Original Nso Fabulous Beast Bluey Tadc Zzz Okamiden Doraemon Kdh Ena Chiikawa",
       "Angel Of Delusion",
       "Zenlesszonezero:aod",
-      "Zzz."
+      "Zzz.",
+      "Zenless Zone Zero."
     ]
   },
   {
@@ -322,7 +325,8 @@
       "Jujutsi Kaisen",
       "Jujutusu Kaisen",
       "Stsg",
-      "Jujutsu Kaisen Jjk"
+      "Jujutsu Kaisen Jjk",
+      "Jujutsu Kaisen (jjk)"
     ]
   },
   {
@@ -1067,7 +1071,8 @@
     "variants": [
       "Final Fantasy",
       "1. Hsr 2. 18trip 3. Limbus 4. Bsd 5. Alnst 6. Given 7. Banana Fish 8. Green Yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio Investigrave",
-      "Final Fantasy Vi"
+      "Final Fantasy Vi",
+      "Chocobo"
     ]
   },
   {
@@ -1543,7 +1548,8 @@
       "Danganronpa",
       "Dangaronpa",
       "Danganronpa - Project : Eden's Garden",
-      "Hundred Line Last Defense Academy / Danganronpa"
+      "Hundred Line Last Defense Academy / Danganronpa",
+      "Drv3"
     ]
   },
   {
@@ -1752,7 +1758,8 @@
     "canonical": "Minecraft",
     "variants": [
       "Minecraft",
-      "Minecraft (sfawtde)"
+      "Minecraft (sfawtde)",
+      "Minecraft Arg"
     ]
   },
   {
@@ -2162,7 +2169,10 @@
       "Sea Creatures",
       "Tikus",
       "Bunny",
-      "Sacabambaspis. Vocaloid"
+      "Sacabambaspis. Vocaloid",
+      "Axolotl",
+      "Sugar Glider",
+      "Cute Animals"
     ]
   },
   {
@@ -2395,7 +2405,8 @@
       "Mcyt (life Series + Sbis)",
       "Mcyt (minecraft Youtubers)",
       "State Smp",
-      "Lifesteal Smp"
+      "Lifesteal Smp",
+      "Unstable Smp"
     ]
   },
   {
@@ -2856,7 +2867,8 @@
       "Pop (lorde, Boygenius)",
       "Musical Artist",
       "Boygenius",
-      "Combined With Underground Extreme Musick"
+      "Combined With Underground Extreme Musick",
+      "Combined With Underground Extreme Musick And Original Art"
     ]
   },
   {
@@ -3286,7 +3298,8 @@
     "variants": [
       "Takopi's Original Sin",
       "Takopi",
-      "Takopi no Genzai"
+      "Takopi no Genzai",
+      "Takopi Original's Sin"
     ]
   },
   {
@@ -4548,7 +4561,8 @@
   {
     "canonical": "Violet Evergarden",
     "variants": [
-      "Violet Evergarden"
+      "Violet Evergarden",
+      "Evergarden"
     ]
   },
   {
@@ -5296,7 +5310,8 @@
   {
     "canonical": "Eddsworld",
     "variants": [
-      "Eddsworld"
+      "Eddsworld",
+      "Eddworld"
     ]
   },
   {
@@ -6546,7 +6561,8 @@
   {
     "canonical": "The Aquatope on White Sand",
     "variants": [
-      "Shiroi Suna No Aquatope"
+      "Shiroi Suna No Aquatope",
+      "Shiroi Suna"
     ]
   },
   {
@@ -7519,7 +7535,8 @@
     "canonical": "Bara",
     "variants": [
       "Bara",
-      "Bara Art"
+      "Bara Art",
+      "Original Bara Art"
     ]
   },
   {
@@ -8547,7 +8564,8 @@
     "variants": [
       "Re:Zero - Starting Life in Another World",
       "Re:zero",
-      "Rezero"
+      "Rezero",
+      "Re"
     ]
   },
   {
@@ -8636,6 +8654,72 @@
     "canonical": "Knives Out",
     "variants": [
       "Knives Out"
+    ]
+  },
+  {
+    "canonical": "Bojack Horseman",
+    "variants": [
+      "Bojack Horseman"
+    ]
+  },
+  {
+    "canonical": "Historical",
+    "variants": [
+      "Historical"
+    ]
+  },
+  {
+    "canonical": "Trolls",
+    "variants": [
+      "Trolls"
+    ]
+  },
+  {
+    "canonical": "Yomi no Tsugai",
+    "variants": [
+      "Yomi No Tsugai"
+    ]
+  },
+  {
+    "canonical": "Vivy: Fluorite Eye's Song",
+    "variants": [
+      "Vivy"
+    ]
+  },
+  {
+    "canonical": "Flavor Foley",
+    "variants": [
+      "Flavor Foley"
+    ]
+  },
+  {
+    "canonical": "Nullscape",
+    "variants": [
+      "Nullscape"
+    ]
+  },
+  {
+    "canonical": "Slay the Princess",
+    "variants": [
+      "Slay The Princess"
+    ]
+  },
+  {
+    "canonical": "Hwwhp",
+    "variants": [
+      "Hwwhp"
+    ]
+  },
+  {
+    "canonical": "Meleeniacs",
+    "variants": [
+      "Meleeniacs"
+    ]
+  },
+  {
+    "canonical": "Tamako Market",
+    "variants": [
+      "Tamako Market"
     ]
   }
 ]
