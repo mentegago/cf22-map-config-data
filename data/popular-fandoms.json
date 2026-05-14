@@ -9,7 +9,7 @@
   },
   {
     "fandom": "Genshin Impact",
-    "count": 349
+    "count": 350
   },
   {
     "fandom": "Love and Deepspace",
@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Alien Stage",
-    "count": 156
+    "count": 157
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -33,7 +33,7 @@
   },
   {
     "fandom": "Vocaloid",
-    "count": 138
+    "count": 139
   },
   {
     "fandom": "Hololive",
@@ -85,7 +85,7 @@
   },
   {
     "fandom": "Chainsaw Man",
-    "count": 74
+    "count": 75
   },
   {
     "fandom": "DC Comics",
@@ -117,7 +117,7 @@
   },
   {
     "fandom": "Deltarune",
-    "count": 48
+    "count": 50
   },
   {
     "fandom": "Persona",
@@ -156,6 +156,10 @@
     "count": 41
   },
   {
+    "fandom": "Resident Evil",
+    "count": 40
+  },
+  {
     "fandom": "Identity V",
     "count": 40
   },
@@ -164,7 +168,7 @@
     "count": 40
   },
   {
-    "fandom": "Resident Evil",
+    "fandom": "Dispatch",
     "count": 39
   },
   {
@@ -173,10 +177,6 @@
   },
   {
     "fandom": "Twisted Wonderland",
-    "count": 38
-  },
-  {
-    "fandom": "Dispatch",
     "count": 38
   },
   {
@@ -204,11 +204,11 @@
     "count": 33
   },
   {
-    "fandom": "Dandadan",
-    "count": 31
+    "fandom": "Marvel",
+    "count": 32
   },
   {
-    "fandom": "Marvel",
+    "fandom": "Dandadan",
     "count": 31
   },
   {
@@ -268,7 +268,19 @@
     "count": 24
   },
   {
+    "fandom": "Cat",
+    "count": 24
+  },
+  {
+    "fandom": "Undertale",
+    "count": 24
+  },
+  {
     "fandom": "Sakamoto Days",
+    "count": 24
+  },
+  {
+    "fandom": "Needy Streamer Overload",
     "count": 24
   },
   {
@@ -276,15 +288,7 @@
     "count": 23
   },
   {
-    "fandom": "Cat",
-    "count": 23
-  },
-  {
     "fandom": "Neon Genesis Evangelion",
-    "count": 23
-  },
-  {
-    "fandom": "Undertale",
     "count": 23
   },
   {
@@ -300,16 +304,16 @@
     "count": 23
   },
   {
-    "fandom": "Needy Streamer Overload",
-    "count": 23
-  },
-  {
     "fandom": "Stardew Valley",
     "count": 23
   },
   {
     "fandom": "Cookie Run: Kingdom",
     "count": 23
+  },
+  {
+    "fandom": "Adventure Time",
+    "count": 22
   },
   {
     "fandom": "Bungo Stray Dogs",
@@ -329,10 +333,6 @@
   },
   {
     "fandom": "Bocchi the Rock!",
-    "count": 21
-  },
-  {
-    "fandom": "Adventure Time",
     "count": 21
   },
   {
@@ -360,6 +360,10 @@
     "count": 20
   },
   {
+    "fandom": "Silent Hill",
+    "count": 19
+  },
+  {
     "fandom": "Devil May Cry",
     "count": 19
   },
@@ -381,10 +385,6 @@
   },
   {
     "fandom": "Hatsune Miku",
-    "count": 18
-  },
-  {
-    "fandom": "Silent Hill",
     "count": 18
   },
   {
@@ -476,6 +476,10 @@
     "count": 15
   },
   {
+    "fandom": "Hetalia",
+    "count": 15
+  },
+  {
     "fandom": "Sailor Moon",
     "count": 15
   },
@@ -498,10 +502,6 @@
   {
     "fandom": "Tokyo Debunker",
     "count": 15
-  },
-  {
-    "fandom": "Hetalia",
-    "count": 14
   },
   {
     "fandom": "18trip",
@@ -572,6 +572,14 @@
     "count": 12
   },
   {
+    "fandom": "Five Nights at Freddy's",
+    "count": 12
+  },
+  {
+    "fandom": "South Park",
+    "count": 12
+  },
+  {
     "fandom": "Utaite",
     "count": 12
   },
@@ -604,10 +612,6 @@
     "count": 11
   },
   {
-    "fandom": "Five Nights at Freddy's",
-    "count": 11
-  },
-  {
     "fandom": "Kimi ni Todoke",
     "count": 11
   },
@@ -625,10 +629,6 @@
   },
   {
     "fandom": "Dandy's World",
-    "count": 11
-  },
-  {
-    "fandom": "South Park",
     "count": 11
   },
   {
@@ -984,6 +984,10 @@
     "count": 6
   },
   {
+    "fandom": "Dead Plate",
+    "count": 6
+  },
+  {
     "fandom": "Monster High",
     "count": 6
   },
@@ -1129,10 +1133,6 @@
   },
   {
     "fandom": "Stranger Things",
-    "count": 5
-  },
-  {
-    "fandom": "Dead Plate",
     "count": 5
   },
   {
@@ -1548,6 +1548,10 @@
     "count": 3
   },
   {
+    "fandom": "Iron Lung",
+    "count": 3
+  },
+  {
     "fandom": "Red Dead Redemption 2",
     "count": 3
   },
@@ -1817,6 +1821,10 @@
   },
   {
     "fandom": "EarthBound",
+    "count": 2
+  },
+  {
+    "fandom": "Date Everything",
     "count": 2
   },
   {
@@ -2260,10 +2268,6 @@
     "count": 2
   },
   {
-    "fandom": "Iron Lung",
-    "count": 2
-  },
-  {
     "fandom": "Sol4ce",
     "count": 2
   },
@@ -2661,6 +2665,10 @@
   },
   {
     "fandom": "Megarex",
+    "count": 1
+  },
+  {
+    "fandom": "Rpg Horror Games",
     "count": 1
   },
   {
@@ -3993,10 +4001,6 @@
   },
   {
     "fandom": "Collinlock16",
-    "count": 1
-  },
-  {
-    "fandom": "Date Everything",
     "count": 1
   },
   {
