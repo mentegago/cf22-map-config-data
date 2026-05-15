@@ -1,11 +1,11 @@
 [
   {
     "fandom": "Original",
-    "count": 532
+    "count": 533
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 365
+    "count": 366
   },
   {
     "fandom": "Genshin Impact",
@@ -13,11 +13,11 @@
   },
   {
     "fandom": "Love and Deepspace",
-    "count": 207
+    "count": 208
   },
   {
     "fandom": "Uma Musume",
-    "count": 197
+    "count": 198
   },
   {
     "fandom": "Zenless Zone Zero",
@@ -41,7 +41,7 @@
   },
   {
     "fandom": "HoYoverse",
-    "count": 121
+    "count": 122
   },
   {
     "fandom": "Arknights",
@@ -268,6 +268,10 @@
     "count": 25
   },
   {
+    "fandom": "Needy Streamer Overload",
+    "count": 25
+  },
+  {
     "fandom": "Hunter x Hunter",
     "count": 24
   },
@@ -288,10 +292,6 @@
     "count": 24
   },
   {
-    "fandom": "Needy Streamer Overload",
-    "count": 24
-  },
-  {
     "fandom": "Gundam",
     "count": 23
   },
@@ -308,10 +308,6 @@
     "count": 23
   },
   {
-    "fandom": "Cookie Run: Kingdom",
-    "count": 23
-  },
-  {
     "fandom": "Monster Hunter",
     "count": 22
   },
@@ -325,6 +321,10 @@
   },
   {
     "fandom": "Minecraft",
+    "count": 22
+  },
+  {
+    "fandom": "Cookie Run: Kingdom",
     "count": 22
   },
   {
@@ -2973,6 +2973,10 @@
   },
   {
     "fandom": "Worker",
+    "count": 1
+  },
+  {
+    "fandom": "Amanda Brownies",
     "count": 1
   },
   {
