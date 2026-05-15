@@ -85,7 +85,8 @@
       "Original (fish)",
       "Original [onionholic Seiryuuden Topi5356 Dknrkg]",
       "Originals (frogs, Aliens, Cats, Crochet, Felt, Jewelry, Etc)",
-      "Oc (rabbits)"
+      "Oc (rabbits)",
+      "Original Character L"
     ]
   },
   {
@@ -414,7 +415,8 @@
       "Pokemon Sticker Sheet",
       "Pokemon Genshin Impact",
       "Game (love And Deepspace, Pokemon, Where Winds Meet, Umamusume)",
-      "General & Pokemon"
+      "General & Pokemon",
+      "- Pokemon"
     ]
   },
   {
@@ -836,7 +838,9 @@
       "Fate/Grand Order",
       "Fgo",
       "Fate Grand Order",
-      "Fate/grand: Order"
+      "Fate/grand: Order",
+      "Fate /go",
+      "Fate Grand Order/fgo"
     ]
   },
   {
@@ -2714,7 +2718,8 @@
       "Rpgmaker Games",
       "Rpgmaker",
       "Rpg Maker Games",
-      "Horror Rpgmaker"
+      "Horror Rpgmaker",
+      "Rpg Horror Games"
     ]
   },
   {
@@ -3174,7 +3179,8 @@
   {
     "canonical": "Suikoden",
     "variants": [
-      "Suikoden"
+      "Suikoden",
+      "Suikoden 2"
     ]
   },
   {
@@ -3940,7 +3946,10 @@
     "variants": [
       "TYPE-MOON",
       "Type-moon (neco Arc)",
-      "Type-moon (fate Series, Tsukihime, Mahoyo)"
+      "Type-moon (fate Series, Tsukihime, Mahoyo)",
+      "Type Moon",
+      "Tsukihime",
+      "Neco Arc"
     ]
   },
   {
@@ -6501,7 +6510,8 @@
       "Trickcal",
       "Original.trickal",
       "Trickcal:chibi Go",
-      "Original. Gacha. Trickcal"
+      "Original. Gacha. Trickcal",
+      "Trickcal Chibi-go"
     ]
   },
   {
@@ -8115,7 +8125,8 @@
   {
     "canonical": "Chappell Roan",
     "variants": [
-      "Chappell Roan"
+      "Chappell Roan",
+      "Chappel Roan"
     ]
   },
   {
@@ -8347,7 +8358,8 @@
   {
     "canonical": "You & I Are Polar Opposites",
     "variants": [
-      "You & I Are Polar Opposites"
+      "You & I Are Polar Opposites",
+      "Polar Opposites"
     ]
   },
   {
@@ -8720,6 +8732,36 @@
     "canonical": "Tamako Market",
     "variants": [
       "Tamako Market"
+    ]
+  },
+  {
+    "canonical": "Shakugan No Shana",
+    "variants": [
+      "Shakugan No Shana"
+    ]
+  },
+  {
+    "canonical": "Zero No Tsukaima",
+    "variants": [
+      "Zero No Tsukaima"
+    ]
+  },
+  {
+    "canonical": "Toradora",
+    "variants": [
+      "Toradora"
+    ]
+  },
+  {
+    "canonical": "Lady Gaga",
+    "variants": [
+      "Lady Gaga"
+    ]
+  },
+  {
+    "canonical": "Charli XCX",
+    "variants": [
+      "Charli XCX"
     ]
   }
 ]

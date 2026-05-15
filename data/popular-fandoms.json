@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 530
+    "count": 532
   },
   {
     "fandom": "Honkai Star Rail",
@@ -17,11 +17,11 @@
   },
   {
     "fandom": "Uma Musume",
-    "count": 196
+    "count": 197
   },
   {
     "fandom": "Zenless Zone Zero",
-    "count": 165
+    "count": 166
   },
   {
     "fandom": "Alien Stage",
@@ -73,7 +73,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 85
+    "count": 84
   },
   {
     "fandom": "Wuthering Waves",
@@ -85,7 +85,7 @@
   },
   {
     "fandom": "Chainsaw Man",
-    "count": 75
+    "count": 76
   },
   {
     "fandom": "DC Comics",
@@ -101,15 +101,15 @@
   },
   {
     "fandom": "Arknights: Endfield",
-    "count": 67
+    "count": 68
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
-    "count": 66
+    "count": 67
   },
   {
     "fandom": "NIJISANJI",
-    "count": 64
+    "count": 63
   },
   {
     "fandom": "Blue Archive",
@@ -136,16 +136,20 @@
     "count": 44
   },
   {
-    "fandom": "Anime",
-    "count": 43
-  },
-  {
     "fandom": "Reverse: 1999",
     "count": 43
   },
   {
-    "fandom": "Gachiakuta",
+    "fandom": "Anime",
     "count": 42
+  },
+  {
+    "fandom": "Resident Evil",
+    "count": 41
+  },
+  {
+    "fandom": "Gachiakuta",
+    "count": 41
   },
   {
     "fandom": "Blue Lock",
@@ -156,10 +160,6 @@
     "count": 41
   },
   {
-    "fandom": "Resident Evil",
-    "count": 40
-  },
-  {
     "fandom": "Identity V",
     "count": 40
   },
@@ -168,16 +168,16 @@
     "count": 40
   },
   {
-    "fandom": "Dispatch",
-    "count": 39
-  },
-  {
     "fandom": "Wind Breaker",
     "count": 38
   },
   {
-    "fandom": "Twisted Wonderland",
+    "fandom": "Dispatch",
     "count": 38
+  },
+  {
+    "fandom": "Twisted Wonderland",
+    "count": 37
   },
   {
     "fandom": "K-Pop: Demon Hunters",
@@ -185,7 +185,7 @@
   },
   {
     "fandom": "JoJo's Bizarre Adventure",
-    "count": 34
+    "count": 35
   },
   {
     "fandom": "Ensemble Stars!",
@@ -225,7 +225,7 @@
   },
   {
     "fandom": "Valorant",
-    "count": 28
+    "count": 29
   },
   {
     "fandom": "Hazbin Hotel",
@@ -233,6 +233,10 @@
   },
   {
     "fandom": "Puella Magi Madoka Magica",
+    "count": 27
+  },
+  {
+    "fandom": "Roblox",
     "count": 27
   },
   {
@@ -252,15 +256,15 @@
     "count": 26
   },
   {
-    "fandom": "Roblox",
-    "count": 26
-  },
-  {
     "fandom": "MCYT",
     "count": 26
   },
   {
     "fandom": "Hollow Knight",
+    "count": 25
+  },
+  {
+    "fandom": "Fate/Grand Order",
     "count": 25
   },
   {
@@ -300,10 +304,6 @@
     "count": 23
   },
   {
-    "fandom": "Fate/Grand Order",
-    "count": 23
-  },
-  {
     "fandom": "Stardew Valley",
     "count": 23
   },
@@ -340,6 +340,10 @@
     "count": 21
   },
   {
+    "fandom": "Spy x Family",
+    "count": 21
+  },
+  {
     "fandom": "The Guy She Was Interested In Wasn't a Guy at All",
     "count": 21
   },
@@ -353,10 +357,6 @@
   },
   {
     "fandom": "Naruto",
-    "count": 20
-  },
-  {
-    "fandom": "Spy x Family",
     "count": 20
   },
   {
@@ -616,6 +616,10 @@
     "count": 11
   },
   {
+    "fandom": "RPG Maker",
+    "count": 11
+  },
+  {
     "fandom": "Kimi ni Todoke",
     "count": 11
   },
@@ -664,19 +668,11 @@
     "count": 10
   },
   {
-    "fandom": "RPG Maker",
-    "count": 10
-  },
-  {
     "fandom": "Pretty Cure",
     "count": 10
   },
   {
     "fandom": "Mystic Messenger",
-    "count": 10
-  },
-  {
-    "fandom": "Hai, Miiko!",
     "count": 10
   },
   {
@@ -704,10 +700,6 @@
     "count": 9
   },
   {
-    "fandom": "Clair Obscur: Expedition 33",
-    "count": 9
-  },
-  {
     "fandom": "IDOLiSH7",
     "count": 9
   },
@@ -721,6 +713,14 @@
   },
   {
     "fandom": "Marvel Rivals",
+    "count": 9
+  },
+  {
+    "fandom": "Cats",
+    "count": 9
+  },
+  {
+    "fandom": "Hai, Miiko!",
     "count": 9
   },
   {
@@ -764,6 +764,10 @@
     "count": 8
   },
   {
+    "fandom": "Clair Obscur: Expedition 33",
+    "count": 8
+  },
+  {
     "fandom": "League of Legends",
     "count": 8
   },
@@ -797,10 +801,6 @@
   },
   {
     "fandom": "Pikmin",
-    "count": 8
-  },
-  {
-    "fandom": "Cats",
     "count": 8
   },
   {
@@ -1000,6 +1000,10 @@
     "count": 6
   },
   {
+    "fandom": "Trickcal",
+    "count": 6
+  },
+  {
     "fandom": "Kamisama Kiss",
     "count": 6
   },
@@ -1193,10 +1197,6 @@
   },
   {
     "fandom": "Shin Megami Tensei",
-    "count": 5
-  },
-  {
-    "fandom": "Trickcal",
     "count": 5
   },
   {
@@ -1454,6 +1454,10 @@
   {
     "fandom": "Manhwa",
     "count": 4
+  },
+  {
+    "fandom": "TYPE-MOON",
+    "count": 3
   },
   {
     "fandom": "Berserk",
@@ -1740,14 +1744,6 @@
     "count": 2
   },
   {
-    "fandom": "Type Moon",
-    "count": 2
-  },
-  {
-    "fandom": "TYPE-MOON",
-    "count": 2
-  },
-  {
     "fandom": "Drakengard",
     "count": 2
   },
@@ -1777,6 +1773,10 @@
   },
   {
     "fandom": "Totally Spies!",
+    "count": 2
+  },
+  {
+    "fandom": "You & I Are Polar Opposites",
     "count": 2
   },
   {
@@ -1921,6 +1921,18 @@
   },
   {
     "fandom": "Honor Of Kings",
+    "count": 2
+  },
+  {
+    "fandom": "Lucky Star",
+    "count": 2
+  },
+  {
+    "fandom": "Magical Princess Minky Momo",
+    "count": 2
+  },
+  {
+    "fandom": "Suikoden",
     "count": 2
   },
   {
@@ -2196,6 +2208,10 @@
     "count": 2
   },
   {
+    "fandom": "Chappell Roan",
+    "count": 2
+  },
+  {
     "fandom": "Natori",
     "count": 2
   },
@@ -2368,15 +2384,7 @@
     "count": 1
   },
   {
-    "fandom": "Neco Arc",
-    "count": 1
-  },
-  {
     "fandom": "Super Smash Bros.",
-    "count": 1
-  },
-  {
-    "fandom": "Tsukihime",
     "count": 1
   },
   {
@@ -2405,10 +2413,6 @@
   },
   {
     "fandom": "Izakaya Nobu",
-    "count": 1
-  },
-  {
-    "fandom": "Original Character L",
     "count": 1
   },
   {
@@ -2489,10 +2493,6 @@
   },
   {
     "fandom": "Winx Club",
-    "count": 1
-  },
-  {
-    "fandom": "Polar Opposites",
     "count": 1
   },
   {
@@ -2688,19 +2688,11 @@
     "count": 1
   },
   {
-    "fandom": "Rpg Horror Games",
-    "count": 1
-  },
-  {
     "fandom": "HEARTS2HEARTS",
     "count": 1
   },
   {
     "fandom": "Super Junior",
-    "count": 1
-  },
-  {
-    "fandom": "You & I Are Polar Opposites",
     "count": 1
   },
   {
@@ -2921,6 +2913,18 @@
   },
   {
     "fandom": "Kyou Kara Maou",
+    "count": 1
+  },
+  {
+    "fandom": "Shakugan No Shana",
+    "count": 1
+  },
+  {
+    "fandom": "Toradora",
+    "count": 1
+  },
+  {
+    "fandom": "Zero No Tsukaima",
     "count": 1
   },
   {
@@ -3372,10 +3376,6 @@
     "count": 1
   },
   {
-    "fandom": "Suikoden",
-    "count": 1
-  },
-  {
     "fandom": "Left 4 Dead",
     "count": 1
   },
@@ -3489,10 +3489,6 @@
   },
   {
     "fandom": "The Melancholy of Haruhi Suzumiya",
-    "count": 1
-  },
-  {
-    "fandom": "Fate /go",
     "count": 1
   },
   {
@@ -3720,15 +3716,7 @@
     "count": 1
   },
   {
-    "fandom": "- Pokemon",
-    "count": 1
-  },
-  {
-    "fandom": "Chappel Roan",
-    "count": 1
-  },
-  {
-    "fandom": "Charli Xcx",
+    "fandom": "Charli XCX",
     "count": 1
   },
   {
@@ -4172,10 +4160,6 @@
     "count": 1
   },
   {
-    "fandom": "Lucky Star",
-    "count": 1
-  },
-  {
     "fandom": "Countryballs",
     "count": 1
   },
@@ -4332,10 +4316,6 @@
     "count": 1
   },
   {
-    "fandom": "Chappell Roan",
-    "count": 1
-  },
-  {
     "fandom": "Yellowjackets",
     "count": 1
   },
@@ -4385,10 +4365,6 @@
   },
   {
     "fandom": "Di Gi Charat Nyo!",
-    "count": 1
-  },
-  {
-    "fandom": "Magical Princess Minky Momo",
     "count": 1
   },
   {
@@ -4493,10 +4469,6 @@
   },
   {
     "fandom": "RANFREN",
-    "count": 1
-  },
-  {
-    "fandom": "Code Lyoko",
     "count": 1
   },
   {
