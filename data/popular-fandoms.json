@@ -1,15 +1,15 @@
 [
   {
     "fandom": "Original",
-    "count": 527
+    "count": 529
   },
   {
     "fandom": "Honkai Star Rail",
-    "count": 366
+    "count": 365
   },
   {
     "fandom": "Genshin Impact",
-    "count": 350
+    "count": 351
   },
   {
     "fandom": "Love and Deepspace",
@@ -72,12 +72,12 @@
     "count": 89
   },
   {
-    "fandom": "Wuthering Waves",
-    "count": 83
+    "fandom": "Frieren: Beyond Journey's End",
+    "count": 84
   },
   {
-    "fandom": "Frieren: Beyond Journey's End",
-    "count": 82
+    "fandom": "Wuthering Waves",
+    "count": 83
   },
   {
     "fandom": "One Piece",
@@ -101,7 +101,7 @@
   },
   {
     "fandom": "Arknights: Endfield",
-    "count": 66
+    "count": 67
   },
   {
     "fandom": "Demon Slayer: Kimetsu no Yaiba",
@@ -113,15 +113,11 @@
   },
   {
     "fandom": "Blue Archive",
-    "count": 54
+    "count": 55
   },
   {
     "fandom": "Deltarune",
     "count": 50
-  },
-  {
-    "fandom": "Persona",
-    "count": 46
   },
   {
     "fandom": "Link Click",
@@ -129,6 +125,10 @@
   },
   {
     "fandom": "The Summer Hikaru Died",
+    "count": 45
+  },
+  {
+    "fandom": "Persona",
     "count": 45
   },
   {
@@ -272,6 +272,10 @@
     "count": 24
   },
   {
+    "fandom": "Neon Genesis Evangelion",
+    "count": 24
+  },
+  {
     "fandom": "Undertale",
     "count": 24
   },
@@ -285,10 +289,6 @@
   },
   {
     "fandom": "Gundam",
-    "count": 23
-  },
-  {
-    "fandom": "Neon Genesis Evangelion",
     "count": 23
   },
   {
@@ -312,6 +312,10 @@
     "count": 23
   },
   {
+    "fandom": "Monster Hunter",
+    "count": 22
+  },
+  {
     "fandom": "Adventure Time",
     "count": 22
   },
@@ -326,10 +330,6 @@
   {
     "fandom": "Formula 1",
     "count": 22
-  },
-  {
-    "fandom": "Monster Hunter",
-    "count": 21
   },
   {
     "fandom": "Bocchi the Rock!",
@@ -360,6 +360,10 @@
     "count": 20
   },
   {
+    "fandom": "Hatsune Miku",
+    "count": 19
+  },
+  {
     "fandom": "Silent Hill",
     "count": 19
   },
@@ -382,10 +386,6 @@
   {
     "fandom": "Holostars",
     "count": 19
-  },
-  {
-    "fandom": "Hatsune Miku",
-    "count": 18
   },
   {
     "fandom": "Crafts",
@@ -632,15 +632,15 @@
     "count": 11
   },
   {
+    "fandom": "Fate Series",
+    "count": 10
+  },
+  {
     "fandom": "Avatar: The Last Airbender",
     "count": 10
   },
   {
     "fandom": "BoBoiBoy",
-    "count": 10
-  },
-  {
-    "fandom": "Fate Series",
     "count": 10
   },
   {
@@ -768,10 +768,6 @@
     "count": 8
   },
   {
-    "fandom": "Metaphor: ReFantazio",
-    "count": 8
-  },
-  {
     "fandom": "Gakuen Idolmaster (Hatsuboshi Gakuen)",
     "count": 8
   },
@@ -880,6 +876,10 @@
     "count": 7
   },
   {
+    "fandom": "Metaphor: ReFantazio",
+    "count": 7
+  },
+  {
     "fandom": "Indie VTuber",
     "count": 7
   },
@@ -909,10 +909,6 @@
   },
   {
     "fandom": "Gravity Falls",
-    "count": 7
-  },
-  {
-    "fandom": "Ultraman",
     "count": 7
   },
   {
@@ -1020,7 +1016,7 @@
     "count": 6
   },
   {
-    "fandom": "Spider-Man",
+    "fandom": "Ultraman",
     "count": 6
   },
   {
@@ -1157,6 +1153,10 @@
   },
   {
     "fandom": "Western",
+    "count": 5
+  },
+  {
+    "fandom": "Spider-Man",
     "count": 5
   },
   {
@@ -1737,6 +1737,10 @@
   },
   {
     "fandom": "Blue Reflection",
+    "count": 2
+  },
+  {
+    "fandom": "Type Moon",
     "count": 2
   },
   {
@@ -2364,7 +2368,15 @@
     "count": 1
   },
   {
+    "fandom": "Neco Arc",
+    "count": 1
+  },
+  {
     "fandom": "Super Smash Bros.",
+    "count": 1
+  },
+  {
+    "fandom": "Tsukihime",
     "count": 1
   },
   {
@@ -2393,6 +2405,10 @@
   },
   {
     "fandom": "Izakaya Nobu",
+    "count": 1
+  },
+  {
+    "fandom": "Original Character L",
     "count": 1
   },
   {
@@ -2473,6 +2489,10 @@
   },
   {
     "fandom": "Winx Club",
+    "count": 1
+  },
+  {
+    "fandom": "Polar Opposites",
     "count": 1
   },
   {
@@ -3472,7 +3492,7 @@
     "count": 1
   },
   {
-    "fandom": "Mahoutsukai no Yoru",
+    "fandom": "Fate /go",
     "count": 1
   },
   {
@@ -3701,6 +3721,22 @@
   },
   {
     "fandom": "Scream",
+    "count": 1
+  },
+  {
+    "fandom": "- Pokemon",
+    "count": 1
+  },
+  {
+    "fandom": "Chappel Roan",
+    "count": 1
+  },
+  {
+    "fandom": "Charli Xcx",
+    "count": 1
+  },
+  {
+    "fandom": "Lady Gaga",
     "count": 1
   },
   {
