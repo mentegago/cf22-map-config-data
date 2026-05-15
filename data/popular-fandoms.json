@@ -1,7 +1,7 @@
 [
   {
     "fandom": "Original",
-    "count": 529
+    "count": 530
   },
   {
     "fandom": "Honkai Star Rail",
@@ -73,7 +73,7 @@
   },
   {
     "fandom": "Frieren: Beyond Journey's End",
-    "count": 84
+    "count": 85
   },
   {
     "fandom": "Wuthering Waves",
@@ -81,7 +81,7 @@
   },
   {
     "fandom": "One Piece",
-    "count": 79
+    "count": 78
   },
   {
     "fandom": "Chainsaw Man",
@@ -97,7 +97,7 @@
   },
   {
     "fandom": "Delicious in Dungeon",
-    "count": 68
+    "count": 69
   },
   {
     "fandom": "Arknights: Endfield",
@@ -128,12 +128,12 @@
     "count": 45
   },
   {
-    "fandom": "Persona",
+    "fandom": "K-pop",
     "count": 45
   },
   {
-    "fandom": "K-pop",
-    "count": 45
+    "fandom": "Persona",
+    "count": 44
   },
   {
     "fandom": "Anime",
@@ -240,6 +240,10 @@
     "count": 26
   },
   {
+    "fandom": "Nana",
+    "count": 26
+  },
+  {
     "fandom": "Detective Conan",
     "count": 26
   },
@@ -254,10 +258,6 @@
   {
     "fandom": "MCYT",
     "count": 26
-  },
-  {
-    "fandom": "Nana",
-    "count": 25
   },
   {
     "fandom": "Hollow Knight",
@@ -596,6 +596,10 @@
     "count": 12
   },
   {
+    "fandom": "Avatar: The Last Airbender",
+    "count": 11
+  },
+  {
     "fandom": "Cardcaptor Sakura",
     "count": 11
   },
@@ -633,10 +637,6 @@
   },
   {
     "fandom": "Fate Series",
-    "count": 10
-  },
-  {
-    "fandom": "Avatar: The Last Airbender",
     "count": 10
   },
   {
@@ -1092,6 +1092,10 @@
     "count": 5
   },
   {
+    "fandom": "Steven Universe",
+    "count": 5
+  },
+  {
     "fandom": "aespa",
     "count": 5
   },
@@ -1288,10 +1292,6 @@
     "count": 4
   },
   {
-    "fandom": "Steven Universe",
-    "count": 4
-  },
-  {
     "fandom": "Webtoon",
     "count": 4
   },
@@ -1357,6 +1357,10 @@
   },
   {
     "fandom": "Star Wars",
+    "count": 4
+  },
+  {
+    "fandom": "K-On!",
     "count": 4
   },
   {
@@ -1593,10 +1597,6 @@
   },
   {
     "fandom": "Military",
-    "count": 3
-  },
-  {
-    "fandom": "K-On!",
     "count": 3
   },
   {
@@ -3549,10 +3549,6 @@
   },
   {
     "fandom": "Love Of The S*n",
-    "count": 1
-  },
-  {
-    "fandom": "Fullmetal Alchemist: Brotherhood",
     "count": 1
   },
   {
