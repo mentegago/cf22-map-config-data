@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 123,
   "creators": [
     {
       "id": 7851,
@@ -32424,7 +32424,7 @@
         "NIJISANJI",
         "Obey Me!",
         "Ojamajo Doremi",
-        "Original (kucing, Meng, Japan Shrine, Food, Fruit)",
+        "Original",
         "Pancarona (Original Comic)",
         "Pop Team Epic",
         "Ranma 1/2",
@@ -47882,6 +47882,10 @@
       "day": "SUN",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/Kaito.kuro.kuso"
+        },
+        {
           "title": "Instagram",
           "url": "https://www.instagram.com/nanaufal77/"
         },
@@ -47891,18 +47895,18 @@
         }
       ],
       "raw_fandoms": [
-        "Hololive",
-        "Hollowknight",
-        "Silksong"
+        "Hololive"
       ],
       "fandoms": [
-        "Hollow Knight",
         "Hololive"
       ],
       "works_type": [
+        "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/314c982c-839d-4fac-ae29-4470bb49f61a/712eb250-9c43-4d21-9c40-fed24457b828/L-34b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blackhardt 3D Art.jpg",
       "circle_code": "L-34b (SUN)"
     },
