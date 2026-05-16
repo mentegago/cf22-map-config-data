@@ -25,7 +25,7 @@
   },
   {
     "fandom": "Alien Stage",
-    "count": 157
+    "count": 158
   },
   {
     "fandom": "Jujutsu Kaisen",
@@ -540,10 +540,6 @@
     "count": 13
   },
   {
-    "fandom": "Mouthwashing",
-    "count": 13
-  },
-  {
     "fandom": "Tomorrow X Together",
     "count": 13
   },
@@ -552,11 +548,11 @@
     "count": 13
   },
   {
-    "fandom": "Heartopia",
+    "fandom": "NU: Carnival",
     "count": 12
   },
   {
-    "fandom": "NU: Carnival",
+    "fandom": "Mouthwashing",
     "count": 12
   },
   {
@@ -597,6 +593,10 @@
   },
   {
     "fandom": "Avatar: The Last Airbender",
+    "count": 11
+  },
+  {
+    "fandom": "Heartopia",
     "count": 11
   },
   {
@@ -744,10 +744,6 @@
     "count": 9
   },
   {
-    "fandom": "Chiikawa",
-    "count": 8
-  },
-  {
     "fandom": "Castlevania",
     "count": 8
   },
@@ -846,6 +842,10 @@
   {
     "fandom": "Ave Mujica",
     "count": 8
+  },
+  {
+    "fandom": "Chiikawa",
+    "count": 7
   },
   {
     "fandom": "Banana Fish",
